@@ -1,0 +1,52 @@
+56. $|xy|<1\Leftrightarrow \left[\begin{array}{l}\begin{cases} x>0,\\ -\cfrac{1}{x}<y<\cfrac{1}{x}.\end{cases}\\
+\begin{cases} x<0,\\ \cfrac{1}{x}<y<-\cfrac{1}{x}.\end{cases}\\ x=0,\\ y=0.\end{array}
+ight.$
+$$\begin{tikzpicture}[scale=0.5]
+\tikzset {line01/.style={line width =0.5pt}}
+\begin{axis}[
+    axis lines = middle,
+    grid=major,
+    legend pos={south west},
+    xlabel = {$x$},
+    %xlabel style={below right},
+    ylabel = {$y$},
+    ymin=-5,
+    ymax=5,
+    xmin=-5,
+    xmax=5,
+    xtick={-5,-1,1,5},
+    xticklabels={-5,-1,1,5},
+    ytick={-1,1},
+    yticklabels={$ $,1},
+                  ]
+	\addplot[dashed,domain=-5:-0.01, samples=100, color=black] {1/x};
+    \addplot[dashed,domain=0.01:5, samples=100, color=black] {1/x};
+    \addplot[dashed,domain=-5:-0.01, samples=100, color=black] {-1/x};
+    \addplot[dashed,domain=0.01:5, samples=100, color=black] {-1/x};
+   % \addplot[domain=-3:3, samples=100, color=black] {-x};
+     %\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw[line01] (0,2.8) -- (6.8,2.8);
+\draw[line01] (0,2.9) -- (6.8,2.9);
+\draw[line01] (2.26,3.15) -- (4.54,3.15);
+\draw[line01] (2.8,3.4) -- (4.05,3.4);
+\draw[line01] (2.95,3.65) -- (3.85,3.65);
+\draw[line01] (3.1,3.9) -- (3.74,3.9);
+\draw[line01] (3.15,4.15) -- (3.7,4.15);
+\draw[line01] (3.2,4.4) -- (3.65,4.4);
+\draw[line01] (3.22,4.65) -- (3.63,4.65);
+\draw[line01] (3.22,4.9) -- (3.62,4.9);
+\draw[line01] (3.24,5.15) -- (3.61,5.15);
+\draw[line01] (3.26,5.4) -- (3.59,5.4);
+
+\draw[line01] (2.26,2.55) -- (4.54,2.55);
+\draw[line01] (2.8,2.3) -- (4.05,2.3);
+\draw[line01] (2.95,2.05) -- (3.85,2.05);
+\draw[line01] (3.1,1.8) -- (3.74,1.8);
+\draw[line01] (3.15,1.55) -- (3.7,1.55);
+\draw[line01] (3.2,1.3) -- (3.65,1.3);
+\draw[line01] (3.22,1.05) -- (3.63,1.05);
+\draw[line01] (3.22,0.8) -- (3.62,0.8);
+\draw[line01] (3.24,0.55) -- (3.61,0.55);
+\draw[line01] (3.26,0.3) -- (3.59,0.3);
+\end{tikzpicture}$$

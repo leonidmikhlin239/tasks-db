@@ -1,0 +1,24 @@
+61. Приведём пример одной из возможных кусочно-линейных функций и нарисуем её график:
+$$y=\begin{cases} 0,\ 0<x\leqslant\cfrac{1}{3},\\
+3x-1,\ \cfrac{1}{3}<x\leqslant\cfrac{2}{3},\\
+1,\ \cfrac{2}{3}<x<1.\end{cases}$$
+$$\begin{tikzpicture}[scale=0.4]
+\tikzset {line01/.style={line width =1pt}}
+\tikzset{line02/.style={line width =1pt}}
+\tikzset{line03/.style={dashed,line width =0.5pt}}
+%\filldraw [black] (0,0) circle (1pt);
+\draw [->] (-6,0) -- (10,0);
+\draw [->] (0,-6) -- (0,10);
+\draw[line01] (0,0) -- (1,0);
+\draw[line01] (1,0) -- (2,3);
+\draw[line01] (2,3) -- (3,3);
+\draw (3,-0.5) node {\tiny $1$};
+\draw (-0.5,3) node {\tiny $1$};
+\draw (0,0) circle (10pt);
+\draw (3,3) circle (10pt);
+\draw (10.2,0.7) node {\scriptsize $x$};
+\draw (-0.7,10.2) node {\scriptsize $y$};
+\draw[line03] (0,3) -- (3,3);
+\draw[line03] (3,0) -- (3,3);
+\end{tikzpicture}
+$$

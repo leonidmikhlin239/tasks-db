@@ -1,0 +1,19 @@
+52. $y=\cfrac{x^2}{x-1}-\cfrac{1}{x-1}=\cfrac{x^2-1}{x-1}=\cfrac{(x-1)(x+1)}{x-1}=x+1$ при условии $x
+eq1.$ Проведём прямую через точки $(-1;0)$ и $(0;1),$ не забыв выколоть точку $(1;2).$
+$$\begin{tikzpicture}[scale=0.6]
+\tikzset {line01/.style={line width =0.5pt}}
+\tikzset{line02/.style={line width =1pt}}
+\tikzset{line03/.style={dashed,line width =0.5pt}}
+\draw [->] (-3,0) -- (3,0);
+\draw [->] (0,-3) -- (0,3);
+\draw[line01] (-1.9,-0.9) -- (1.9,2.9);
+\draw[line03] (0,2) -- (1,2);
+\draw[line03] (1,0) -- (1,2);
+\draw (1,2) circle (3pt);
+\draw (-0.2,2) node {\tiny $2$};
+\draw (-0.2,1) node {\tiny $1$};
+\draw (1,-0.2) node {\tiny $1$};
+\draw (-1,-0.2) node {\tiny $-1$};
+\draw (3,0.25) node {\scriptsize $x$};
+\draw (0.25,3) node {\scriptsize $y$};
+\end{tikzpicture}$$

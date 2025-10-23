@@ -1,0 +1,29 @@
+35. Найдём точку пересечения прямых $y=x-7$ и $y=8x:\ x-7=8x,\ -7x=7,\ x=-1,\ y=8\cdot(-1)=-8.$ Найдём функцию $y=kx+b,$ график которой проходит через точки
+$(9;-18)$ и $(-1;-8):\ \begin{cases} -18=9k+b,\\ -8=(-1)k+b.\end{cases}\Leftrightarrow \begin{cases} -10=10k,\\ -8=(-1)k+b.\end{cases}
+\Leftrightarrow \begin{cases} k=-1,\\ b=-9.\end{cases}$ Построим прямую $y=-x-9$ по двум точкам $(-9;0)$ и $(0;-9).$
+$$\begin{tikzpicture}[scale=0.1]
+\tikzset {line01/.style={line width =0.5pt}}
+\tikzset{line02/.style={line width =1pt}}
+\tikzset{line03/.style={dashed,line width =0.5pt}}
+%\filldraw [black] (0,0) circle (1pt);
+\draw [->] (-20,0) -- (10,0);
+\draw [->] (0,-20) -- (0,10);
+\draw[line01] (-18,9) -- (6,-15);
+%\draw[line03] (-3,16) -- (0,16);
+%\draw[line03] (-3,16) -- (-3,0);
+%\draw[line03] (4,0) -- (4,-5);
+%\draw[line03] (0,-5) -- (4,-5);
+%\draw[line03] (-1,1) -- (0,1);
+%\draw[line03] (-1,0) -- (-1,1);
+%\draw[line01] (0,-3) -- (-2,5);
+%\draw (0.6,-4) node {\tiny $-4$};
+%\draw (-1.6,-0.7) node {\tiny $-1$};
+\draw (10.2,2) node {\scriptsize $x$};
+%\draw (-3,-1) node {\tiny $-3$};
+%\draw (4,1.5) node {\tiny $4$};
+\draw (-10.1,-1) node {\tiny $-9$};
+\draw (1.8,-9) node {\tiny $-9$};
+%\draw (1,7) node {\tiny $7$};
+%\draw (1.9,16) node {\tiny $16$};
+\draw (-1.5,10.2) node {\scriptsize $y$};
+\end{tikzpicture}$$

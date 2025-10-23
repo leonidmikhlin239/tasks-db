@@ -1,0 +1,28 @@
+5. $f(x)=\cfrac{|x^2-4x|}{x}+|-x|=\cfrac{|x||x-4|}{x}+|x|=\begin{cases} 2x-4,\ x\geqslant4,\\ 4,\ 0<x<4,\\ -4,\ x<0.\end{cases}$
+$$\begin{tikzpicture}[scale=0.2]
+\tikzset {line01/.style={line width =0.5pt}}
+\tikzset{line02/.style={line width =1pt}}
+\tikzset{line03/.style={dashed,line width =0.5pt}}
+%\filldraw [black] (0,0) circle (1pt);
+\draw [->] (-5,0) -- (11,0);
+\draw [->] (0,-8) -- (0,10);
+\draw[line01] (-5,-4) -- (0,-4);
+\draw[line01] (0,4) -- (4,4);
+\draw[line01] (4,4) -- (7,10);
+\draw[line03] (4,0) -- (4,4);
+\draw[line03] (5,0) -- (5,6);
+\draw[line03] (0,6) -- (5,6);
+%\draw[line03] (-1,3) -- (0,3);
+%\draw[line03] (1,-2) -- (0,-2);
+\draw (11.2,0.7) node {\scriptsize $x$};
+\draw (5,-1) node {\scriptsize $5$};
+\draw (1,-4) node {\scriptsize $-4$};
+\draw (-1,4) node {\scriptsize $4$};
+\draw (-1,6) node {\scriptsize $6$};
+%\draw (1,-0.7) node {\tiny $1$};
+\draw (4,-1) node {\scriptsize $4$};
+\draw (0.7,10.2) node {\scriptsize $y$};
+%\draw (1,2) circle (8pt);
+\draw (0,-4) circle (8pt);
+\draw (0,4) circle (8pt);
+\end{tikzpicture}$$

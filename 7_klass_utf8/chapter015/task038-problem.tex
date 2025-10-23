@@ -1,0 +1,21 @@
+38. Найдём точку пересечения прямых $y=2x-4$ и $y=8x-6:\ 2x-4=8x-6,\ -6x=-2,\ x=\cfrac{1}{3},\ y=2\cdot\left(\cfrac{1}{3}
+ight)-4=-\cfrac{10}{3}.$ Тогда необходимо построить график прямой $y=3\cdot\cfrac{1}{3}x-0,6\cdot \left(-\cfrac{10}{3}
+ight)=x+2.$ Построим его по двум точкам $(0;2)$ и $(-2;0).$
+$$\begin{tikzpicture}[scale=0.2]
+\tikzset {line01/.style={line width =0.5pt}}
+\tikzset{line02/.style={line width =1pt}}
+\tikzset{line03/.style={dashed,line width =0.5pt}}
+%\filldraw [black] (0,0) circle (1pt);
+\draw [->] (-10,0) -- (10,0);
+\draw [->] (0,-10) -- (0,10);
+\draw[line01] (6,8) -- (-8,-6);
+%\draw[line03] (-1,1) -- (0,1);
+%\draw[line03] (-1,0) -- (-1,1);
+%\draw[line01] (0,-3) -- (-2,5);
+%\draw (0.6,-4) node {\tiny $-4$};
+%\draw (-1.6,-0.7) node {\tiny $-1$};
+\draw (10.2,0.7) node {\scriptsize $x$};
+\draw (1,2) node {\tiny $2$};
+\draw (-2,-1) node {\tiny $-2$};
+\draw (0.7,10.2) node {\scriptsize $y$};
+\end{tikzpicture}$$

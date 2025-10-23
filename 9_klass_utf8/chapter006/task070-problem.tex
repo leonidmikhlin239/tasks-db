@@ -1,0 +1,24 @@
+71. Может ли парабола, приведённая на рисунке (абсцисса её вершины равна 2), быть графиком функции $y=a(x-1)(x-4),$ где $a
+eq0?$
+$$\begin{tikzpicture}[scale=1]
+\begin{axis}[
+    axis lines = middle,
+    legend pos={south west},
+    %xlabel = {$x$},
+    %xlabel style={below right},
+    %ylabel = {$y$},
+    %title={$\text{Рис. 2}$},
+    ymin=-3,
+    ymax=5.5,
+    xmin=-1,
+    xmax=6,
+    %xtick=\empty,
+	%ytick=\empty,
+    ]
+	\addplot[domain=-1:5, samples=100, color=black] {(2*x^2-8*x+5)};
+	%\addplot[domain=-5:1, samples=100, color=blue] {0.6*(x^2+4*x+2)};
+%\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw (1.2,5.7) node {\scriptsize $y$};
+\draw (7,2.2) node {\scriptsize $x$};
+\end{tikzpicture}$$

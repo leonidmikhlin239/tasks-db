@@ -1,0 +1,25 @@
+58. $y=(x^2-4)\left(\cfrac{1}{x-2}-\cfrac{1}{x+2}
+ight)-x=(x-2)(x+2)\cdot\cfrac{x+2-x+2}{(x-2)(x+2)}-x=4-x,$ при этом $x
+eq\pm2.$ Проведём прямую через точки $(0;4)$ и $(4;0),$ не забыв выколоть точки $(-2;6)$ и $(2;2).$
+$$\begin{tikzpicture}[scale=0.2]
+\tikzset {line01/.style={line width =0.5pt}}
+\tikzset{line02/.style={line width =1pt}}
+\tikzset{line03/.style={dashed,line width =0.5pt}}
+%\filldraw [black] (0,0) circle (1pt);
+\draw [->] (-10,0) -- (10,0);
+\draw [->] (0,-10) -- (0,10);
+\draw[line01] (-6,10) -- (8,-4);
+\draw (10.2,0.7) node {\scriptsize $x$};
+\draw (-2.5,-0.7) node {\scriptsize $-2$};
+\draw (2,-0.7) node {\scriptsize $2$};
+\draw (-0.7,2) node {\scriptsize $2$};
+\draw (0.7,6) node {\scriptsize $6$};
+%\draw (-5.5,-2) node {\scriptsize $-6$};
+\draw[line03] (-2,0) -- (-2,6);
+\draw[line03] (0,6) -- (-2,6);
+\draw[line03] (2,0) -- (2,2);
+\draw[line03] (0,2) -- (2,2);
+\draw (0.7,10.2) node {\scriptsize $y$};
+\draw (2,2) circle (10pt);
+\draw (-2,6) circle (10pt);
+\end{tikzpicture}$$

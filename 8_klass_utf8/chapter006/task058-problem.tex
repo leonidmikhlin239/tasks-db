@@ -1,0 +1,73 @@
+58. При каких значениях $k$ прямая $y=2x+3$ имеет с параболой $y=(x-k)^2$ хотя бы одну общую точку?
+
+ewpage
+
+oindent59. На одном из рисунков изображён график функции $f(x)=2(x-1)^4+1.$ Укажите на каком и обоснуйте свой выбор.\\
+\begin{tikzpicture}[scale=0.5]
+\begin{axis}[
+    axis lines = middle,
+    legend pos={south west},
+    %xlabel = {$x$},
+    %xlabel style={below right},
+    %ylabel = {$y$},
+    title={$\text{Рис. 1}$},
+    ymin=-0.5,
+    ymax=3.8
+               ]
+	\addplot[domain=-2:3, samples=100, color=black] {2*(x-1)^4+1};
+	%\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw (0.5,5.7) node {\tiny $y$};
+\draw (7,1) node {\tiny $x$};
+\end{tikzpicture}
+\begin{tikzpicture}[scale=0.5]
+\begin{axis}[
+    axis lines = middle,
+    legend pos={south west},
+    %xlabel = {$x$},
+    %xlabel style={below right},
+    %ylabel = {$y$},
+    title={$\text{Рис. 2}$},
+    ymin=-1.5,
+    ymax=3.8
+]
+	\addplot[domain=-0.5:3, samples=100, color=black] {4*(x-1)^2-1};
+	%\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw (0.5,5.7) node {\tiny $y$};
+\draw (7,2) node {\tiny $x$};
+\end{tikzpicture}
+\begin{tikzpicture}[scale=0.5]
+\begin{axis}[
+    axis lines = middle,
+    legend pos={south west},
+    %xlabel = {$x$},
+    %xlabel style={below right},
+    %ylabel = {$y$},
+    title={$\text{Рис. 3}$},
+    ymin=-0.5,
+    ymax=4.2
+]
+	\addplot[domain=-0.5:3, samples=100, color=black] {3*abs(x-1)+1};
+	%\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw (0.5,5.7) node {\tiny $y$};
+\draw (7,1) node {\tiny $x$};
+\end{tikzpicture}
+\begin{tikzpicture}[scale=0.5]
+\begin{axis}[
+    axis lines = middle,
+    legend pos={south west},
+    %xlabel = {$x$},
+    %xlabel style={below right},
+    %ylabel = {$y$},
+    title={$\text{Рис. 4}$},
+    ymin=-0.5,
+    ymax=4.2
+]
+	\addplot[domain=-0.5:7, samples=100, color=black] {(x^2-6*x)*0.2+3};
+	%\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw (1,5.7) node {\tiny $y$};
+\draw (7,1) node {\tiny $x$};
+\end{tikzpicture}\\
