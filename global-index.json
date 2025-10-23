@@ -20,9 +20,6 @@
           "last": 127,
           "comment": "Все вычисления этого раздела выполняются в столбик и не требуют дополнительных указаний, поэтому приведём к ним только ответы.\n$\\begin{array}{lllllllllll}"
         },
-        "tasks_total": 108,
-        "tasks_first": 1,
-        "tasks_last": 108,
         "tasks": [
           {
             "i": 1,
@@ -582,9 +579,6 @@
           "last": 48,
           "comment": null
         },
-        "tasks_total": 48,
-        "tasks_first": 1,
-        "tasks_last": 48,
         "tasks": [
           {
             "i": 1,
@@ -844,9 +838,6 @@
           "last": 80,
           "comment": null
         },
-        "tasks_total": 80,
-        "tasks_first": 1,
-        "tasks_last": 80,
         "tasks": [
           {
             "i": 1,
@@ -1266,9 +1257,6 @@
           "last": 341,
           "comment": null
         },
-        "tasks_total": 341,
-        "tasks_first": 1,
-        "tasks_last": 341,
         "tasks": [
           {
             "i": 1,
@@ -2993,9 +2981,6 @@
           "last": 338,
           "comment": null
         },
-        "tasks_total": 338,
-        "tasks_first": 1,
-        "tasks_last": 338,
         "tasks": [
           {
             "i": 1,
@@ -4705,9 +4690,6 @@
           "last": 120,
           "comment": null
         },
-        "tasks_total": 120,
-        "tasks_first": 1,
-        "tasks_last": 120,
         "tasks": [
           {
             "i": 1,
@@ -5327,9 +5309,6 @@
           "last": 396,
           "comment": null
         },
-        "tasks_total": 395,
-        "tasks_first": 1,
-        "tasks_last": 395,
         "tasks": [
           {
             "i": 1,
@@ -7308,16 +7287,7 @@
           }
         ]
       }
-    ],
-    "chapter_json_rels": {
-      "chapter001": "4_klass_utf8/chapter001/chapter.json",
-      "chapter002": "4_klass_utf8/chapter002/chapter.json",
-      "chapter003": "4_klass_utf8/chapter003/chapter.json",
-      "chapter004": "4_klass_utf8/chapter004/chapter.json",
-      "chapter005": "4_klass_utf8/chapter005/chapter.json",
-      "chapter006": "4_klass_utf8/chapter006/chapter.json",
-      "chapter007": "4_klass_utf8/chapter007/chapter.json"
-    }
+    ]
   },
   {
     "book": "7_klass_utf8",
@@ -7340,9 +7310,6 @@
           "last": 57,
           "comment": null
         },
-        "tasks_total": 57,
-        "tasks_first": 1,
-        "tasks_last": 57,
         "tasks": [
           {
             "i": 1,
@@ -7647,9 +7614,6 @@
           "last": 63,
           "comment": null
         },
-        "tasks_total": 63,
-        "tasks_first": 1,
-        "tasks_last": 63,
         "tasks": [
           {
             "i": 1,
@@ -7984,9 +7948,6 @@
           "last": 148,
           "comment": null
         },
-        "tasks_total": 148,
-        "tasks_first": 1,
-        "tasks_last": 148,
         "tasks": [
           {
             "i": 1,
@@ -8746,9 +8707,6 @@
           "last": 62,
           "comment": null
         },
-        "tasks_total": 62,
-        "tasks_first": 1,
-        "tasks_last": 62,
         "tasks": [
           {
             "i": 1,
@@ -9078,9 +9036,6 @@
           "last": 117,
           "comment": null
         },
-        "tasks_total": 117,
-        "tasks_first": 1,
-        "tasks_last": 117,
         "tasks": [
           {
             "i": 1,
@@ -9685,9 +9640,6 @@
           "last": 95,
           "comment": null
         },
-        "tasks_total": 95,
-        "tasks_first": 1,
-        "tasks_last": 95,
         "tasks": [
           {
             "i": 1,
@@ -10182,9 +10134,6 @@
           "last": 81,
           "comment": null
         },
-        "tasks_total": 81,
-        "tasks_first": 1,
-        "tasks_last": 81,
         "tasks": [
           {
             "i": 1,
@@ -10609,9 +10558,6 @@
           "last": 124,
           "comment": null
         },
-        "tasks_total": 132,
-        "tasks_first": 1,
-        "tasks_last": 132,
         "tasks": [
           {
             "i": 1,
@@ -11291,9 +11237,6 @@
           "last": 159,
           "comment": null
         },
-        "tasks_total": 159,
-        "tasks_first": 1,
-        "tasks_last": 159,
         "tasks": [
           {
             "i": 1,
@@ -12092,18 +12035,7 @@
           }
         ]
       }
-    ],
-    "chapter_json_rels": {
-      "chapter001": "7_klass_utf8/chapter001/chapter.json",
-      "chapter002": "7_klass_utf8/chapter002/chapter.json",
-      "chapter003": "7_klass_utf8/chapter003/chapter.json",
-      "chapter004": "7_klass_utf8/chapter004/chapter.json",
-      "chapter005": "7_klass_utf8/chapter005/chapter.json",
-      "chapter006": "7_klass_utf8/chapter006/chapter.json",
-      "chapter007": "7_klass_utf8/chapter007/chapter.json",
-      "chapter008": "7_klass_utf8/chapter008/chapter.json",
-      "chapter009": "7_klass_utf8/chapter009/chapter.json"
-    }
+    ]
   },
   {
     "book": "8_klass_utf8",
@@ -12126,9 +12058,6 @@
           "last": 94,
           "comment": null
         },
-        "tasks_total": 94,
-        "tasks_first": 1,
-        "tasks_last": 94,
         "tasks": [
           {
             "i": 1,
@@ -12618,9 +12547,6 @@
           "last": 105,
           "comment": null
         },
-        "tasks_total": 105,
-        "tasks_first": 1,
-        "tasks_last": 105,
         "tasks": [
           {
             "i": 1,
@@ -13165,9 +13091,6 @@
           "last": 125,
           "comment": null
         },
-        "tasks_total": 125,
-        "tasks_first": 1,
-        "tasks_last": 125,
         "tasks": [
           {
             "i": 1,
@@ -13812,9 +13735,6 @@
           "last": 101,
           "comment": null
         },
-        "tasks_total": 101,
-        "tasks_first": 1,
-        "tasks_last": 101,
         "tasks": [
           {
             "i": 1,
@@ -14339,9 +14259,6 @@
           "last": 147,
           "comment": null
         },
-        "tasks_total": 147,
-        "tasks_first": 1,
-        "tasks_last": 147,
         "tasks": [
           {
             "i": 1,
@@ -15096,9 +15013,6 @@
           "last": 116,
           "comment": null
         },
-        "tasks_total": 116,
-        "tasks_first": 1,
-        "tasks_last": 116,
         "tasks": [
           {
             "i": 1,
@@ -15698,9 +15612,6 @@
           "last": 88,
           "comment": null
         },
-        "tasks_total": 88,
-        "tasks_first": 1,
-        "tasks_last": 88,
         "tasks": [
           {
             "i": 1,
@@ -16160,9 +16071,6 @@
           "last": 102,
           "comment": null
         },
-        "tasks_total": 110,
-        "tasks_first": 1,
-        "tasks_last": 110,
         "tasks": [
           {
             "i": 1,
@@ -16732,9 +16640,6 @@
           "last": 253,
           "comment": null
         },
-        "tasks_total": 253,
-        "tasks_first": 1,
-        "tasks_last": 253,
         "tasks": [
           {
             "i": 1,
@@ -18003,18 +17908,7 @@
           }
         ]
       }
-    ],
-    "chapter_json_rels": {
-      "chapter001": "8_klass_utf8/chapter001/chapter.json",
-      "chapter002": "8_klass_utf8/chapter002/chapter.json",
-      "chapter003": "8_klass_utf8/chapter003/chapter.json",
-      "chapter004": "8_klass_utf8/chapter004/chapter.json",
-      "chapter005": "8_klass_utf8/chapter005/chapter.json",
-      "chapter006": "8_klass_utf8/chapter006/chapter.json",
-      "chapter007": "8_klass_utf8/chapter007/chapter.json",
-      "chapter008": "8_klass_utf8/chapter008/chapter.json",
-      "chapter009": "8_klass_utf8/chapter009/chapter.json"
-    }
+    ]
   },
   {
     "book": "9_klass_utf8",
@@ -18037,9 +17931,6 @@
           "last": 53,
           "comment": null
         },
-        "tasks_total": 53,
-        "tasks_first": 1,
-        "tasks_last": 53,
         "tasks": [
           {
             "i": 1,
@@ -18324,9 +18215,6 @@
           "last": 53,
           "comment": null
         },
-        "tasks_total": 53,
-        "tasks_first": 1,
-        "tasks_last": 53,
         "tasks": [
           {
             "i": 1,
@@ -18611,9 +18499,6 @@
           "last": 145,
           "comment": null
         },
-        "tasks_total": 145,
-        "tasks_first": 1,
-        "tasks_last": 145,
         "tasks": [
           {
             "i": 1,
@@ -19358,9 +19243,6 @@
           "last": 95,
           "comment": null
         },
-        "tasks_total": 95,
-        "tasks_first": 1,
-        "tasks_last": 95,
         "tasks": [
           {
             "i": 1,
@@ -19855,9 +19737,6 @@
           "last": 94,
           "comment": null
         },
-        "tasks_total": 94,
-        "tasks_first": 1,
-        "tasks_last": 94,
         "tasks": [
           {
             "i": 1,
@@ -20347,9 +20226,6 @@
           "last": 101,
           "comment": null
         },
-        "tasks_total": 101,
-        "tasks_first": 1,
-        "tasks_last": 101,
         "tasks": [
           {
             "i": 1,
@@ -20874,9 +20750,6 @@
           "last": 49,
           "comment": null
         },
-        "tasks_total": 49,
-        "tasks_first": 1,
-        "tasks_last": 49,
         "tasks": [
           {
             "i": 1,
@@ -21141,9 +21014,6 @@
           "last": 31,
           "comment": null
         },
-        "tasks_total": 31,
-        "tasks_first": 1,
-        "tasks_last": 31,
         "tasks": [
           {
             "i": 1,
@@ -21318,9 +21188,6 @@
           "last": 59,
           "comment": null
         },
-        "tasks_total": 59,
-        "tasks_first": 1,
-        "tasks_last": 59,
         "tasks": [
           {
             "i": 1,
@@ -21635,9 +21502,6 @@
           "last": 45,
           "comment": null
         },
-        "tasks_total": 45,
-        "tasks_first": 1,
-        "tasks_last": 45,
         "tasks": [
           {
             "i": 1,
@@ -21882,9 +21746,6 @@
           "last": 215,
           "comment": null
         },
-        "tasks_total": 215,
-        "tasks_first": 1,
-        "tasks_last": 215,
         "tasks": [
           {
             "i": 1,
@@ -22963,19 +22824,6 @@
           }
         ]
       }
-    ],
-    "chapter_json_rels": {
-      "chapter001": "9_klass_utf8/chapter001/chapter.json",
-      "chapter002": "9_klass_utf8/chapter002/chapter.json",
-      "chapter003": "9_klass_utf8/chapter003/chapter.json",
-      "chapter004": "9_klass_utf8/chapter004/chapter.json",
-      "chapter005": "9_klass_utf8/chapter005/chapter.json",
-      "chapter006": "9_klass_utf8/chapter006/chapter.json",
-      "chapter007": "9_klass_utf8/chapter007/chapter.json",
-      "chapter008": "9_klass_utf8/chapter008/chapter.json",
-      "chapter009": "9_klass_utf8/chapter009/chapter.json",
-      "chapter010": "9_klass_utf8/chapter010/chapter.json",
-      "chapter011": "9_klass_utf8/chapter011/chapter.json"
-    }
+    ]
   }
 ]

@@ -2,22 +2,22 @@
   {
     "i": 1,
     "problem": "1.\\ \\cfrac{(x^2-4x+3)(x-3)(x^2+2x+3)}{(x^2+x-20)(x+2)^2}\\geqslant0,&\n",
-    "solution": "1. $\\cfrac{(x^2-4x+3)(x-3)(x^2+2x+3)}{(x^2+x-20)(x+2)^2}\\geqslant0 \\Leftrightarrow \\cfrac{(x-1)(x-3)^2((x+1)^2+2)}{(x-4)(x+5)(x+2)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-5;-2)\\cup(-2;1]\\cup\\{3\\}\\cup(4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-1.png}}\n\\end{figure}\\\\\n"
+    "solution": "1. $\\cfrac{(x^2-4x+3)(x-3)(x^2+2x+3)}{(x^2+x-20)(x+2)^2}\\geqslant0 \\Leftrightarrow \\cfrac{(x-1)(x-3)^2((x+1)^2+2)}{(x-4)(x+5)(x+2)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-5;-2)\\cup(-2;1]\\cup\\{3\\}\\cup(4;+\\infty).$\n{{PIC:ner9-1.png}}\\\\\n"
   },
   {
     "i": 2,
     "problem": "2.\\ \\cfrac{(x^2-8x+15)(x-5)(x^2-2x+3)}{(x^2-3x-18)(x+1)^2}\\geqslant0,\\\\\n",
-    "solution": "2. $\\cfrac{(x^2-8x+15)(x-5)(x^2-2x+3)}{(x^2-3x-18)(x+1)^2}\\geqslant0\\Leftrightarrow\\cfrac{(x-3)(x-5)^2((x-1)^2+2)}{(x-6)(x+3)(x+1)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-3;-1)\\cup(-1;3]\\cup\\{5\\}\\cup(6;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-2.png}}\n\\end{figure}\\\\\n"
+    "solution": "2. $\\cfrac{(x^2-8x+15)(x-5)(x^2-2x+3)}{(x^2-3x-18)(x+1)^2}\\geqslant0\\Leftrightarrow\\cfrac{(x-3)(x-5)^2((x-1)^2+2)}{(x-6)(x+3)(x+1)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-3;-1)\\cup(-1;3]\\cup\\{5\\}\\cup(6;+\\infty).$\n{{PIC:ner9-2.png}}\\\\\n"
   },
   {
     "i": 3,
     "problem": "3.\\ \\cfrac{x(x^2+2)(2-x)(x^3-64)}{(x^2-16)(x+2)^2}\\leqslant 0,&\n",
-    "solution": "3. $\\cfrac{x(x^2+2)(2-x)(x^3-64)}{(x^2-16)(x+2)^2}\\leqslant 0 \\Leftrightarrow \\cfrac{x(2-x)(x-4)(x^2+4x+16)}{(x-4)(x+4)(x+2)^2}\\leqslant 0.$ Применив метод интервалов, найдём ответ: $x\\in(-4;-2)\\cup(-2;0]\\cup[2;4)\\cup(4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-3.png}}\n\\end{figure}\\\\\n"
+    "solution": "3. $\\cfrac{x(x^2+2)(2-x)(x^3-64)}{(x^2-16)(x+2)^2}\\leqslant 0 \\Leftrightarrow \\cfrac{x(2-x)(x-4)(x^2+4x+16)}{(x-4)(x+4)(x+2)^2}\\leqslant 0.$ Применив метод интервалов, найдём ответ: $x\\in(-4;-2)\\cup(-2;0]\\cup[2;4)\\cup(4;+\\infty).$\n{{PIC:ner9-3.png}}\\\\\n"
   },
   {
     "i": 4,
     "problem": "4.\\ \\cfrac{x(x^2+3)(3-x)(x^3-8)}{(x^2-4)(x+3)^2}\\leqslant 0,\\\\\n",
-    "solution": "4. $\\cfrac{x(x^2+3)(3-x)(x^3-8)}{(x^2-4)(x+3)^2}\\leqslant 0 \\Leftrightarrow \\cfrac{x(3-x)(x-2)(x^2+2x+4)}{(x-2)(x+2)(x+3)^2}\\leqslant 0.$ Применив метод интервалов, найдём ответ: $x\\in(-2;0]\\cup[3;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-4.png}}\n\\end{figure}\\\\\n"
+    "solution": "4. $\\cfrac{x(x^2+3)(3-x)(x^3-8)}{(x^2-4)(x+3)^2}\\leqslant 0 \\Leftrightarrow \\cfrac{x(3-x)(x-2)(x^2+2x+4)}{(x-2)(x+2)(x+3)^2}\\leqslant 0.$ Применив метод интервалов, найдём ответ: $x\\in(-2;0]\\cup[3;+\\infty).$\n{{PIC:ner9-4.png}}\\\\\n"
   },
   {
     "i": 5,
@@ -42,12 +42,12 @@
   {
     "i": 9,
     "problem": "9.\\ \\cfrac{(x-2)(x-3)}{(x-1)^2}\\geqslant0,&\n",
-    "solution": "9. $\\cfrac{(x-2)(x-3)}{(x-1)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;1)\\cup(1;2]\\cup[3;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-9.png}}\n\\end{figure}\\\\\n"
+    "solution": "9. $\\cfrac{(x-2)(x-3)}{(x-1)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;1)\\cup(1;2]\\cup[3;+\\infty).$\n{{PIC:ner9-9.png}}\\\\\n"
   },
   {
     "i": 10,
     "problem": "10.\\ \\cfrac{(x+2)(x+3)}{(x+1)^2}\\geqslant0,\\\\\n",
-    "solution": "10. $\\cfrac{(x+2)(x+3)}{(x+1)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-3]\\cup[-2;-1)\\cup(-1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-10.png}}\n\\end{figure}\\\\\n"
+    "solution": "10. $\\cfrac{(x+2)(x+3)}{(x+1)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-3]\\cup[-2;-1)\\cup(-1;+\\infty).$\n{{PIC:ner9-10.png}}\\\\\n"
   },
   {
     "i": 11,
@@ -62,7 +62,7 @@
   {
     "i": 13,
     "problem": "13.\\ \\cfrac{(x+1)(x+2)}{x^2+7x+12}\\leqslant1,&\n",
-    "solution": "13. $\\cfrac{(x+1)(x+2)}{x^2+7x+12}\\leqslant1 \\Leftrightarrow \\cfrac{x^2+2x+x+2-x^2-7x-12}{x^2+7x+12}\\leqslant0 \\Leftrightarrow\n\\cfrac{-4\\left(x+\\cfrac{5}{2}\\right)}{(x+4)(x+3)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-4;-3)\\cup\\left[-\\cfrac{5}{2};+\\infty\\right)$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-13.png}}\n\\end{figure}\\\\\n"
+    "solution": "13. $\\cfrac{(x+1)(x+2)}{x^2+7x+12}\\leqslant1 \\Leftrightarrow \\cfrac{x^2+2x+x+2-x^2-7x-12}{x^2+7x+12}\\leqslant0 \\Leftrightarrow\n\\cfrac{-4\\left(x+\\cfrac{5}{2}\\right)}{(x+4)(x+3)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-4;-3)\\cup\\left[-\\cfrac{5}{2};+\\infty\\right)$\n{{PIC:ner9-13.png}}\\\\\n"
   },
   {
     "i": 14,
@@ -82,7 +82,7 @@
   {
     "i": 17,
     "problem": "17.\\ \\cfrac{2x^2+3x-13}{(x+3)(x-2)}>2,&\n",
-    "solution": "17. $\\cfrac{2x^2+3x-13}{(x+3)(x-2)}>2\\Leftrightarrow\\cfrac{2x^2+3x-13-2x^2+4x-6x+12}{(x+3)(x-2)}>0\\Leftrightarrow \\cfrac{x-1}{(x+3)(x-2)}>0.$\nПрименив метод интервалов, найдём ответ: $x\\in(-3;1)\\cup(2;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-17.png}}\n\\end{figure}\\\\\n"
+    "solution": "17. $\\cfrac{2x^2+3x-13}{(x+3)(x-2)}>2\\Leftrightarrow\\cfrac{2x^2+3x-13-2x^2+4x-6x+12}{(x+3)(x-2)}>0\\Leftrightarrow \\cfrac{x-1}{(x+3)(x-2)}>0.$\nПрименив метод интервалов, найдём ответ: $x\\in(-3;1)\\cup(2;+\\infty).$\n{{PIC:ner9-17.png}}\\\\\n"
   },
   {
     "i": 18,
@@ -97,7 +97,7 @@
   {
     "i": 20,
     "problem": "20.\\ \\cfrac{(x-1)(x-2)}{x^2+7x+12}\\leqslant1,\\\\\n",
-    "solution": "20. $\\cfrac{(x-1)(x-2)}{x^2+7x+12}\\leqslant1\\Leftrightarrow \\cfrac{x^2-2x-x+2-x^2-7x-12}{x^2+7x+12}\\leqslant0\n\\Leftrightarrow \\cfrac{-10(x+1)}{(x+3)(x+4)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-4;-3)\\cup[-1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-20.png}}\n\\end{figure}\\\\\n"
+    "solution": "20. $\\cfrac{(x-1)(x-2)}{x^2+7x+12}\\leqslant1\\Leftrightarrow \\cfrac{x^2-2x-x+2-x^2-7x-12}{x^2+7x+12}\\leqslant0\n\\Leftrightarrow \\cfrac{-10(x+1)}{(x+3)(x+4)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-4;-3)\\cup[-1;+\\infty).$\n{{PIC:ner9-20.png}}\\\\\n"
   },
   {
     "i": 21,
@@ -117,22 +117,22 @@
   {
     "i": 24,
     "problem": "24.\\ \\cfrac{x^2+9x+20}{(2x-x^2-1)(3x^2+x+2)}\\leqslant0,\\\\\n",
-    "solution": "24. $\\cfrac{x^2+9x+20}{(2x-x^2-1)(3x^2+x+2)}\\leqslant0\\Leftrightarrow \\cfrac{(x+4)(x+5)}{-(x-1)^2\\left(\\left(x+\\cfrac{1}{2}\\right)^2+2x^2+\\cfrac{3}{4}\\right)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-5]\\cup[-4;1)\\cup(1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-24.png}}\n\\end{figure}\\newpage\\noindent\n"
+    "solution": "24. $\\cfrac{x^2+9x+20}{(2x-x^2-1)(3x^2+x+2)}\\leqslant0\\Leftrightarrow \\cfrac{(x+4)(x+5)}{-(x-1)^2\\left(\\left(x+\\cfrac{1}{2}\\right)^2+2x^2+\\cfrac{3}{4}\\right)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-5]\\cup[-4;1)\\cup(1;+\\infty).$\n{{PIC:ner9-24.png}}\\newpage\\noindent\n"
   },
   {
     "i": 25,
     "problem": "25.\\ \\cfrac{(2x^2+x+1)(6x-x^2-9)}{x^2+8x+15}\\geqslant0,&\n",
-    "solution": "25. $\\cfrac{(2x^2+x+1)(6x-x^2-9)}{x^2+8x+15}\\geqslant0\\Leftrightarrow \\cfrac{-\\left(\\left(x+\\cfrac{1}{2}\\right)+x^2+\\cfrac{3}{4}\\right)(x-3)^2}{(x+3)(x+5)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-5;-3)\\cup\\{3\\}.$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-25.png}}\n\\end{figure}\\\\\n"
+    "solution": "25. $\\cfrac{(2x^2+x+1)(6x-x^2-9)}{x^2+8x+15}\\geqslant0\\Leftrightarrow \\cfrac{-\\left(\\left(x+\\cfrac{1}{2}\\right)+x^2+\\cfrac{3}{4}\\right)(x-3)^2}{(x+3)(x+5)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-5;-3)\\cup\\{3\\}.$\n{{PIC:ner9-25.png}}\\\\\n"
   },
   {
     "i": 26,
     "problem": "26.\\ \\cfrac{(x^2-2x-8)(x^2-4x)}{x^2+7x+10}>0,\\\\\n",
-    "solution": "26. $\\cfrac{(x^2-2x-8)(x^2-4x)}{x^2+7x+10}>0\\Leftrightarrow\\cfrac{x(x-4)^2(x+2)}{(x+2)(x+5)}>0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-5)\\cup(0;4)\\cup(4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-26.png}}\n\\end{figure}\\\\\n"
+    "solution": "26. $\\cfrac{(x^2-2x-8)(x^2-4x)}{x^2+7x+10}>0\\Leftrightarrow\\cfrac{x(x-4)^2(x+2)}{(x+2)(x+5)}>0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-5)\\cup(0;4)\\cup(4;+\\infty).$\n{{PIC:ner9-26.png}}\\\\\n"
   },
   {
     "i": 27,
     "problem": "27.\\ \\cfrac{(x^2-6x+8)(x^2-4)}{x^3+8}\\geqslant0,&\n",
-    "solution": "27. $\\cfrac{(x^2-6x+8)(x^2-4)}{x^3+8}\\geqslant0\\Leftrightarrow \\cfrac{(x-4)(x-2)^2(x+2)}{(x+2)(x^2-2x+4)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{2\\}\\cup[4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-27.png}}\n\\end{figure}\\\\\n"
+    "solution": "27. $\\cfrac{(x^2-6x+8)(x^2-4)}{x^3+8}\\geqslant0\\Leftrightarrow \\cfrac{(x-4)(x-2)^2(x+2)}{(x+2)(x^2-2x+4)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{2\\}\\cup[4;+\\infty).$\n{{PIC:ner9-27.png}}\\\\\n"
   },
   {
     "i": 28,
@@ -147,22 +147,22 @@
   {
     "i": 30,
     "problem": "30.\\ \\cfrac{(x^2-4x+4)(9-x^2)}{x^2+8x+16}\\leqslant0,\\\\\n",
-    "solution": "30. $\\cfrac{(x^2-4x+4)(9-x^2)}{x^2+8x+16}\\leqslant0\\Leftrightarrow\\cfrac{-(x-2)^2(x-3)(x+3)}{(x+4)^2}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-4)\\cup(-4;-3]\\cup\\{2\\}\\cup[3;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-30.png}}\n\\end{figure}\\\\\n"
+    "solution": "30. $\\cfrac{(x^2-4x+4)(9-x^2)}{x^2+8x+16}\\leqslant0\\Leftrightarrow\\cfrac{-(x-2)^2(x-3)(x+3)}{(x+4)^2}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-4)\\cup(-4;-3]\\cup\\{2\\}\\cup[3;+\\infty).$\n{{PIC:ner9-30.png}}\\\\\n"
   },
   {
     "i": 31,
     "problem": "31.\\ \\cfrac{(x^2+14x+49)(16-x^2)}{x^2-6x+9}\\geqslant0,&\n",
-    "solution": "31. $\\cfrac{(x^2+14x+49)(16-x^2)}{x^2-6x+9}\\geqslant0\\Leftrightarrow\\cfrac{-(x+7)^2(x-4)(x+4)}{(x-3)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n\\{-7\\}\\cup[-4;3)\\cup(3;4].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-31.png}}\n\\end{figure}\\\\\n"
+    "solution": "31. $\\cfrac{(x^2+14x+49)(16-x^2)}{x^2-6x+9}\\geqslant0\\Leftrightarrow\\cfrac{-(x+7)^2(x-4)(x+4)}{(x-3)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n\\{-7\\}\\cup[-4;3)\\cup(3;4].$\n{{PIC:ner9-31.png}}\\\\\n"
   },
   {
     "i": 32,
     "problem": "32.\\ \\cfrac{(1-x^2)(x-1)^2(x+1)^3}{x^6+x^4+x^2}\\leqslant0,\\\\\n",
-    "solution": "32. $\\cfrac{(1-x^2)(x-1)^2(x+1)^3}{x^6+x^4+x^2}\\leqslant0\\Leftrightarrow\\cfrac{-(x-1)^3(x+1)^4}{x^2(x^4+x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-1\\}\\cup[1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-32.png}}\n\\end{figure}\\\\\n"
+    "solution": "32. $\\cfrac{(1-x^2)(x-1)^2(x+1)^3}{x^6+x^4+x^2}\\leqslant0\\Leftrightarrow\\cfrac{-(x-1)^3(x+1)^4}{x^2(x^4+x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-1\\}\\cup[1;+\\infty).$\n{{PIC:ner9-32.png}}\\\\\n"
   },
   {
     "i": 33,
     "problem": "33.\\ \\cfrac{(-1+x^2)(1-x)^2(x+1)^3}{x^8-x^6+x^4}\\leqslant0,&\n",
-    "solution": "33. $\\cfrac{(-1+x^2)(1-x)^2(x+1)^3}{x^8-x^6+x^4}\\leqslant0\\Leftrightarrow\\cfrac{(x-1)^3(x+1)^4}{x^4(x^4-x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;0)\\cup(0;1].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-33.png}}\n\\end{figure}\\\\\n"
+    "solution": "33. $\\cfrac{(-1+x^2)(1-x)^2(x+1)^3}{x^8-x^6+x^4}\\leqslant0\\Leftrightarrow\\cfrac{(x-1)^3(x+1)^4}{x^4(x^4-x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;0)\\cup(0;1].$\n{{PIC:ner9-33.png}}\\\\\n"
   },
   {
     "i": 34,
@@ -177,12 +177,12 @@
   {
     "i": 36,
     "problem": "36.\\ \\cfrac{(x+1)\\sqrt{-x^2-10x+11}}{x^2+x-12}\\geqslant0,\\\\\n",
-    "solution": "36. $\\cfrac{(x+1)\\sqrt{-x^2-10x+11}}{x^2+x-12}\\geqslant0\\Leftrightarrow \\cfrac{(x+1)\\sqrt{-(x+11)(x-1)}}{(x+4)(x-3)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-11;1\\}\\cup(-4;-1].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-36.png}}\n\\end{figure}\\\\\n"
+    "solution": "36. $\\cfrac{(x+1)\\sqrt{-x^2-10x+11}}{x^2+x-12}\\geqslant0\\Leftrightarrow \\cfrac{(x+1)\\sqrt{-(x+11)(x-1)}}{(x+4)(x-3)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-11;1\\}\\cup(-4;-1].$\n{{PIC:ner9-36.png}}\\\\\n"
   },
   {
     "i": 37,
     "problem": "37.\\ \\cfrac{(x+2)\\sqrt{-x^2-10x+11}}{x^2+x-12}\\geqslant0,&\n",
-    "solution": "37. $\\cfrac{(x+2)\\sqrt{-x^2-10x+11}}{x^2+x-12}\\geqslant0\\Leftrightarrow\\cfrac{(x+2)\\sqrt{-(x+11)(x-1)}}{(x+4)(x-3)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-11;1\\}\\cup(-4;-2].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-37.png}}\n\\end{figure}\\\\\n"
+    "solution": "37. $\\cfrac{(x+2)\\sqrt{-x^2-10x+11}}{x^2+x-12}\\geqslant0\\Leftrightarrow\\cfrac{(x+2)\\sqrt{-(x+11)(x-1)}}{(x+4)(x-3)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-11;1\\}\\cup(-4;-2].$\n{{PIC:ner9-37.png}}\\\\\n"
   },
   {
     "i": 38,
@@ -197,32 +197,32 @@
   {
     "i": 40,
     "problem": "40.\\ \\cfrac{x^2-4x+3}{2x-3}\\leqslant\\cfrac{x^2-4x+3}{x-2},\\\\\n",
-    "solution": "40. $\\cfrac{x^2-4x+3}{2x-3}\\leqslant\\cfrac{x^2-4x+3}{x-2}\\Leftrightarrow (x^2-4x+3)\\left(\\cfrac{1}{2x-3}-\\cfrac{1}{x-2}\\right)\\leqslant0\n\\Leftrightarrow (x^2-4x+3)\\cdot\\cfrac{x-2-2x+3}{(2x-3)(x-2)}\\leqslant0\\Leftrightarrow\\cfrac{-(x-3)(x-1)^2}{(2x-3)(x-2)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{1\\}\\cup\\left(\\cfrac{3}{2};2\\right)\\cup[3;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-40.png}}\n\\end{figure}\\newpage\\noindent\n"
+    "solution": "40. $\\cfrac{x^2-4x+3}{2x-3}\\leqslant\\cfrac{x^2-4x+3}{x-2}\\Leftrightarrow (x^2-4x+3)\\left(\\cfrac{1}{2x-3}-\\cfrac{1}{x-2}\\right)\\leqslant0\n\\Leftrightarrow (x^2-4x+3)\\cdot\\cfrac{x-2-2x+3}{(2x-3)(x-2)}\\leqslant0\\Leftrightarrow\\cfrac{-(x-3)(x-1)^2}{(2x-3)(x-2)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{1\\}\\cup\\left(\\cfrac{3}{2};2\\right)\\cup[3;+\\infty).$\n{{PIC:ner9-40.png}}\\newpage\\noindent\n"
   },
   {
     "i": 41,
     "problem": "41.\\ \\cfrac{x^2-3x+2}{2x+3}\\leqslant\\cfrac{x^2-3x+2}{x+5},&\n",
-    "solution": "41. $\\cfrac{x^2-3x+2}{2x+3}\\leqslant\\cfrac{x^2-3x+2}{x+5}\\Leftrightarrow (x^2-3x+2)\\left(\\cfrac{1}{2x+3}-\\cfrac{1}{x+5}\\right)\\leqslant0\n\\Leftrightarrow (x^2-3x+2)\\cdot\\cfrac{x+5-2x-3}{(2x+3)(x+5)}\\leqslant0\\Leftrightarrow\\cfrac{-(x-1)(x-2)^2}{(2x+3)(x+5)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-5;-\\cfrac{3}{2}\\right)\\cup[1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-41.png}}\n\\end{figure}\\\\\n"
+    "solution": "41. $\\cfrac{x^2-3x+2}{2x+3}\\leqslant\\cfrac{x^2-3x+2}{x+5}\\Leftrightarrow (x^2-3x+2)\\left(\\cfrac{1}{2x+3}-\\cfrac{1}{x+5}\\right)\\leqslant0\n\\Leftrightarrow (x^2-3x+2)\\cdot\\cfrac{x+5-2x-3}{(2x+3)(x+5)}\\leqslant0\\Leftrightarrow\\cfrac{-(x-1)(x-2)^2}{(2x+3)(x+5)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-5;-\\cfrac{3}{2}\\right)\\cup[1;+\\infty).$\n{{PIC:ner9-41.png}}\\\\\n"
   },
   {
     "i": 42,
     "problem": "42.\\ \\cfrac{(x+3)^2(x^2+4x-5)}{x^2-8x+16}\\geqslant0,\\\\\n",
-    "solution": "42. $\\cfrac{(x+3)^2(x^2+4x-5)}{x^2-8x+16}\\geqslant0\\Leftrightarrow\\cfrac{(x+3)^2(x+5)(x-1)}{(x-4)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-5]\\cup\\{-3\\}\\cup[1;4)\\cup(4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-42.png}}\n\\end{figure}\\\\\n"
+    "solution": "42. $\\cfrac{(x+3)^2(x^2+4x-5)}{x^2-8x+16}\\geqslant0\\Leftrightarrow\\cfrac{(x+3)^2(x+5)(x-1)}{(x-4)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-5]\\cup\\{-3\\}\\cup[1;4)\\cup(4;+\\infty).$\n{{PIC:ner9-42.png}}\\\\\n"
   },
   {
     "i": 43,
     "problem": "43.\\ \\cfrac{(x-3)^2(x^2-3x-10)}{x^2+8x+16}\\leqslant0,&\n",
-    "solution": "43. $\\cfrac{(x-3)^2(x^2-3x-10)}{x^2+8x+16}\\leqslant0\\Leftrightarrow\\cfrac{(x-3)^2(x-5)(x+2)}{(x+4)^2}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-2;5].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-43.png}}\n\\end{figure}\\\\\n"
+    "solution": "43. $\\cfrac{(x-3)^2(x^2-3x-10)}{x^2+8x+16}\\leqslant0\\Leftrightarrow\\cfrac{(x-3)^2(x-5)(x+2)}{(x+4)^2}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-2;5].$\n{{PIC:ner9-43.png}}\\\\\n"
   },
   {
     "i": 44,
     "problem": "44.\\ \\cfrac{(2x^2-7x+6)(x^2+3x-10)}{(x+1)(5+4x-x^2)}\\leqslant0,\\\\\n",
-    "solution": "44. $\\cfrac{(2x^2-7x+6)(x^2+3x-10)}{(x+1)(5+4x-x^2)}\\leqslant0\\Leftrightarrow\\cfrac{(x-2)^2(x+5)(2x-3)}{-(x+1)^2(x-5)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-5;-1)\\cup\\left(-1;\\cfrac{3}{2}\\right]\\cup\\{2\\}\\cup(5;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-44.png}}\n\\end{figure}\\newpage\\noindent\n"
+    "solution": "44. $\\cfrac{(2x^2-7x+6)(x^2+3x-10)}{(x+1)(5+4x-x^2)}\\leqslant0\\Leftrightarrow\\cfrac{(x-2)^2(x+5)(2x-3)}{-(x+1)^2(x-5)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-5;-1)\\cup\\left(-1;\\cfrac{3}{2}\\right]\\cup\\{2\\}\\cup(5;+\\infty).$\n{{PIC:ner9-44.png}}\\newpage\\noindent\n"
   },
   {
     "i": 45,
     "problem": "45.\\ \\cfrac{(3x^2-5x+2)(x^2+3x-4)}{(x+2)(8+2x-x^2)}\\leqslant0,&\n",
-    "solution": "45. $\\cfrac{(3x^2-5x+2)(x^2+3x-4)}{(x+2)(8+2x-x^2)}\\leqslant0\\Leftrightarrow\\cfrac{(x-1)^2(x+4)(3x-2)}{-(x+2)^2(x-4)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-4;-2)\\cup\\left(-2;\\cfrac{2}{3}\\right]\\cup\\{1\\}\\cup(4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-45.png}}\n\\end{figure}\\\\\n"
+    "solution": "45. $\\cfrac{(3x^2-5x+2)(x^2+3x-4)}{(x+2)(8+2x-x^2)}\\leqslant0\\Leftrightarrow\\cfrac{(x-1)^2(x+4)(3x-2)}{-(x+2)^2(x-4)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-4;-2)\\cup\\left(-2;\\cfrac{2}{3}\\right]\\cup\\{1\\}\\cup(4;+\\infty).$\n{{PIC:ner9-45.png}}\\\\\n"
   },
   {
     "i": 46,
@@ -247,22 +247,22 @@
   {
     "i": 50,
     "problem": "50.\\ \\cfrac{2x^2-15x+7}{\\sqrt{14+5x-x^2}}\\geqslant0,\\\\\n",
-    "solution": "50. $\\cfrac{2x^2-15x+7}{\\sqrt{14+5x-x^2}}\\geqslant0\\Leftrightarrow\\cfrac{(2x-1)(x-7)}{\\sqrt{-(x+2)(x-7)}}\\geqslant0.$ Применив метод интервалов, найдём ответ:\\\\ $x\\in\\left(-2;\\cfrac{1}{2}\\right].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-50.png}}\n\\end{figure}\\\\\n"
+    "solution": "50. $\\cfrac{2x^2-15x+7}{\\sqrt{14+5x-x^2}}\\geqslant0\\Leftrightarrow\\cfrac{(2x-1)(x-7)}{\\sqrt{-(x+2)(x-7)}}\\geqslant0.$ Применив метод интервалов, найдём ответ:\\\\ $x\\in\\left(-2;\\cfrac{1}{2}\\right].$\n{{PIC:ner9-50.png}}\\\\\n"
   },
   {
     "i": 51,
     "problem": "51.\\ \\cfrac{3x^2-19x+6}{\\sqrt{18+3x-x^2}}\\geqslant0,&\n",
-    "solution": "51. $\\cfrac{3x^2-19x+6}{\\sqrt{18+3x-x^2}}\\geqslant0\\Leftrightarrow\\cfrac{(3x-1)(x-6)}{\\sqrt{-(x+3)(x-6)}}\\geqslant0.$ Применив метод интервалов, найдём ответ:\\\\ $x\\in\\left(-3;\\cfrac{1}{3}\\right].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-51.png}}\n\\end{figure}\\newpage\\noindent\n"
+    "solution": "51. $\\cfrac{3x^2-19x+6}{\\sqrt{18+3x-x^2}}\\geqslant0\\Leftrightarrow\\cfrac{(3x-1)(x-6)}{\\sqrt{-(x+3)(x-6)}}\\geqslant0.$ Применив метод интервалов, найдём ответ:\\\\ $x\\in\\left(-3;\\cfrac{1}{3}\\right].$\n{{PIC:ner9-51.png}}\\newpage\\noindent\n"
   },
   {
     "i": 52,
     "problem": "52.\\ \\cfrac{|x-2|(3x^2+2x-1)}{4+3x-x^2}\\leqslant0,\\\\\n",
-    "solution": "52. $\\cfrac{|x-2|(3x^2+2x-1)}{4+3x-x^2}\\leqslant0\\Leftrightarrow\\cfrac{|x-2|(3x-1)(x+1)}{-(x+1)(x-4)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-1)\\cup\\left(-1;\\cfrac{1}{3}\\right]\\cup\\{2\\}\\cup(4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-52.png}}\n\\end{figure}\\\\\n"
+    "solution": "52. $\\cfrac{|x-2|(3x^2+2x-1)}{4+3x-x^2}\\leqslant0\\Leftrightarrow\\cfrac{|x-2|(3x-1)(x+1)}{-(x+1)(x-4)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-1)\\cup\\left(-1;\\cfrac{1}{3}\\right]\\cup\\{2\\}\\cup(4;+\\infty).$\n{{PIC:ner9-52.png}}\\\\\n"
   },
   {
     "i": 53,
     "problem": "53.\\ \\cfrac{|x-3|(4x^2+7x-2)}{10+3x-x^2}\\leqslant0,&\n",
-    "solution": "53. $\\cfrac{|x-3|(4x^2+7x-2)}{10+3x-x^2}\\leqslant0\\Leftrightarrow\\cfrac{|x-3|(4x-1)(x+2)}{-(x+2)(x-5)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-2)\\cup\\left(-2;\\cfrac{1}{4}\\right]\\cup\\{3\\}\\cup(5;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-53.png}}\n\\end{figure}\\\\\n"
+    "solution": "53. $\\cfrac{|x-3|(4x^2+7x-2)}{10+3x-x^2}\\leqslant0\\Leftrightarrow\\cfrac{|x-3|(4x-1)(x+2)}{-(x+2)(x-5)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-2)\\cup\\left(-2;\\cfrac{1}{4}\\right]\\cup\\{3\\}\\cup(5;+\\infty).$\n{{PIC:ner9-53.png}}\\\\\n"
   },
   {
     "i": 54,
@@ -272,7 +272,7 @@
   {
     "i": 55,
     "problem": "55.\\ \\cfrac{4}{x^2-x-6}\\geqslant(2+x)^{-1},&\n",
-    "solution": "55. $\\cfrac{4}{x^2-x-6}\\geqslant(2+x)^{-1}\\Leftrightarrow\\cfrac{4}{(x-3)(x+2)}-\\cfrac{1}{x+2}\\geqslant0\\Leftrightarrow\\cfrac{4-x+3}{(x-3)(x+2)}\\geqslant0\n\\Leftrightarrow\\cfrac{7-x}{(x-3)(x+2)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-2)\\cup(3;7].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-55.png}}\n\\end{figure}\\\\\n"
+    "solution": "55. $\\cfrac{4}{x^2-x-6}\\geqslant(2+x)^{-1}\\Leftrightarrow\\cfrac{4}{(x-3)(x+2)}-\\cfrac{1}{x+2}\\geqslant0\\Leftrightarrow\\cfrac{4-x+3}{(x-3)(x+2)}\\geqslant0\n\\Leftrightarrow\\cfrac{7-x}{(x-3)(x+2)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-2)\\cup(3;7].$\n{{PIC:ner9-55.png}}\\\\\n"
   },
   {
     "i": 56,
@@ -297,22 +297,22 @@
   {
     "i": 60,
     "problem": "60.\\ \\cfrac{x^3}{2x-1}\\leqslant x,\\\\\n",
-    "solution": "60. $\\cfrac{x^3}{2x-1}\\leqslant x\\Leftrightarrow\\cfrac{x^3}{2x-1}-x\\leqslant0\\Leftrightarrow \\cfrac{x^3-2x^2+x}{2x-1}\\leqslant0\\Leftrightarrow\n\\cfrac{x(x-1)^2}{2x-1}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left[0;\\cfrac{1}{2}\\right)\\cup\\{1\\}.$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-60.png}}\n\\end{figure}\\\\\n"
+    "solution": "60. $\\cfrac{x^3}{2x-1}\\leqslant x\\Leftrightarrow\\cfrac{x^3}{2x-1}-x\\leqslant0\\Leftrightarrow \\cfrac{x^3-2x^2+x}{2x-1}\\leqslant0\\Leftrightarrow\n\\cfrac{x(x-1)^2}{2x-1}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left[0;\\cfrac{1}{2}\\right)\\cup\\{1\\}.$\n{{PIC:ner9-60.png}}\\\\\n"
   },
   {
     "i": 61,
     "problem": "61.\\ \\cfrac{(x-1)^3}{2x-3}\\leqslant x-1,&\n",
-    "solution": "61. $\\cfrac{(x-1)^3}{2x-3}\\leqslant x-1\\Leftrightarrow (x-1)\\left(\\cfrac{(x-1)^2}{2x-3}-1\\right)\\leqslant0\\Leftrightarrow\n(x-1)\\left(\\cfrac{x^2-2x+1-2x+3}{2x-3}\\right)\\leqslant0\\Leftrightarrow\\cfrac{(x-1)(x-2)^2}{2x-3}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left[1;\\cfrac{3}{2}\\right)\\cup\\{2\\}.$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-61.png}}\n\\end{figure}\\\\\n"
+    "solution": "61. $\\cfrac{(x-1)^3}{2x-3}\\leqslant x-1\\Leftrightarrow (x-1)\\left(\\cfrac{(x-1)^2}{2x-3}-1\\right)\\leqslant0\\Leftrightarrow\n(x-1)\\left(\\cfrac{x^2-2x+1-2x+3}{2x-3}\\right)\\leqslant0\\Leftrightarrow\\cfrac{(x-1)(x-2)^2}{2x-3}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left[1;\\cfrac{3}{2}\\right)\\cup\\{2\\}.$\n{{PIC:ner9-61.png}}\\\\\n"
   },
   {
     "i": 62,
     "problem": "62.\\ \\cfrac{x}{x+1}-\\cfrac{2x}{x^2-x+1}\\geqslant\\cfrac{x-2x^2}{x^3+1},\\\\\n",
-    "solution": "62. $\\cfrac{x}{x+1}-\\cfrac{2x}{x^2-x+1}\\geqslant\\cfrac{x-2x^2}{x^3+1}\\Leftrightarrow \\cfrac{x^3-x^2+x-2x^2-2x-x+2x^2}{(x+1)(x^2-x+1)}\\geqslant0\n\\Leftrightarrow \\cfrac{x(x+1)(x-2)}{(x+1)(x^2-x+1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in (-\\infty;-1)\\cup(-1;0]\\cup[2;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-62.png}}\n\\end{figure}\\\\\n"
+    "solution": "62. $\\cfrac{x}{x+1}-\\cfrac{2x}{x^2-x+1}\\geqslant\\cfrac{x-2x^2}{x^3+1}\\Leftrightarrow \\cfrac{x^3-x^2+x-2x^2-2x-x+2x^2}{(x+1)(x^2-x+1)}\\geqslant0\n\\Leftrightarrow \\cfrac{x(x+1)(x-2)}{(x+1)(x^2-x+1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in (-\\infty;-1)\\cup(-1;0]\\cup[2;+\\infty).$\n{{PIC:ner9-62.png}}\\\\\n"
   },
   {
     "i": 63,
     "problem": "63.\\ \\cfrac{2-x}{x^3+x^2}\\geqslant\\cfrac{1-2x}{x^3-3x^2},&\n",
-    "solution": "63. $\\cfrac{2-x}{x^3+x^2}\\geqslant\\cfrac{1-2x}{x^3-3x^2}\\Leftrightarrow\\cfrac{2-x}{x^2(x+1)}+\\cfrac{2x-1}{x^2(x-3)}\\geqslant0\\Leftrightarrow\n\\cfrac{2x-x^2-6+3x+2x^2-x+2x-1}{x^2(x-3)(x+1)}\\geqslant0\\Leftrightarrow\\cfrac{(x+7)(x-1)}{x^2(x-3)(x+1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-7]\\cup(-1;0)\\cup(0;1]\\cup(3;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-63.png}}\n\\end{figure}\\newpage\\noindent\n"
+    "solution": "63. $\\cfrac{2-x}{x^3+x^2}\\geqslant\\cfrac{1-2x}{x^3-3x^2}\\Leftrightarrow\\cfrac{2-x}{x^2(x+1)}+\\cfrac{2x-1}{x^2(x-3)}\\geqslant0\\Leftrightarrow\n\\cfrac{2x-x^2-6+3x+2x^2-x+2x-1}{x^2(x-3)(x+1)}\\geqslant0\\Leftrightarrow\\cfrac{(x+7)(x-1)}{x^2(x-3)(x+1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-7]\\cup(-1;0)\\cup(0;1]\\cup(3;+\\infty).$\n{{PIC:ner9-63.png}}\\newpage\\noindent\n"
   },
   {
     "i": 64,
@@ -327,17 +327,17 @@
   {
     "i": 66,
     "problem": "66.\\ \\cfrac{(x^2-4x-1)(x^2-8x+16)}{(x^2+x)(x^2-16x+64)}\\geqslant0,\\\\\n",
-    "solution": "66. $\\cfrac{(x^2-4x-1)(x^2-8x+16)}{(x^2+x)(x^2-16x+64)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-(2-\\sqrt{5}))(x-(2+\\sqrt{5}))(x-4)^2}{x(x+1)(x-8)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-1)\\cup[2-\\sqrt{5};0)\\cup\\{4\\}\\cup[2+\\sqrt{5};8)\\cup(8;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-66.png}}\n\\end{figure}\\\\\n"
+    "solution": "66. $\\cfrac{(x^2-4x-1)(x^2-8x+16)}{(x^2+x)(x^2-16x+64)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-(2-\\sqrt{5}))(x-(2+\\sqrt{5}))(x-4)^2}{x(x+1)(x-8)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-1)\\cup[2-\\sqrt{5};0)\\cup\\{4\\}\\cup[2+\\sqrt{5};8)\\cup(8;+\\infty).$\n{{PIC:ner9-66.png}}\\\\\n"
   },
   {
     "i": 67,
     "problem": "67.\\ \\cfrac{(x^2+4x-1)(x^2+8x+16)}{(x^2-x)(x^2+16x+64)}\\geqslant0,&\n",
-    "solution": "67. $\\cfrac{(x^2+4x-1)(x^2+8x+16)}{(x^2-x)(x^2+16x+64)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-(-2-\\sqrt{5}))(x-(\\sqrt{5}-2))(x+4)^2}{x(x-1)(x+8)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-8)\\cup(-8;-2-\\sqrt{5}]\\cup\\{-4\\}\\cup(0;\\sqrt{5}-2]\\cup(1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-67.png}}\n\\end{figure}\\\\\n"
+    "solution": "67. $\\cfrac{(x^2+4x-1)(x^2+8x+16)}{(x^2-x)(x^2+16x+64)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-(-2-\\sqrt{5}))(x-(\\sqrt{5}-2))(x+4)^2}{x(x-1)(x+8)^2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\n(-\\infty;-8)\\cup(-8;-2-\\sqrt{5}]\\cup\\{-4\\}\\cup(0;\\sqrt{5}-2]\\cup(1;+\\infty).$\n{{PIC:ner9-67.png}}\\\\\n"
   },
   {
     "i": 68,
     "problem": "68.\\ \\cfrac{(1-x^2)(x-1)^2(x+1)^3}{x^6-x^4+x^2}\\leqslant0,\\\\\n",
-    "solution": "68. $\\cfrac{(1-x^2)(x-1)^2(x+1)^3}{x^6-x^4+x^2}\\leqslant0\\Leftrightarrow\\cfrac{-(x-1)^3(x+1)^4}{x^2(x^4-x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-1\\}\\cup[1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-32.png}}\n\\end{figure}\\\\\n"
+    "solution": "68. $\\cfrac{(1-x^2)(x-1)^2(x+1)^3}{x^6-x^4+x^2}\\leqslant0\\Leftrightarrow\\cfrac{-(x-1)^3(x+1)^4}{x^2(x^4-x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-1\\}\\cup[1;+\\infty).$\n{{PIC:ner9-32.png}}\\\\\n"
   },
   {
     "i": 69,
@@ -347,7 +347,7 @@
   {
     "i": 70,
     "problem": "70.\\ \\cfrac{(x^2+3x-10)(x^2+3x+5)}{3x^2-7x+2}\\geqslant0,\n\\end{array}$\\\\\n",
-    "solution": "70. $\\cfrac{(x^2+3x-10)(x^2+3x+5)}{3x^2-7x+2}\\geqslant0\\Leftrightarrow\\cfrac{(x+5)(x-2)((x+1,5)^2+2,75)}{(x-2)(3x-1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-5]\\cup\\left(\\cfrac{1}{3};2\\right)\\cup(2;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-70.png}}\n\\end{figure}\\\\\n"
+    "solution": "70. $\\cfrac{(x^2+3x-10)(x^2+3x+5)}{3x^2-7x+2}\\geqslant0\\Leftrightarrow\\cfrac{(x+5)(x-2)((x+1,5)^2+2,75)}{(x-2)(3x-1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-5]\\cup\\left(\\cfrac{1}{3};2\\right)\\cup(2;+\\infty).$\n{{PIC:ner9-70.png}}\\\\\n"
   },
   {
     "i": 71,
@@ -362,17 +362,17 @@
   {
     "i": 73,
     "problem": "74.\\ \\cfrac{x\\sqrt{x}+x-5\\sqrt{x}+2}{\\sqrt{x}-2}\\geqslant x,&\n",
-    "solution": "73. $\\cfrac{(x^2-3x+8)(x^2-3x+1)}{x^2-3x}\\geqslant3.$ Сделаем замену $t=x^2-3x,$ тогда $\\cfrac{(t+8)(t+1)}{t}\\geqslant3\\Leftrightarrow$\\\\$\n\\cfrac{t^2+t+8t+8-3t}{t}\\geqslant0\\Leftrightarrow \\cfrac{t^2+6t+8}{t}\\geqslant0\\Leftrightarrow \\cfrac{(t+2)(t+4)}{t}\\geqslant0.$ Применив метод интервалов, найдём ответ: $t\\in[-4;-2]\\cup(0;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-73.png}}\n\\end{figure}\\\\\nТеперь необходимо решить неравенства относительно $x:\\ t\\in[-4;-2]\\Leftrightarrow\\begin{cases} x^2-3x\\geqslant-4,\\\\ x^2-3x\\leqslant-2.\\end{cases}\n\\Leftrightarrow\\begin{cases} x^2-3x+4\\geqslant0,\\\\ x^2-3x+2\\leqslant0.\\end{cases}\\Leftrightarrow\n\\begin{cases} (x-1,5)^2+1,75\\geqslant0,\\\\ (x-2)(x-1)\\leqslant0.\\end{cases}\\Rightarrow x\\in[1;2].$ Для второго интервала получим $t>0,\\ x^2-3x>0,\\ x(x-3)>0,\\\nx\\in(-\\infty;0)\\cup(3;+\\infty).$ Таким образом,  $x\\in(-\\infty;0)\\cup[1;2]\\cup(3;+\\infty).$\\\\\n"
+    "solution": "73. $\\cfrac{(x^2-3x+8)(x^2-3x+1)}{x^2-3x}\\geqslant3.$ Сделаем замену $t=x^2-3x,$ тогда $\\cfrac{(t+8)(t+1)}{t}\\geqslant3\\Leftrightarrow$\\\\$\n\\cfrac{t^2+t+8t+8-3t}{t}\\geqslant0\\Leftrightarrow \\cfrac{t^2+6t+8}{t}\\geqslant0\\Leftrightarrow \\cfrac{(t+2)(t+4)}{t}\\geqslant0.$ Применив метод интервалов, найдём ответ: $t\\in[-4;-2]\\cup(0;+\\infty).$\n{{PIC:ner9-73.png}}\\\\\nТеперь необходимо решить неравенства относительно $x:\\ t\\in[-4;-2]\\Leftrightarrow\\begin{cases} x^2-3x\\geqslant-4,\\\\ x^2-3x\\leqslant-2.\\end{cases}\n\\Leftrightarrow\\begin{cases} x^2-3x+4\\geqslant0,\\\\ x^2-3x+2\\leqslant0.\\end{cases}\\Leftrightarrow\n\\begin{cases} (x-1,5)^2+1,75\\geqslant0,\\\\ (x-2)(x-1)\\leqslant0.\\end{cases}\\Rightarrow x\\in[1;2].$ Для второго интервала получим $t>0,\\ x^2-3x>0,\\ x(x-3)>0,\\\nx\\in(-\\infty;0)\\cup(3;+\\infty).$ Таким образом,  $x\\in(-\\infty;0)\\cup[1;2]\\cup(3;+\\infty).$\\\\\n"
   },
   {
     "i": 74,
     "problem": "75.\\ \\cfrac{x\\sqrt{x}-x-5\\sqrt{x}+3}{\\sqrt{x}-3}\\geqslant x,\\\\\n",
-    "solution": "74. $\\cfrac{x\\sqrt{x}+x-5\\sqrt{x}+2}{\\sqrt{x}-2}\\geqslant x \\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2}{t-2}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2}{t-2}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow$\\\\$ \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2-t^3+2t^2}{t-2}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{3t^2-5t+2}{t-2}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{(t-1)(3t-2)}{t-2}\\geqslant 0.\\end{cases}$ Применив метод интервалов, найдём ответ: $t\\in\\left[\\cfrac{2}{3};1\\right]\\cup(2;+\\infty)\\Leftrightarrow x \\in\\left[\\cfrac{4}{9};1\\right]\\cup(4;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{int9-74.png}}\n\\end{figure}\\\\\n"
+    "solution": "74. $\\cfrac{x\\sqrt{x}+x-5\\sqrt{x}+2}{\\sqrt{x}-2}\\geqslant x \\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2}{t-2}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2}{t-2}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow$\\\\$ \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2-t^3+2t^2}{t-2}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{3t^2-5t+2}{t-2}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{(t-1)(3t-2)}{t-2}\\geqslant 0.\\end{cases}$ Применив метод интервалов, найдём ответ: $t\\in\\left[\\cfrac{2}{3};1\\right]\\cup(2;+\\infty)\\Leftrightarrow x \\in\\left[\\cfrac{4}{9};1\\right]\\cup(4;+\\infty).$\n{{PIC:int9-74.png}}\\\\\n"
   },
   {
     "i": 75,
     "problem": "76.\\ \\cfrac{1}{|x^2-5x+6|}\\geqslant \\cfrac{1}{x-2},&\n",
-    "solution": "75. $\\cfrac{x\\sqrt{x}-x-5\\sqrt{x}+3}{\\sqrt{x}-3}\\geqslant x \\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3-t^2-5t+3}{t-3}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2}{t-3}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow$\\\\$ \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3-t^2-5t+3-t^3+3t^2}{t-3}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{2t^2-5t+3}{t-3}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{(t-1)(2t-3)}{t-3}\\geqslant 0.\\end{cases}$ Применив метод интервалов, найдём ответ: $t\\in\\left[1;\\cfrac{3}{2}\\right]\\cup(3;+\\infty)\\Leftrightarrow x \\in\\left[1;\\cfrac{9}{4}\\right]\\cup(9;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-75.png}}\n\\end{figure}\\\\\n"
+    "solution": "75. $\\cfrac{x\\sqrt{x}-x-5\\sqrt{x}+3}{\\sqrt{x}-3}\\geqslant x \\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3-t^2-5t+3}{t-3}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3+t^2-5t+2}{t-3}\\geqslant t^2.\\end{cases}\n\\Leftrightarrow$\\\\$ \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{t^3-t^2-5t+3-t^3+3t^2}{t-3}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{2t^2-5t+3}{t-3}\\geqslant 0.\\end{cases}\n\\Leftrightarrow \\begin{cases} t=\\sqrt{x}\\geqslant0,\\\\ \\cfrac{(t-1)(2t-3)}{t-3}\\geqslant 0.\\end{cases}$ Применив метод интервалов, найдём ответ: $t\\in\\left[1;\\cfrac{3}{2}\\right]\\cup(3;+\\infty)\\Leftrightarrow x \\in\\left[1;\\cfrac{9}{4}\\right]\\cup(9;+\\infty).$\n{{PIC:ner9-75.png}}\\\\\n"
   },
   {
     "i": 76,
@@ -382,7 +382,7 @@
   {
     "i": 77,
     "problem": "78. Найдите сумму целых решений неравенства $(x-1)x(x+1)(x+2)\\leqslant8.$\\\\\n$\\begin{array}{ll}\n",
-    "solution": "77. $\\cfrac{(x^2-7x+10)(x^2-8x+16)}{\\sqrt{x+10}(-2x^2+3x-10)}\\leqslant 0\\Leftrightarrow \\cfrac{(x-5)(x-2)(x-4)^2}{\\sqrt{x+10}(x^2+(x-1,5)^2+7,75)}\\geqslant 0.$\nПрименив метод интервалов, найдём ответ: $x\\in(-10;2]\\cup\\{4\\}\\cup[5;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-77.png}}\n\\end{figure}\\\\\n"
+    "solution": "77. $\\cfrac{(x^2-7x+10)(x^2-8x+16)}{\\sqrt{x+10}(-2x^2+3x-10)}\\leqslant 0\\Leftrightarrow \\cfrac{(x-5)(x-2)(x-4)^2}{\\sqrt{x+10}(x^2+(x-1,5)^2+7,75)}\\geqslant 0.$\nПрименив метод интервалов, найдём ответ: $x\\in(-10;2]\\cup\\{4\\}\\cup[5;+\\infty).$\n{{PIC:ner9-77.png}}\\\\\n"
   },
   {
     "i": 78,
@@ -402,17 +402,17 @@
   {
     "i": 81,
     "problem": "82.\\ \\cfrac{(x^2+3x-18)\\sqrt{5-x}}{1-x}\\geqslant0,\n\\end{array}$\\\\\n",
-    "solution": "81. $\\cfrac{(6-x-x^2)\\sqrt{x-1}}{x-3}\\geqslant0\\Leftrightarrow\\cfrac{(2-x)(x+3)\\sqrt{x-1}}{x-3}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{1\\}\\cup[2;3).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-82.png}}\n\\end{figure}\\newpage\\noindent\n"
+    "solution": "81. $\\cfrac{(6-x-x^2)\\sqrt{x-1}}{x-3}\\geqslant0\\Leftrightarrow\\cfrac{(2-x)(x+3)\\sqrt{x-1}}{x-3}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{1\\}\\cup[2;3).$\n{{PIC:ner9-82.png}}\\newpage\\noindent\n"
   },
   {
     "i": 82,
     "problem": "83. $(x^2-4x-5)\\left(\\cfrac{x}{x^2-5x+6}+\\cfrac{5}{x^2-10x+21}+\\cfrac{7}{(x-2)(x-3)(x-7)}\\right)\\geqslant0.$\\\\\n$\\begin{array}{ll}\n",
-    "solution": "82. $\\cfrac{(x^2+3x-18)\\sqrt{5-x}}{1-x}\\geqslant0\\Leftrightarrow\\cfrac{(x+6)(x-3)\\sqrt{5-x}}{1-x}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-6]\\cup(1;3)\\cup\\{5\\}.$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-83.png}}\n\\end{figure}\\\\\n"
+    "solution": "82. $\\cfrac{(x^2+3x-18)\\sqrt{5-x}}{1-x}\\geqslant0\\Leftrightarrow\\cfrac{(x+6)(x-3)\\sqrt{5-x}}{1-x}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-6]\\cup(1;3)\\cup\\{5\\}.$\n{{PIC:ner9-83.png}}\\\\\n"
   },
   {
     "i": 83,
     "problem": "84.\\ \\cfrac{|x+2|}{x^2-1}\\leqslant-2,&\n",
-    "solution": "83. $(x^2-4x-5)\\left(\\cfrac{x}{x^2-5x+6}+\\cfrac{5}{x^2-10x+21}+\\cfrac{7}{(x-2)(x-3)(x-7)}\\right)\\geqslant0\\Leftrightarrow$\\\\$\n(x-5)(x+1)\\left(\\cfrac{x}{(x-2)(x-3)}+\\cfrac{5}{(x-3)(x-7)}+\\cfrac{7}{(x-2)(x-3)(x-7)}\\right)\\geqslant0\\Leftrightarrow$\\\\$\n(x-5)(x+1)\\cdot\\cfrac{x^2-7x+5x-10+7}{(x-2)(x-3)(x-7)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-5)(x+1)(x^2-2x-3)}{(x-2)(x-3)(x-7)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-5)(x+1)^2(x-3)}{(x-2)(x-3)(x-7)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-1\\}\\cup(2;3)\\cup(3;5]\\cup(7;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-833.png}}\n\\end{figure}\\\\\n"
+    "solution": "83. $(x^2-4x-5)\\left(\\cfrac{x}{x^2-5x+6}+\\cfrac{5}{x^2-10x+21}+\\cfrac{7}{(x-2)(x-3)(x-7)}\\right)\\geqslant0\\Leftrightarrow$\\\\$\n(x-5)(x+1)\\left(\\cfrac{x}{(x-2)(x-3)}+\\cfrac{5}{(x-3)(x-7)}+\\cfrac{7}{(x-2)(x-3)(x-7)}\\right)\\geqslant0\\Leftrightarrow$\\\\$\n(x-5)(x+1)\\cdot\\cfrac{x^2-7x+5x-10+7}{(x-2)(x-3)(x-7)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-5)(x+1)(x^2-2x-3)}{(x-2)(x-3)(x-7)}\\geqslant0\\Leftrightarrow\n\\cfrac{(x-5)(x+1)^2(x-3)}{(x-2)(x-3)(x-7)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\{-1\\}\\cup(2;3)\\cup(3;5]\\cup(7;+\\infty).$\n{{PIC:ner9-833.png}}\\\\\n"
   },
   {
     "i": 84,
@@ -427,12 +427,12 @@
   {
     "i": 86,
     "problem": "87.\\ \\cfrac{(x+1)(x-2)^2}{x+2}\\leqslant x^2-2x.\n\\end{array}$\\\\\n",
-    "solution": "86. $\\cfrac{(x-2)(x-3)^2}{x-1}\\geqslant x^2-3x\\Leftrightarrow \\cfrac{(x-2)(x-3)^2-(x-3)x(x-1)}{x-1}\\geqslant0\\Leftrightarrow$\\\\\n$\\cfrac{(x-3)((x-2)(x-3)-x(x-1))}{x-1}\\geqslant0\\Leftrightarrow\\cfrac{(x-3)(x^2-5x+6-x^2+x)}{x-1}\\geqslant0\n\\Leftrightarrow \\cfrac{2(x-3)(3-2x)}{x-1}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;1)\\cup\\left[\\cfrac{3}{2};3\\right].$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-84.png}}\n\\end{figure}\\\\\n"
+    "solution": "86. $\\cfrac{(x-2)(x-3)^2}{x-1}\\geqslant x^2-3x\\Leftrightarrow \\cfrac{(x-2)(x-3)^2-(x-3)x(x-1)}{x-1}\\geqslant0\\Leftrightarrow$\\\\\n$\\cfrac{(x-3)((x-2)(x-3)-x(x-1))}{x-1}\\geqslant0\\Leftrightarrow\\cfrac{(x-3)(x^2-5x+6-x^2+x)}{x-1}\\geqslant0\n\\Leftrightarrow \\cfrac{2(x-3)(3-2x)}{x-1}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;1)\\cup\\left[\\cfrac{3}{2};3\\right].$\n{{PIC:ner9-84.png}}\\\\\n"
   },
   {
     "i": 87,
     "problem": "88. Найдите все пары чисел $(x;y),$ для которых $2x^2+4xy+4y^2+1\\leqslant 2x.$\\\\\n$\\begin{array}{ll}\n",
-    "solution": "87. $\\cfrac{(x+1)(x-2)^2}{x+2}\\leqslant x^2-2x\\Leftrightarrow \\cfrac{(x+1)(x-2)^2-(x-2)x(x+2)}{x+2}\\leqslant0\\Leftrightarrow$\\\\\n$\\cfrac{(x-2)((x+1)(x-2)-x(x+2))}{x+2}\\leqslant0\\Leftrightarrow\\cfrac{(x-2)(x^2-x-2-x^2-2x)}{x+2}\\leqslant0\n\\Leftrightarrow \\cfrac{(x-2)(3x+2)}{x+2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-2;-\\cfrac{2}{3}\\right]\\cup[2;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-85.png}}\n\\end{figure}\\\\\n"
+    "solution": "87. $\\cfrac{(x+1)(x-2)^2}{x+2}\\leqslant x^2-2x\\Leftrightarrow \\cfrac{(x+1)(x-2)^2-(x-2)x(x+2)}{x+2}\\leqslant0\\Leftrightarrow$\\\\\n$\\cfrac{(x-2)((x+1)(x-2)-x(x+2))}{x+2}\\leqslant0\\Leftrightarrow\\cfrac{(x-2)(x^2-x-2-x^2-2x)}{x+2}\\leqslant0\n\\Leftrightarrow \\cfrac{(x-2)(3x+2)}{x+2}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-2;-\\cfrac{2}{3}\\right]\\cup[2;+\\infty).$\n{{PIC:ner9-85.png}}\\\\\n"
   },
   {
     "i": 88,
@@ -447,12 +447,12 @@
   {
     "i": 90,
     "problem": "91.\\ \\cfrac{(x-x^2)(3x^2+15x)}{(2x-7)^3}\\geqslant 0,&\n",
-    "solution": "90. $\\cfrac{(2x^2+4x)(3x-x^2)}{(2x+5)^3}\\leqslant 0\\Leftrightarrow\n\\cfrac{2x(x+2)x(3-x)}{(2x+5)^3}\\leqslant0\\Leftrightarrow\n\\cfrac{x^2(x+2)(x-3)}{(2x+5)^3}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-\\cfrac{5}{2};-2\\right]\\cup\\{0\\}\\cup[3;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-86.png}}\n\\end{figure}\\\\\n"
+    "solution": "90. $\\cfrac{(2x^2+4x)(3x-x^2)}{(2x+5)^3}\\leqslant 0\\Leftrightarrow\n\\cfrac{2x(x+2)x(3-x)}{(2x+5)^3}\\leqslant0\\Leftrightarrow\n\\cfrac{x^2(x+2)(x-3)}{(2x+5)^3}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-\\cfrac{5}{2};-2\\right]\\cup\\{0\\}\\cup[3;+\\infty).$\n{{PIC:ner9-86.png}}\\\\\n"
   },
   {
     "i": 91,
     "problem": "92.\\ \\left|\\cfrac{x-3}{x+4}\\right|<1,\\\\\n",
-    "solution": "91. $\\cfrac{(x-x^2)(3x^2+15x)}{(2x-7)^3}\\geqslant 0\\Leftrightarrow\n\\cfrac{x(1-x)3x(x+5)}{(2x-7)^3}\\geqslant0\\Leftrightarrow\n\\cfrac{x^2(x+5)(x-1)}{(2x-7)^3}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-\\infty;-5\\right]\\cup\\{0\\}\\cup\\left[1;\\cfrac{7}{2}\\right).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-87.png}}\n\\end{figure}\\\\\n"
+    "solution": "91. $\\cfrac{(x-x^2)(3x^2+15x)}{(2x-7)^3}\\geqslant 0\\Leftrightarrow\n\\cfrac{x(1-x)3x(x+5)}{(2x-7)^3}\\geqslant0\\Leftrightarrow\n\\cfrac{x^2(x+5)(x-1)}{(2x-7)^3}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in\\left(-\\infty;-5\\right]\\cup\\{0\\}\\cup\\left[1;\\cfrac{7}{2}\\right).$\n{{PIC:ner9-87.png}}\\\\\n"
   },
   {
     "i": 92,
@@ -467,11 +467,11 @@
   {
     "i": 94,
     "problem": "95.\\ \\cfrac{(-1+x^2)(x+1)^2(x-1)^3}{x^8-x^6+x^4}\\leqslant0.\n\\end{array}$\n\\newpage\n",
-    "solution": "94. $\\cfrac{3x^2+6x+2}{x^2+2x}+\\cfrac{2x+2}{x-1}\\geqslant\\cfrac{5x+1}{x}\n\\Leftrightarrow 3+\\cfrac{2}{x^2+2x}+2+\\cfrac{4}{x-1}\\geqslant 5+\\cfrac{1}{x}\n\\Leftrightarrow \\cfrac{2}{x(x+2)}+\\cfrac{4}{x-1}-\\cfrac{1}{x}\\geqslant0\n\\Leftrightarrow \\cfrac{2(x-1)+4x(x+2)-(x-1)(x+2)}{x(x+2)(x-1)}\\geqslant0\n\\Leftrightarrow \\cfrac{2x-2+4x^2+8x-x^2-2x+x+2}{x(x+2)(x-1)}\\geqslant0\n\\Leftrightarrow \\cfrac{3x^2+9x}{x(x+2)(x-1)}\\geqslant0\n\\Leftrightarrow \\cfrac{3x(x+3)}{x(x+2)(x-1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-3;-2)\\cup(1;+\\infty).$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner9-38.png}}\n\\end{figure}\\\\\n"
+    "solution": "94. $\\cfrac{3x^2+6x+2}{x^2+2x}+\\cfrac{2x+2}{x-1}\\geqslant\\cfrac{5x+1}{x}\n\\Leftrightarrow 3+\\cfrac{2}{x^2+2x}+2+\\cfrac{4}{x-1}\\geqslant 5+\\cfrac{1}{x}\n\\Leftrightarrow \\cfrac{2}{x(x+2)}+\\cfrac{4}{x-1}-\\cfrac{1}{x}\\geqslant0\n\\Leftrightarrow \\cfrac{2(x-1)+4x(x+2)-(x-1)(x+2)}{x(x+2)(x-1)}\\geqslant0\n\\Leftrightarrow \\cfrac{2x-2+4x^2+8x-x^2-2x+x+2}{x(x+2)(x-1)}\\geqslant0\n\\Leftrightarrow \\cfrac{3x^2+9x}{x(x+2)(x-1)}\\geqslant0\n\\Leftrightarrow \\cfrac{3x(x+3)}{x(x+2)(x-1)}\\geqslant0.$ Применив метод интервалов, найдём ответ: $x\\in[-3;-2)\\cup(1;+\\infty).$\n{{PIC:ner9-38.png}}\\\\\n"
   },
   {
     "i": 95,
     "problem": null,
-    "solution": "95. $\\cfrac{(-1+x^2)(x+1)^2(x-1)^3}{x^8-x^6+x^4}\\leqslant0\\Leftrightarrow\\cfrac{(x-1)^4(x+1)^3}{x^4(x^4-x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-1]\\cup\\{1\\}.$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{ner99-33.png}}\n\\end{figure}\n\\newpage\n"
+    "solution": "95. $\\cfrac{(-1+x^2)(x+1)^2(x-1)^3}{x^8-x^6+x^4}\\leqslant0\\Leftrightarrow\\cfrac{(x-1)^4(x+1)^3}{x^4(x^4-x^2+1)}\\leqslant0.$ Применив метод интервалов, найдём ответ: $x\\in(-\\infty;-1]\\cup\\{1\\}.$\n{{PIC:ner99-33.png}}\n\\newpage\n"
   }
 ]
