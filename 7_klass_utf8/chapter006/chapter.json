@@ -1,0 +1,477 @@
+[
+  {
+    "i": 1,
+    "problem": "1. $\\begin{tikzpicture}[scale=0.6]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.9pt}}\n\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-2,0) -- (2,0);\n\\draw [->] (0,-2) -- (0,2);\n\\draw[line01] (-1.5,-1.7) -- (2,1);\n\\draw (2,0.25) node {\\scriptsize $x$};\n\\draw (0.25,2) node {\\scriptsize $y$};\n\\end{tikzpicture}$\nНа рисунке изображён график функции вида $y=kx+b.$ Для этого графика ответьте на вопросы: а) Каков знак коэффициента $k?$ б) Проходит ли график через точку $(1;b)?$\\\\ в) Пусть $k=\\cfrac{1}{2}; b=-2.$ Проходит ли график функции через точку $(1,22;-1,38)?$\\\\\n",
+    "solution": "1. Так как при больших положительных значениях $x$ значения $y$ будут положительны, $k>0.$ Подставим в уравнение прямой точку $(1;b):\\ b=k\\cdot1+b \\Rightarrow k=0,$ что противоречит тому, что $k>0.$ Теперь подставим в уравнение прямой все значения из пункта в): $-1,38=\\cfrac{1}{2}\\cdot1,22-2\\Rightarrow-1,38=-1,39.$ Полученное равенство неверно, значит график функции через данную точку не проходит.\\\\\n"
+  },
+  {
+    "i": 2,
+    "problem": "2. $\\begin{tikzpicture}[scale=0.6]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.9pt}}\n\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-2,0) -- (2,0);\n\\draw [->] (0,-2) -- (0,2);\n\\draw[line01] (-1.5,2) -- (2,-0.5);\n\\draw (2,0.25) node {\\scriptsize $x$};\n\\draw (0.25,2) node {\\scriptsize $y$};\n\\end{tikzpicture}$\nНа рисунке изображён график функции вида $y=kx+b.$ Для этого графика ответьте на вопросы: а) Каков знак коэффициента $k?$ б) Проходит ли график через точку $(-1;b)?$\\\\ в) Пусть $k=2; b=1.$ Проходит ли график функции через точку $(1,73;3,47)?$\\\\\n",
+    "solution": "2. Так как при больших положительных значениях $x$ значения $y$ будут отрицательны, $k<0.$ Подставим в уравнение прямой точку $(1;b):\\ b=k\\cdot(-1)+b \\Rightarrow k=0,$ что противоречит тому, что $k<0.$ Теперь подставим в уравнение прямой все значения из пункта в): $3,47=2\\cdot1,73+1\\Rightarrow3,47=4,46.$ Полученное равенство неверно, значит график функции через данную точку не проходит.\\\\\n"
+  },
+  {
+    "i": 3,
+    "problem": "3. Найти число $a$ такое, что точка пересечения прямых, задаваемых уравнениями \\\\ $y=\\cfrac{1}{4}x+3a$ и $y=\\cfrac{1}{2}x-a,$ имеет абсциссу 8.\\\\\n",
+    "solution": "3. Если точка пересечения имеет абсциссу 8, то при подстановке $x=8$ в оба уравнения прямых должно получиться одно и то же число, то есть\n$\\cfrac{1}{4}\\cdot8+3a=\\cfrac{1}{2}\\cdot8-a,\\ 2+3a=4-a,\\ 4a=2,\\ a=\\cfrac{1}{2}.$\\\\\n"
+  },
+  {
+    "i": 4,
+    "problem": "4. Найти число $p$ такое, что точка пересечения прямых, задаваемых уравнениями \\\\ $y=\\cfrac{1}{3}x+2p$ и $y=\\cfrac{1}{2}x+p,$ имеет абсциссу 3.\\\\\n",
+    "solution": "4. Если точка пересечения имеет абсциссу 3, то при подстановке $x=3$ в оба уравнения прямых должно получиться одно и то же число, то есть\n$\\cfrac{1}{3}\\cdot3+2p=\\cfrac{1}{2}\\cdot3+p,\\ 1+2p=\\cfrac{3}{2}+p,\\ p=\\cfrac{1}{2}.$\\\\\n"
+  },
+  {
+    "i": 5,
+    "problem": "5. Построить множество точек на координатной плоскости, координаты которых удовлетворяют уравнению $(x-5)(2y+4x-6)=0.$\\\\\n",
+    "solution": "5. $(x-5)(2y+4x-6)=0\\Leftrightarrow\\left[\\begin{array}{c}x-5=0,\\\\ 2y+4x-6=0.\\end{array}\\right.\\Leftrightarrow\\left[\\begin{array}{c}x=5,\\\\ y=3-2x.\\end{array}\\right.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-6,0) -- (6,0);\n\\draw [->] (0,-8) -- (0,6);\n\\draw[line01] (5,-8) -- (5,5);\n\\draw[line01] (-1,5) -- (6,-9);\n\\draw (6.2,0.7) node {\\scriptsize $x$};\n\\draw (4.6,-0.7) node {\\scriptsize $5$};\n\\draw (1.3,-0.7) node {\\scriptsize $1.5$};\n\\draw (-0.7,3) node {\\scriptsize $3$};\n\\draw (0.7,6.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 6,
+    "problem": "6. Построить множество точек на координатной плоскости, координаты которых удовлетворяют уравнению $(x+4)(3y-6x+9)=0.$\\\\\n",
+    "solution": "6. $(x+4)(3y-6x+9)=0\\Leftrightarrow\\left[\\begin{array}{c}x+4=0,\\\\ 3y-6x+9=0.\\end{array}\\right.\\Leftrightarrow\\left[\\begin{array}{c}x=-4,\\\\ y=2x-3.\\end{array}\\right.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-6,0) -- (6,0);\n\\draw [->] (0,-11.6) -- (0,6);\n\\draw[line01] (-4,-11.6) -- (-4,5);\n\\draw[line01] (4,5) -- (-4.2,-11.4);\n\\draw (6.2,0.7) node {\\scriptsize $x$};\n\\draw (-4.9,-0.7) node {\\scriptsize $-4$};\n\\draw (1.3,-0.7) node {\\scriptsize $1.5$};\n\\draw (-1,-3) node {\\scriptsize $-3$};\n\\draw (0.7,6.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 7,
+    "problem": "7. При каких $a$ прямые, заданные уравнениями $x=a-3y$ и $2y=5-a-3x$ пересекаются в точке, принадлежащей прямой $y=2x+1?$\\\\\n",
+    "solution": "7. Если все три прямые пересекаются в одной точке, то в ней должны выполняться все три равенства, так что подставим $y=2x+1$ в первые два уравнения:\n$\\begin{cases} x=a-3(2x+1),\\\\ 2(2x+1)=5-a-3x.\\end{cases}\\Leftrightarrow\\begin{cases} x=a-6x-3,\\\\ 4x+2=5-a-3x.\\end{cases}\\Leftrightarrow\n\\begin{cases} 7x-a=-3,\\\\ 7x+a=3.\\end{cases}\\Rightarrow 2a=6 \\Rightarrow a=3.$\\\\\n"
+  },
+  {
+    "i": 8,
+    "problem": "8. При каких $b$ прямые, заданные уравнениями $x=2y+b$ и $3y=b-1+x$ пересекаются в точке, принадлежащей прямой $y=x-8?$\\\\\n",
+    "solution": "8. Если все три прямые пересекаются в одной точке, то в ней должны выполняться все три равенства, так что подставим $y=x-8$ в первые два уравнения:\n$\\begin{cases} x=2(x-8)+b,\\\\ 3(x-8)=b-1+x.\\end{cases}\\Leftrightarrow$\\\\$\\begin{cases} x=2x-16+b,\\\\ 3x-24=b-1+x.\\end{cases}\\Leftrightarrow\n\\begin{cases} -x-b=-16,\\\\ 2x-b=23.\\end{cases}\\Leftrightarrow\n\\begin{cases} -2x-2b=-32,\\\\ 2x-b=23.\\end{cases}\\Rightarrow -3b=-9 \\Rightarrow b=3.$\\\\\n"
+  },
+  {
+    "i": 9,
+    "problem": "9. При каком $k$ прямая $y=kx+4$ отсекает от осей координат в I четверти равнобедренный треугольник?\\\\\n",
+    "solution": "9. Эта прямая при любом $k$ проходит через точку $(0;4),$ то есть один из катетов отсекаемого прямоугольного треугольника равен 4. Если второй катет тоже равен 4 и отсекаемый треугольник находится в I четверти, она должна проходить также через точку $(4;0),$ поэтому $0=k\\cdot4+4,\\ k=-1.$\\\\\n"
+  },
+  {
+    "i": 10,
+    "problem": "10. При каком $k$ прямая $y=kx+5$ отсекает от осей координат в I четверти равнобедренный треугольник?\\\\\n",
+    "solution": "10. Эта прямая при любом $k$ проходит через точку $(0;5),$ то есть один из катетов отсекаемого прямоугольного треугольника равен 5. Если второй катет тоже равен 5 и отсекаемый треугольник находится в I четверти, она должна проходить также через точку $(5;0),$ поэтому $0=k\\cdot5+5,\\ k=-1.$\\\\\n"
+  },
+  {
+    "i": 11,
+    "problem": "11. Дана линейная функция $y=kx+1.$\\\\\nа) Постройте график этой функции, если он проходит через точку $A(239;1196).$\\\\\nб) При каком значении $k$ данная прямая образует вместе с осями координат прямоугольный треугольник, у которого один катет в 5 раз больше другого?\\\\\n",
+    "solution": "11. а) Подставим координаты точки $A$ в уравнение: $1196=239k+1,\\ k=5.$ Построим график прямой $y=5x+1$ по двум точкам $(0;1)$ и $(1;6).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-9) -- (0,11);\n\\draw[line01] (-2,-9) -- (2,11);\n\\draw[line03] (1,0) -- (1,6);\n\\draw[line03] (0,6) -- (1,6);\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.6,1) node {\\scriptsize $1$};\n\\draw (-0.6,6) node {\\scriptsize $6$};\n\\draw (1,-0.7) node {\\scriptsize $1$};\n\\draw (0.7,11.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Эта прямая при любом $k$ проходит через точку $(0;1),$ то есть один из катетов отсекаемого прямоугольного треугольника равен 1. Если второй катет отличается от него в 5 раз, то возможны 4 случая: он больше в 5 раз и точка пересечения с осью абсцисс имеет положительное или отрицательное значение или он меньше в 5 раз и точка пересечения с осью абсцисс имеет положительное или отрицательное значение. Таким образом, искомая прямая должна проходить через одну из точек $(5;0),\\ (-5;0),\\ \\left(\\cfrac{1}{5};0\\right),\\ \\left(-\\cfrac{1}{5};0\\right).$ Подставим эти точки в уравнение прямой и найдём все возможные значения $k:\\ 5k+1=0,\\ k=-\\cfrac{1}{5};\\ -5k+1=0,\\ k=\\cfrac{1}{5};\\ \\cfrac{1}{5}k+1=0,\\ k=-5;\\ -\\cfrac{1}{5}k+1=0,\\ k=5.$\\\\\n"
+  },
+  {
+    "i": 12,
+    "problem": "12. Дана линейная функция $y=ax+2.$\\\\\nа) Постройте график этой функции, если он проходит через точку $B(79;239).$\\\\\nб) При каком значении $a$ данная прямая образует вместе с осями координат прямоугольный треугольник, у которого один катет в 1,5 раза больше другого?\\\\\n",
+    "solution": "12. а) Подставим координаты точки $B$ в уравнение: $239=79a+2,\\ a=3.$ Построим график прямой $y=3x+2$ по двум точкам $(0;2)$ и $(1;5).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-9) -- (0,11);\n\\draw[line01] (-3,-7) -- (2,8);\n\\draw[line03] (1,0) -- (1,5);\n\\draw[line03] (0,5) -- (1,5);\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.6,2) node {\\scriptsize $2$};\n\\draw (-0.6,5) node {\\scriptsize $5$};\n\\draw (1,-0.7) node {\\scriptsize $1$};\n\\draw (0.7,11.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Эта прямая при любом $a$ проходит через точку $(0;2),$ то есть один из катетов отсекаемого прямоугольного треугольника равен 2. Если второй катет отличается от него в 1,5 раз, то возможны 4 случая: он больше в 1,5 раза и точка пересечения с осью абсцисс имеет положительное или отрицательное значение или он меньше в 1,5 раза и точка пересечения с осью абсцисс имеет положительное или отрицательное значение. Таким образом, искомая прямая должна проходить через одну из точек $(3;0),\\ (-3;0),\\ \\left(\\cfrac{4}{3};0\\right),\\ \\left(-\\cfrac{4}{3};0\\right).$ Подставим эти точки в уравнение прямой и найдём все возможные значения $k:\\ 3a+2=0,\\ a=-\\cfrac{2}{3};\\ -3a+2=0,\\ a=\\cfrac{2}{3};\\ \\cfrac{4}{3}a+2=0,\\ a=-\\cfrac{3}{2};\\ -\\cfrac{4}{3}a+2=0,\\ a=\\cfrac{3}{2}.$\\\\\n"
+  },
+  {
+    "i": 13,
+    "problem": "13. а) Постройте треугольник, ограниченный прямыми $y=\\cfrac{2}{3}x+2,\\ y=-\\cfrac{2}{3}x-2$ и осью $OY.$\\\\\nб) При каких значениях $b$ прямая $y=-x+b$ имеет с треугольником хотя бы одну общую точку?\\\\\n",
+    "solution": "13. а) Построим искомый треугольник по точкам пересечения данных прямых с осями координат: $(-3;0),\\ (0;2),\\ (0;-2).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line02] (-3,0) -- (0,2);\n\\draw[line02] (-3,0) -- (0,-2);\n\\draw[line02] (0,2) -- (0,-2);\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (0.6,2) node {\\scriptsize $2$};\n\\draw (1,-2) node {\\scriptsize $-2$};\n\\draw (-3,-1.6) node {\\scriptsize $-3$};\n\\draw (0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Все прямые вида $y=-x+b$ параллельны друг другу. Самая нижняя из них проходит через точку $(-3;0),$ поэтому $0=3+b,\\ b=-3$ --- наименьшее подходящее значение. Самая верхняя из них проходят через точку $(0;2),$ поэтому $2=0+b,\\ b=2$ --- наибольшее подходящее значение. Таким образом, $-3\\leqslant b \\leqslant 2.$\\\\\n"
+  },
+  {
+    "i": 14,
+    "problem": "14. а) Постройте треугольник, ограниченный прямыми $y=\\cfrac{2}{3}x-2,\\ y=-\\cfrac{2}{3}x+2$ и осью $OY.$\\\\\nб) При каких значениях $b$ прямая $y=-x+b$ имеет с треугольником хотя бы одну общую точку?\\\\\n",
+    "solution": "14. а) Построим искомый треугольник по точкам пересечения данных прямых с осями координат: $(3;0),\\ (0;2),\\ (0;-2).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line02] (3,0) -- (0,2);\n\\draw[line02] (3,0) -- (0,-2);\n\\draw[line02] (0,2) -- (0,-2);\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.6,2) node {\\scriptsize $2$};\n\\draw (-1,-2) node {\\scriptsize $-2$};\n\\draw (3,-1.2) node {\\scriptsize $3$};\n\\draw (0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Все прямые вида $y=-x+b$ параллельны друг другу. Самая нижняя из них проходит через точку $(0;-2),$ поэтому $-2=0+b,\\ b=-2$ --- наименьшее подходящее значение. Самая верхняя из них проходят через точку $(3;0),$ поэтому $0=-3+b,\\ b=3$ --- наибольшее подходящее значение. Таким образом, $-2\\leqslant b \\leqslant 3.$\\\\\n"
+  },
+  {
+    "i": 15,
+    "problem": "15. Известно, что прямая, заданная уравнением $y=kx+b,$ проходит через точки $A(4;-6)$ и $B(-8;-12).$ Найдите $k$ и $b,$ а также координаты точки пересечения с прямой $2x+y=2.$\\\\\n",
+    "solution": "15. Составим и решим систему уравнений: $\\begin{cases} 4k+b=-6,\\\\ -8k+b=-12.\\end{cases}\\Rightarrow 12k=6\\Rightarrow k=\\cfrac{1}{2}\\Rightarrow b=-8.$\nПреобразуем прямую $2x+y=2$ в $y=2-2x$ и приравняем правые части: $2-2x=\\cfrac{1}{2}x-8,\\ -\\cfrac{5}{2}x=-10,\\ x=4,\\ y=2-2\\cdot4=-6.$\\\\\n"
+  },
+  {
+    "i": 16,
+    "problem": "16. Известно, что прямая, заданная уравнением $y=kx+b,$ проходит через точки $A(2;1)$ и $B(-4;10).$ Найдите $k$ и $b,$ а также координаты точки пересечения с прямой $3x-y=5.$\\\\\n",
+    "solution": "16. Составим и решим систему уравнений: $\\begin{cases} 2k+b=1,\\\\ -4k+b=10.\\end{cases}\\Rightarrow 6k=-9\\Rightarrow k=-\\cfrac{3}{2}\\Rightarrow b=4.$\nПреобразуем прямую $3x-y=5$ в $y=3x-5$ и приравняем правые части: $3x-5=-\\cfrac{3}{2}x+4,\\ \\cfrac{9}{2}x=9,\\ x=2,\\ y=3\\cdot2-5=1.$\\\\\n"
+  },
+  {
+    "i": 17,
+    "problem": "17. Постройте график функции $y=|4x-3|.$\\\\\n",
+    "solution": "17. Построим по двум точкам $(0;-3)$ и $\\left(\\cfrac{3}{4};0\\right)$ график функции $y=4x-3$ и отразим его вверх симметрично относительно оси абсцисс.\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line01] (0.75,0) -- (2,5);\n\\draw[line01] (0.75,0) -- (-0.5,5);\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.6,3) node {\\scriptsize $3$};\n\\draw (0.75,-1.2) node {\\scriptsize $\\frac{3}{4}$};\n\\draw (0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 18,
+    "problem": "18. Постройте график функции $y=4|x|-3.$\\\\\n",
+    "solution": "18. Построим по двум точкам $(0;-3)$ и $\\left(\\cfrac{3}{4};0\\right)$ график функции $y=4x-3$ и отразим его влево симметрично относительно оси ординат.\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line01] (0,-3) -- (2,5);\n\\draw[line01] (0,-3) -- (-2,5);\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (-1.6,-3) node {\\scriptsize $-3$};\n\\draw (1.75,-1.2) node {\\scriptsize $\\frac{3}{4}$};\n\\draw (-2.15,-1.2) node {\\scriptsize $-\\frac{3}{4}$};\n\\draw (0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 19,
+    "problem": "19. Найдите значения $k$ и $b$ функции вида $y=kx+b,$ если известно, что график функции проходит через точки $M(3;9)$ и $N(-6;-9).$ Найдите координаты точки пересечения этого графика с прямой $y=6.$\\\\\n",
+    "solution": "19. Составим и решим систему уравнений: $\\begin{cases} 3k+b=9,\\\\ -6k+b=-9.\\end{cases}\\Rightarrow 9k=18\\Rightarrow k=2\\Rightarrow b=3.$ Найдём точку пересечения, приравняв значение $y$ к $6:\\ 2x+3=6,\\ x=\\cfrac{3}{2}.$\\\\\n"
+  },
+  {
+    "i": 20,
+    "problem": "20. Найдите значения $k$ и $b$ функции вида $y=kx+b,$ если известно, что график функции проходит через точки $A(3;9)$ и $B(-2;-6).$ Найдите координаты точки пересечения этого графика с прямой $y=-3.$\\\\\n",
+    "solution": "20. Составим и решим систему уравнений: $\\begin{cases} 3k+b=9,\\\\ -2k+b=-6.\\end{cases}\\Rightarrow 5k=15\\Rightarrow k=3\\Rightarrow b=0.$ Найдём точку пересечения, приравняв значение $y$ к $-3:\\ 3x=-3,\\ x=-1.$\\\\\n"
+  },
+  {
+    "i": 21,
+    "problem": "21. $\\begin{tikzpicture}[scale=0.6]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.9pt}}\n\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-2,0) -- (2,0);\n\\draw [->] (0,-2) -- (0,2);\n\\draw[line01] (-1.7,-2) -- (1.2,1.8);\n\\draw[line01] (-1.2,-1.8) -- (0.7,2);\n\\draw (-1.7,-1.6) node {\\scriptsize $l_1$};\n\\draw (-0.67,-1.6) node {\\scriptsize $l_2$};\n\\draw (2,0.25) node {\\scriptsize $x$};\n\\draw (0.25,2) node {\\scriptsize $y$};\n\\end{tikzpicture}$ На рисунке прямая $l_1$ задана уравнением $y=k_1x+b_1,$ а прямая $l_2$ уравнением $y=k_2x+b_2.$ Сравните $k_1b_1$ и $k_2b_2.$\\\\\n",
+    "solution": "21. Так как прямые идут <<вправо--вверх>>, значения $k_1$ и $k_2$ положительны, при этом наклон прямой $l_2$ круче, значит $k_2>k_1.$ Так как точки пересечения прямых с осью ординат расположены выше оси абсцисс, значения $b_1$ и $b_2$ положительны, при этом точка пересечения прямой $l_2$ находится выше, значит $b_2>b_1.$ Таким образом, $k_2b_2>k_1b_1.$\\\\\n"
+  },
+  {
+    "i": 22,
+    "problem": "22. $\\begin{tikzpicture}[scale=0.6]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.9pt}}\n\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-2,0) -- (2,0);\n\\draw [->] (0,-2) -- (0,2);\n\\draw[line01] (-0.5,2) -- (1.2,-2);\n\\draw[line01] (-1.5,1.3) -- (1.7,-1.9);\n\\draw (1.85,-1.6) node {\\scriptsize $l_2$};\n\\draw (0.67,-1.6) node {\\scriptsize $l_1$};\n\\draw (2,0.25) node {\\scriptsize $x$};\n\\draw (0.25,2) node {\\scriptsize $y$};\n\\end{tikzpicture}$ На рисунке прямая $l_1$ задана уравнением $y=k_1x+b_1,$ а прямая $l_2$ уравнением $y=k_2x+b_2.$ Сравните $k_1b_1$ и $k_2b_2.$\\\\\n",
+    "solution": "22. Так как прямые идут <<вправо--вниз>>, значения $k_1$ и $k_2$ отрицательны. Точка пересечения прямой $l_1$ с осью ординат находится выше оси абсцисс, а прямой $l_2$ --- ниже, поэтому $b_1>0,\\ b_2<0.$ Таким образом, $k_2b_2>0>k_1b_1.$\\\\\n"
+  },
+  {
+    "i": 23,
+    "problem": "23. Постройте график функции $y=-3x-1$ и найдите, при каких значениях $x$ значения $y$ не больше 2.\\\\\n",
+    "solution": "23. Построим график по двум точкам $(-1;2)$ и $(0;-1).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line01] (-2,5) -- (1,-4);\n\\draw[line03] (-1,2) -- (-1,0);\n\\draw[line03] (-1,2) -- (0,2);\n%\\draw[line01] (0,-3) -- (-2,5);\n\\draw (0.6,2) node {\\tiny $2$};\n\\draw (-1.4,-0.7) node {\\tiny $-1$};\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (1.2,-1.2) node {\\tiny $-1$};\n\\draw (0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nЗначение $y=2$ достигается при $x=-1,$ а так как функция убывает, неравенство $y\\leqslant2$ выполняется при $x\\geqslant-1.$\\\\\n"
+  },
+  {
+    "i": 24,
+    "problem": "24. Постройте график функции $y=-5x-4$ и найдите, при каких значениях $x$ значения $y$ не меньше 16.\\\\\n",
+    "solution": "24. Построим график по двум точкам $(-1;1)$ и $(0;-4).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (1,-9) -- (-2,6);\n\\draw[line03] (-1,1) -- (0,1);\n\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n\\draw (0.6,-4) node {\\tiny $-4$};\n\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (0.7,1) node {\\tiny $1$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nЗначение $y=16$ достигается при $x=-4,$ а так как функция убывает, неравенство $y\\geqslant16$ выполняется при $x\\leqslant-4.$\\\\\n"
+  },
+  {
+    "i": 25,
+    "problem": "25. Постройте множество точек $(x;y)$ на плоскости, для которых $\\cfrac{(x^2-9)(y+x-1)}{x-3}=0.$\\\\\n",
+    "solution": "25. $\\cfrac{(x^2-9)(y+x-1)}{x-3}=0\\Leftrightarrow\\cfrac{(x-3)(x+3)(y+x-1)}{x-3}=0\\Leftrightarrow\n\\begin{cases}\\left[\\begin{array}{l}x=-3,\\\\ y=1-x.\\end{array}\\right.\\\\ x\\neq3\\end{cases}$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-6,0) -- (6,0);\n\\draw [->] (0,-6) -- (0,6);\n\\draw[line01] (-3,-5) -- (-3,5);\n\\draw[line01] (-4,5) -- (4,-3);\n\\draw (6.2,0.7) node {\\scriptsize $x$};\n\\draw (-4.1,-0.7) node {\\scriptsize $-3$};\n\\draw (3.5,-0.7) node {\\scriptsize $3$};\n\\draw (0.7,1) node {\\scriptsize $1$};\n\\draw (-1.5,-2) node {\\scriptsize $-2$};\n\\draw[line03] (3,0) -- (3,-2);\n\\draw[line03] (0,-2) -- (3,-2);\n\\draw (0.7,6.2) node {\\scriptsize $y$};\n\\draw (3,-2) circle (10pt);\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 26,
+    "problem": "26. Постройте множество точек $(x;y)$ на плоскости, для которых $\\cfrac{(x^2-4)(y-x+1)}{x-2}=0.$\\\\\n",
+    "solution": "26. $\\cfrac{(x^2-4)(y-x+1)}{x-2}=0=0\\Leftrightarrow\\cfrac{(x-2)(x+2)(y-x+1)}{x-2}=0\\Leftrightarrow\n\\begin{cases}\\left[\\begin{array}{l}x=-2,\\\\ y=x-1.\\end{array}\\right.\\\\ x\\neq2\\end{cases}$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-6,0) -- (6,0);\n\\draw [->] (0,-6) -- (0,6);\n\\draw[line01] (-2,-5) -- (-2,5);\n\\draw[line01] (-4,-5) -- (4,3);\n\\draw (6.2,0.7) node {\\scriptsize $x$};\n\\draw (-3.4,-0.7) node {\\scriptsize $-2$};\n\\draw (2.2,-0.7) node {\\scriptsize $2$};\n\\draw (-0.7,1) node {\\scriptsize $1$};\n\\draw (1.1,-1) node {\\tiny $-1$};\n\\draw[line03] (2,0) -- (2,1);\n\\draw[line03] (0,1) -- (2,1);\n\\draw (0.7,6.2) node {\\scriptsize $y$};\n\\draw (2,1) circle (10pt);\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 27,
+    "problem": "27. Найдите координаты точки, через которую проходят графики функций $y=2-k-kx$ при любых значениях $k.$\\\\\n",
+    "solution": "27. Чтобы $k$ сократилось, необходимо взять $x=-1,$ в таком случае $y=2.$\\\\\n"
+  },
+  {
+    "i": 28,
+    "problem": "28. Найдите координаты точки, через которую проходят графики функций $y=1-k+kx$ при любых значениях $k.$\\\\\n",
+    "solution": "28. Чтобы $k$ сократилось, необходимо взять $x=1,$ в таком случае $y=1.$\\\\\n"
+  },
+  {
+    "i": 29,
+    "problem": "29. На координатной плоскости задано множество точек $(x;y),$ причём ординаты точек вычисляются по формуле $y=3-2x.$\\\\\nа) изобразите на координатной плоскости множество данных точек.\\\\\nб) найдите число, квадрат которого даёт абсциссу точки $A(x;-239),$ если известно, что $A$ --- одна из точек этого множества.\\\\\n",
+    "solution": "29. а) Построим график по двум точкам $(0;3)$ и $\\left(\\cfrac{3}{2};0\\right).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (4,-5) -- (-3,9);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (0.7,3) node {\\tiny $3$};\n\\draw (1.9,0.9) node {\\tiny $\\frac{3}{2}$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) $-239=3-2x,\\ x=121,\\ 121=11^2\\text{ или } (-11)^2.$\\\\\n"
+  },
+  {
+    "i": 30,
+    "problem": "30. На координатной плоскости задано множество точек $(x;y),$ причём ординаты точек вычисляются по формуле $y=2x-3.$\\\\\nа) изобразите на координатной плоскости множество данных точек.\\\\\nб) найдите число, квадрат которого даёт абсциссу точки $B(x;239),$ если известно, что $B$ --- одна из точек этого множества.\\\\\n",
+    "solution": "30. а) Построим график по двум точкам $(0;-3)$ и $\\left(\\cfrac{3}{2};0\\right).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (4,5) -- (-3,-9);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-1,-3) node {\\tiny $-3$};\n\\draw (1.9,-0.9) node {\\tiny $\\frac{3}{2}$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) $239=2x-3,\\ x=121,\\ 121=11^2\\text{ или } (-11)^2.$\\\\\n"
+  },
+  {
+    "i": 31,
+    "problem": "31. Дана функция $y=3,6x-1.$\\\\\nа) Запишите уравнение прямой, параллельной данной и проходящей через точку $D(-0,5;8,2).$ Постройте найденную прямую.\\\\\nб) Напишите уравнения каких-либо двух прямых, не совпадающих с осями координат, которые вместе с данной прямой ограничивают на координатной плоскости прямоугольный треугольник.\\\\\n",
+    "solution": "31. а) Раз прямые параллельны, $k=3,6.$ Подставим координаты точки $D:\\ 8,2=3,6\\cdot(-0,5)+b,\\ b=10.$  Построим прямую $y=3,6x+10$ по двум точкам $(0;10)$ и $(-5;-8).$\n$$\\begin{tikzpicture}[scale=0.1]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (20,0);\n\\draw [->] (0,-10) -- (0,20);\n\\draw[line01] (-5,-8) -- (3,20.8);\n\\draw[line03] (-5,-8) -- (0,-8);\n\\draw[line03] (-5,-8) -- (-5,0);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (20.2,2) node {\\scriptsize $x$};\n\\draw (-5,1) node {\\tiny $-5$};\n\\draw (1.9,-8) node {\\tiny $-8$};\n\\draw (1.9,10) node {\\tiny $10$};\n\\draw (-1.5,20.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Подходят любые две прямые, одна из которых вертикальна, а другая горизонтальна, например $x=1,\\ y=1.$\\\\\n"
+  },
+  {
+    "i": 32,
+    "problem": "32. Дана функция $y=-1,5x+4.$\\\\\nа) Запишите уравнение прямой, параллельной данной и проходящей через точку $D(7;-2,5).$ Постройте найденную прямую.\\\\\nб) Напишите уравнения каких-либо двух прямых, не совпадающих с осями координат, которые вместе с данной прямой ограничивают на координатной плоскости прямоугольный треугольник.\\\\\n",
+    "solution": "32. а) Раз прямые параллельны, $k=-1,5.$ Подставим координаты точки $D:\\ -2,5=(-1,5)\\cdot7+b,\\ b=8.$  Построим прямую $y=-1,5x+8$ по двум точкам $(0;8)$ и $(4;2).$\n$$\\begin{tikzpicture}[scale=0.1]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (20,0);\n\\draw [->] (0,-10) -- (0,20);\n\\draw[line01] (-4,14) -- (8,-4);\n\\draw[line03] (4,2) -- (4,0);\n\\draw[line03] (0,2) -- (4,2);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (20.2,2) node {\\scriptsize $x$};\n\\draw (4,-1) node {\\tiny $4$};\n\\draw (-1.9,2) node {\\tiny $2$};\n\\draw (1,8) node {\\tiny $8$};\n\\draw (-1.5,20.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Подходят любые две прямые, одна из которых вертикальна, а другая горизонтальна, например $x=1,\\ y=1.$\\\\\n"
+  },
+  {
+    "i": 33,
+    "problem": "33. Постройте график функции $y=kx+b,$ если он параллелен прямой $y=2x$ и проходит через точку $A(2;7).$ Укажите три точки, принадлежащие данному графику.\\\\\n",
+    "solution": "33. Раз прямые параллельны, $k=2.$ Подставим координаты точки $A:\\ 7=2\\cdot2+b,\\ b=3.$ Укажем три принадлежащие графику $y=2x+3$ точки: $(-3;-3),\\ (-1;1)$ и $(0;3).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line01] (-4,-5) -- (1,5);\n\\draw[line03] (-1,1) -- (-1,0);\n\\draw[line03] (-1,1) -- (0,1);\n\\draw[line03] (-3,-3) -- (-3,0);\n\\draw[line03] (-3,-3) -- (0,-3);\n%\\draw[line01] (0,-3) -- (-2,5);\n\\draw (0.6,3) node {\\tiny $3$};\n\\draw (1,-3) node {\\tiny $-3$};\n\\draw (-3,0.6) node {\\tiny $-3$};\n\\draw (-1.2,-0.7) node {\\tiny $-1$};\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (0.6,1) node {\\tiny $1$};\n\\draw (-0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 34,
+    "problem": "34. Постройте график функции $y=kx+b,$ если он параллелен прямой $y=-3x$ и проходит через точку $A(1;4).$ Укажите три точки, принадлежащие данному графику.\\\\\n",
+    "solution": "34. Раз прямые параллельны, $k=-3.$ Подставим координаты точки $A:\\ 4=(-3)\\cdot1+b,\\ b=7.$ Укажем три принадлежащие графику $y=-3x+7$ точки: $(-3;16),\\ (0;7)$ и $(4;-5).$\n$$\\begin{tikzpicture}[scale=0.1]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (20,0);\n\\draw [->] (0,-10) -- (0,20);\n\\draw[line01] (-4,19) -- (6,-11);\n\\draw[line03] (-3,16) -- (0,16);\n\\draw[line03] (-3,16) -- (-3,0);\n\\draw[line03] (4,0) -- (4,-5);\n\\draw[line03] (0,-5) -- (4,-5);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (20.2,2) node {\\scriptsize $x$};\n\\draw (-3,-1) node {\\tiny $-3$};\n\\draw (4,1.5) node {\\tiny $4$};\n\\draw (-2,-5) node {\\tiny $-5$};\n\\draw (1,7) node {\\tiny $7$};\n\\draw (1.9,16) node {\\tiny $16$};\n\\draw (-1.5,20.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 35,
+    "problem": "35. График линейной функции проходит через точку $A(9;-18)$ и точку пересечения прямых $y=x-7$ и $y=8x.$ Задайте функцию формулой и постройте график функции.\\\\\n",
+    "solution": "35. Найдём точку пересечения прямых $y=x-7$ и $y=8x:\\ x-7=8x,\\ -7x=7,\\ x=-1,\\ y=8\\cdot(-1)=-8.$ Найдём функцию $y=kx+b,$ график которой проходит через точки\n$(9;-18)$ и $(-1;-8):\\ \\begin{cases} -18=9k+b,\\\\ -8=(-1)k+b.\\end{cases}\\Leftrightarrow \\begin{cases} -10=10k,\\\\ -8=(-1)k+b.\\end{cases}\n\\Leftrightarrow \\begin{cases} k=-1,\\\\ b=-9.\\end{cases}$ Построим прямую $y=-x-9$ по двум точкам $(-9;0)$ и $(0;-9).$\n$$\\begin{tikzpicture}[scale=0.1]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-20,0) -- (10,0);\n\\draw [->] (0,-20) -- (0,10);\n\\draw[line01] (-18,9) -- (6,-15);\n%\\draw[line03] (-3,16) -- (0,16);\n%\\draw[line03] (-3,16) -- (-3,0);\n%\\draw[line03] (4,0) -- (4,-5);\n%\\draw[line03] (0,-5) -- (4,-5);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,2) node {\\scriptsize $x$};\n%\\draw (-3,-1) node {\\tiny $-3$};\n%\\draw (4,1.5) node {\\tiny $4$};\n\\draw (-10.1,-1) node {\\tiny $-9$};\n\\draw (1.8,-9) node {\\tiny $-9$};\n%\\draw (1,7) node {\\tiny $7$};\n%\\draw (1.9,16) node {\\tiny $16$};\n\\draw (-1.5,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 36,
+    "problem": "36. График линейной функции проходит через точку $A(-6;12)$ и точку пересечения прямых $y=-3x$ и $y=x+12.$ Задайте функцию формулой и постройте график функции.\\\\\n",
+    "solution": "36. Найдём точку пересечения прямых $y=-3x$ и $y=x+12:\\ -3x=x+12,\\ -4x=12,\\ x=-3,\\ y=(-3)\\cdot(-3)=9.$ Найдём функцию $y=kx+b,$ график которой проходит через точки\n$(-6;12)$ и $(-3;9):\\ \\begin{cases} 12=-6k+b,\\\\ 9=-3k+b.\\end{cases}\\Leftrightarrow \\begin{cases} 3=-3k,\\\\ 9=-3k+b.\\end{cases}\n\\Leftrightarrow \\begin{cases} k=-1,\\\\ b=6.\\end{cases}$ Построим прямую $y=-x+6$ по двум точкам $(6;0)$ и $(0;6).$\n$$\\begin{tikzpicture}[scale=0.1]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-20,0) -- (10,0);\n\\draw [->] (0,-20) -- (0,10);\n\\draw[line01] (-5,11) -- (10,-4);\n%\\draw[line03] (-3,16) -- (0,16);\n%\\draw[line03] (-3,16) -- (-3,0);\n%\\draw[line03] (4,0) -- (4,-5);\n%\\draw[line03] (0,-5) -- (4,-5);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,2) node {\\scriptsize $x$};\n%\\draw (-3,-1) node {\\tiny $-3$};\n%\\draw (4,1.5) node {\\tiny $4$};\n\\draw (6,-1) node {\\tiny $6$};\n\\draw (1,6) node {\\tiny $6$};\n%\\draw (1,7) node {\\tiny $7$};\n%\\draw (1.9,16) node {\\tiny $16$};\n\\draw (-1.5,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 37,
+    "problem": "37. Постройте график прямой $y=-6kx+3b-9,$ где числа $k$ и $b$ --- это соответственно абсцисса и ордината точки пересечения прямых $y=2x+3$ и $y=8x+7.$\\\\\n",
+    "solution": "37. Найдём точку пересечения прямых $y=2x+3$ и $y=8x+7:\\ 2x+3=8x+7,\\ -6x=4,\\ x=-\\cfrac{2}{3},\\ y=2\\cdot\\left(-\\cfrac{2}{3}\\right)+3=\\cfrac{5}{3}.$ Тогда необходимо построить график прямой $y=-6\\cdot\\left(-\\cfrac{2}{3}\\right)x+3\\cdot\\cfrac{5}{3}-9=4x-4.$ Построим его по двум точкам $(0;-4)$ и $(1;0).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (3,8) -- (-1.5,-10);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-1,-4) node {\\tiny $-4$};\n\\draw (1.1,-1) node {\\tiny $1$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 38,
+    "problem": "38. Постройте график прямой $y=3kx-0,6\\cdot b$ где числа $k$ и $b$ --- это соответственно абсцисса и ордината точки пересечения прямых $y=2x-4$ и $y=8x-6.$\\\\\n",
+    "solution": "38. Найдём точку пересечения прямых $y=2x-4$ и $y=8x-6:\\ 2x-4=8x-6,\\ -6x=-2,\\ x=\\cfrac{1}{3},\\ y=2\\cdot\\left(\\cfrac{1}{3}\\right)-4=-\\cfrac{10}{3}.$ Тогда необходимо построить график прямой $y=3\\cdot\\cfrac{1}{3}x-0,6\\cdot \\left(-\\cfrac{10}{3}\\right)=x+2.$ Построим его по двум точкам $(0;2)$ и $(-2;0).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (6,8) -- (-8,-6);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (1,2) node {\\tiny $2$};\n\\draw (-2,-1) node {\\tiny $-2$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 39,
+    "problem": "39. Определите линейную функцию, если её график удовлетворяет условиям:\\\\\n--- он параллелен графику функции $y=-3x-7$\\\\\n--- он проходит через точку пересечения прямых, заданных уравнениями $y=-2x+2$ и $y=3x-13.$\\\\\n",
+    "solution": "39. Раз график линейной функции $y=kx+b$ параллелен графику функции $y=-3x-7,$ её коэффициент $k=-3.$ Найдём точку пересечения прямых, заданных уравнениями $y=-2x+2$ и $y=3x-13:\\ -2x+2=3x-13,\\ -5x=-15,\\ x=3,\\ y=-2\\cdot3+2=-4.$ Подставим координаты этой точки: $-4=(-3)\\cdot3+b,\\ b=5,$ то есть искомая функция имеет вид $y=-3x+5.$\\\\\n"
+  },
+  {
+    "i": 40,
+    "problem": "40. Определите линейную функцию, если её график удовлетворяет условиям:\\\\\n--- он параллелен графику функции $y=-2x+7$\\\\\n--- он проходит через точку пересечения прямых, заданных уравнениями $y=2x+11$ и $y=-3x-9.$\\\\\n",
+    "solution": "40. Раз график линейной функции $y=kx+b$ параллелен графику функции $y=-2x+7,$ её коэффициент $k=-2.$ Найдём точку пересечения прямых, заданных уравнениями $y=2x+11$ и $y=-3x-9:\\ 2x+11=-3x-9,\\ 5x=-20,\\ x=-4,\\ y=2\\cdot(-4)+11=3.$ Подставим координаты этой точки: $3=(-2)\\cdot(-4)+b,\\ b=-5,$ то есть искомая функция имеет вид $y=-2x-5.$\\\\\n"
+  },
+  {
+    "i": 41,
+    "problem": "41. Найдите уравнения прямых $AB$ и $CD$ и координаты точки их пересечения, если известны координаты точек: $A(3;8),\\ B(12;5),\\ C(4;2),\\ D(2;-3).$\\\\\n",
+    "solution": "41. Найдём прямую $AB:\\ \\begin{cases} 3k+b=8,\\\\ 12k+b=5.\\end{cases}\\Leftrightarrow\\begin{cases} -9k=3,\\\\ 12k+b=5.\\end{cases}\\Leftrightarrow\n\\begin{cases} k=-\\cfrac{1}{3},\\\\ b=9.\\end{cases}$ Найдём прямую $CD:\\ \\begin{cases} 4k+b=2,\\\\ 2k+b=-3.\\end{cases}\\Leftrightarrow\\begin{cases} 2k=5,\\\\ 2k+b=-3.\\end{cases}\\Leftrightarrow\n\\begin{cases} k=\\cfrac{5}{2},\\\\ b=-8.\\end{cases}$ Найдём точку их пересечения: $-\\cfrac{1}{3}x+9=\\cfrac{5}{2}x-8,\\ -\\cfrac{17}{6}x=-17,\\ x=6,\\ y=-\\cfrac{1}{3}\\cdot6+9=7.$\\\\\n"
+  },
+  {
+    "i": 42,
+    "problem": "42. Найдите уравнения прямых $AB$ и $CD$ и координаты точки их пересечения, если известны координаты точек: $A(2;4),\\ B(4;1),\\ C(3;-4),\\ D(12;2).$\\\\\n",
+    "solution": "42. Найдём прямую $AB:\\ \\begin{cases} 2k+b=4,\\\\ 4k+b=1.\\end{cases}\\Leftrightarrow\\begin{cases} -2k=3,\\\\ 4k+b=1.\\end{cases}\\Leftrightarrow\n\\begin{cases} k=-\\cfrac{3}{2},\\\\ b=7.\\end{cases}$ Найдём прямую $CD:\\ \\begin{cases} 3k+b=-4,\\\\ 12k+b=2.\\end{cases}\\Leftrightarrow\\begin{cases} -9k=-6,\\\\ 12k+b=2.\\end{cases}\\Leftrightarrow\n\\begin{cases} k=\\cfrac{2}{3},\\\\ b=-6.\\end{cases}$ Найдём точку их пересечения: $-\\cfrac{3}{2}x+7=\\cfrac{2}{3}x-6,\\ -\\cfrac{13}{6}x=-13,\\ x=6,\\ y=-\\cfrac{3}{2}\\cdot6+7=-2.$\\\\\n"
+  },
+  {
+    "i": 43,
+    "problem": "43. Определите, лежат ли точки $A(10;-2),\\ B(20;3)$ и $C(2016;1001)$ на одной прямой.\\\\\n",
+    "solution": "43. Найдём прямую $AB:\\ \\begin{cases} 10k+b=-2,\\\\ 20k+b=3.\\end{cases}\\Leftrightarrow\\begin{cases} -10k=-5,\\\\ 20k+b=3.\\end{cases}\n\\Leftrightarrow\\begin{cases} k=\\cfrac{1}{2},\\\\ b=-7.\\end{cases}$ Подставим в уравнение этой прямой координаты точки $C:\\ \\cfrac{1}{2}\\cdot2016-7=1001.$ Полученное равенство верно, значит все три точки лежат на одной прямой.\\\\\n"
+  },
+  {
+    "i": 44,
+    "problem": "44. Определите, лежат ли точки $A(9;-2),\\ B(18;1)$ и $C(2016;667)$ на одной прямой.\\\\\n",
+    "solution": "44. Найдём прямую $AB:\\ \\begin{cases} 9k+b=-2,\\\\ 18k+b=1.\\end{cases}\\Leftrightarrow\\begin{cases} -9k=-3,\\\\ 18k+b=1.\\end{cases}\n\\Leftrightarrow\\begin{cases} k=\\cfrac{1}{3},\\\\ b=-5.\\end{cases}$ Подставим в уравнение этой прямой координаты точки $C:\\ \\cfrac{1}{3}\\cdot2016-5=667.$ Полученное равенство верно, значит все три точки лежат на одной прямой.\\\\\n"
+  },
+  {
+    "i": 45,
+    "problem": "45. Найдите число $p,$ если известно, что точки $A\\left(-\\cfrac{1}{3};7\\right),\\ B(3;-3)$ и $C\\left(\\cfrac{p-1}{2}; p\\right)$ лежат на одной прямой. Запишите уравнение этой прямой.\\\\\n",
+    "solution": "45. Найдём прямую $AB:\\ \\begin{cases} -\\cfrac{1}{3}k+b=7,\\\\ 3k+b=-3.\\end{cases}\\Leftrightarrow\\begin{cases} -\\cfrac{10}{3}k=10,\\\\ 3k+b=-3.\\end{cases}\n\\Leftrightarrow\\begin{cases} k=-3,\\\\ b=6.\\end{cases}$ Подставим в уравнение этой прямой координаты точки $C:\\ p=(-3)\\cdot\\cfrac{p-1}{2}+6,\\\n2p=-3p+3+12,\\ 5p=15,\\ p=3.$ Эта прямая имеет уравнение $y=-3x+6.$\\\\\n"
+  },
+  {
+    "i": 46,
+    "problem": "46. Найдите число $p,$ если известно, что точки $A\\left(-\\cfrac{1}{2};-5\\right),\\ B(-4;2)$ и $C\\left(\\cfrac{p+2}{2}; p\\right)$ лежат на одной прямой. Запишите уравнение этой прямой.\\\\\n",
+    "solution": "46. Найдём прямую $AB:\\ \\begin{cases} -\\cfrac{1}{2}k+b=-5,\\\\ -4k+b=2.\\end{cases}\\Leftrightarrow\\begin{cases} \\cfrac{7}{2}k=-7,\\\\ -4k+b=2.\\end{cases}\n\\Leftrightarrow\\begin{cases} k=-2,\\\\ b=-6.\\end{cases}$ Подставим в уравнение этой прямой координаты точки $C:\\ p=(-2)\\cdot\\cfrac{p+2}{2}-6,\\\np=-p-2-6,\\ 2p=-8,\\ p=-4.$ Эта прямая имеет уравнение $y=-2x-6.$\\\\\n"
+  },
+  {
+    "i": 47,
+    "problem": "47. График функции $y=kx+b$ проходит через точки $(4;-5)$ и $(k;0).$ Постройте его и найдите точку пересечения с прямой $5x-2y+17=0.$\\\\\n",
+    "solution": "47. Найдём прямую, проходящую через данные точки: $\\begin{cases} 4k+b=-5,\\\\ k^2+b=0.\\end{cases}\\Leftrightarrow\n\\begin{cases} 4k+b=-5,\\\\ k^2-4k-5=0.\\end{cases}\\Leftrightarrow\\begin{cases} 4k+b=-5,\\\\ (k-5)(k+1)=0.\\end{cases}\\Leftrightarrow\n\\left[\\begin{array}{l}\\begin{cases} b=-25,\\\\ k=5.\\end{cases}\\\\ \\begin{cases} b=-1,\\\\ k=-1.\\end{cases}\\end{array}\\right.$ Для нахождения точки пересечения необходимо решить систему уравнений: $\\left[\\begin{array}{l}\\begin{cases} y=5x-25,\\\\ 5x-2y+17=0.\\end{cases}\\\\ \\begin{cases} y=-x-1,\\\\ 5x-2y+17=0.\\end{cases}\\end{array}\\right.\n\\Leftrightarrow\\left[\\begin{array}{l}\\begin{cases} y=5x-25,\\\\ 5x-10x+50+17=0.\\end{cases}\\\\ \\begin{cases} y=-x-1,\\\\ 5x+2x+2+17=0.\\end{cases}\\end{array}\\right.\n\\Leftrightarrow\\left[\\begin{array}{l}\\begin{cases} y=42,\\\\ x=\\frac{67}{5}.\\end{cases}\\\\ \\begin{cases} y=\\frac{12}{7},\\\\ x=-\\frac{19}{7}.\\end{cases}\\end{array}\\right.$ Первую прямую проведём через точки $(5;0)$ и $(0;-25),$ а вторую --- через точки $(-1;0)$ и $(0;-1).$\n$$\\begin{array}{lr}\n\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (10,0);\n\\draw [->] (0,-30) -- (0,10);\n\\draw[line01] (6,5) -- (-1,-30);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (1,-25) node {\\tiny $-25$};\n\\draw (5.3,-1) node {\\tiny $5$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}&\n\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (6,-7) -- (-8,7);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (1,-1) node {\\tiny $-1$};\n\\draw (-1,1) node {\\tiny $-1$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}\\end{array}$$\n"
+  },
+  {
+    "i": 48,
+    "problem": "48. Найдите все значения $m,$ при каждом из которых прямая $y=(2m+1)x+1-4m$ проходит через точку пересечения прямых $y=\\cfrac{x}{3}-8,5$ и $y=-6x+20.$\\\\\n",
+    "solution": "48. Найдём точку пересечения прямых $y=\\cfrac{x}{3}-8,5$ и $y=-6x+20:\\ \\cfrac{x}{3}-8,5=-6x+20,\\ \\cfrac{19}{3}x=28,5,\\ x=\\cfrac{9}{2},\\ y=-7.$ Подставим её координаты в уравнение прямой $y=(2m+1)x+1-4m:\\ -7=(2m+1)\\cdot\\cfrac{9}{2}+1-4m,\\ -14=18m+9+2-8m,\\ -10m=25,\\ m=-\\cfrac{5}{2}.$\\\\\n"
+  },
+  {
+    "i": 49,
+    "problem": "49. Найдите все значения $t,$ при каждом из которых прямая $y=(2t-1)x+9,5-5t$ проходит через точку пересечения прямых $y=\\cfrac{x}{3}-6,5$ и $y=-4x+26.$\\\\\n",
+    "solution": "49. Найдём точку пересечения прямых $y=\\cfrac{x}{3}-6,5$ и $y=-4x+26:\\ \\cfrac{x}{3}-6,5=-4x+26,\\ \\cfrac{13}{3}x=32,5,\\ x=\\cfrac{15}{2},\\ y=-4.$ Подставим её координаты в уравнение прямой $y=(2t-1)x+9,5-5t:\\ -4=(2t-1)\\cdot\\cfrac{15}{2}+9,5-5t,\\ -8=30t-15+19-10t,\\ -20t=12,\\ t=-\\cfrac{3}{5}.$\\\\\n"
+  },
+  {
+    "i": 50,
+    "problem": "50. Напишите уравнение прямой, параллельной прямой $y=-\\cfrac{1}{2}x+11$  и проходящей через точку пересечения прямых, заданных уравнениями $y=2x-5$ и $y=-x+4.$ Постройте график заданной функции.\\\\\n",
+    "solution": "50. Найдём точку пересечения прямых, заданных уравнениями $y=2x-5$ и $y=-x+4:\\ 2x-5=-x+4,\\ 3x=9,\\ x=3,\\ y=-3+4=1.$ Раз прямая $y=kx+b$ параллельна прямой $y=-\\cfrac{1}{2}x+11,$ её коэффициент $k=-\\cfrac{1}{2}.$ Подставим в её уравнение координаты найденной точки: $1=-\\cfrac{1}{2}\\cdot3+b,\\ b=\\cfrac{5}{2}.$\nПроведём прямую через две точки $\\left(0;\\cfrac{5}{2}\\right)$ и $(5;0).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (7,-1) -- (-7,6);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (1,3) node {\\tiny $\\frac{5}{2}$};\n\\draw (5,1) node {\\tiny $5$};\n\\draw (5,-4) node {\\scriptsize $y=-\\frac{1}{2}x+\\frac{5}{2}$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 51,
+    "problem": "51. Напишите уравнение прямой, параллельной прямой $y=-\\cfrac{1}{3}x-21$  и проходящей через точку пересечения прямых, заданных уравнениями $y=-2x+4$ и $y=\\cfrac{1}{2}x+1.$ Постройте график заданной функции.\\\\\n",
+    "solution": "51. Найдём точку пересечения прямых, заданных уравнениями $y=-2x+4$ и $y=\\cfrac{1}{2}x+1:\\ -2x+4=\\cfrac{1}{2}x+1,\\ -\\cfrac{5}{2}x=-3,\\ x=\\cfrac{6}{5},\\ y=-\\cfrac{12}{5}+4=\\cfrac{8}{5}.$ Раз прямая $y=kx+b$ параллельна прямой $y=-\\cfrac{1}{3}x-21,$ её коэффициент $k=-\\cfrac{1}{3}.$ Подставим в её уравнение координаты найденной точки: $\\cfrac{8}{5}=-\\cfrac{1}{3}\\cdot\\cfrac{6}{5}+b,\\ b=2.$\nПроведём прямую через две точки $\\left(0;2\\right)$ и $(6;0).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (9,-1) -- (-6,4);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (0.5,2.3) node {\\tiny $2$};\n\\draw (6,-0.5) node {\\tiny $6$};\n\\draw (6,-4) node {\\scriptsize $y=-\\frac{1}{3}x+2$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 52,
+    "problem": "52. Постройте график функции $y=\\cfrac{x^2}{x-1}-\\cfrac{1}{x-1}.$\\\\\n",
+    "solution": "52. $y=\\cfrac{x^2}{x-1}-\\cfrac{1}{x-1}=\\cfrac{x^2-1}{x-1}=\\cfrac{(x-1)(x+1)}{x-1}=x+1$ при условии $x\\neq1.$ Проведём прямую через точки $(-1;0)$ и $(0;1),$ не забыв выколоть точку $(1;2).$\n$$\\begin{tikzpicture}[scale=0.6]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n\\draw [->] (-3,0) -- (3,0);\n\\draw [->] (0,-3) -- (0,3);\n\\draw[line01] (-1.9,-0.9) -- (1.9,2.9);\n\\draw[line03] (0,2) -- (1,2);\n\\draw[line03] (1,0) -- (1,2);\n\\draw (1,2) circle (3pt);\n\\draw (-0.2,2) node {\\tiny $2$};\n\\draw (-0.2,1) node {\\tiny $1$};\n\\draw (1,-0.2) node {\\tiny $1$};\n\\draw (-1,-0.2) node {\\tiny $-1$};\n\\draw (3,0.25) node {\\scriptsize $x$};\n\\draw (0.25,3) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 53,
+    "problem": "53. Рассматривается линейная функция $y=ax+b,$ найдите все значения $a$ и $b,$ при которых:\\\\\nа) график этой функции проходит через точки $(-2;-1)$ и $(1;5).$\\\\\nб) график этой функции не проходит через точки, произведение координат которых положительно.\\\\\n",
+    "solution": "53. а) Найдём эту прямую: $\\begin{cases} -2a+b=-1,\\\\ a+b=5.\\end{cases}\\Leftrightarrow\\begin{cases} -3a=-6,\\\\ a+b=5.\\end{cases}\\Leftrightarrow\n\\begin{cases} a=2,\\\\ b=3.\\end{cases}$\\\\\nб) Эта прямая должна проходить только через точки II и IV четверти или оси координат, значит она проходит через начало координат и $a\\leqslant0,\\ b=0.$\\\\\n"
+  },
+  {
+    "i": 54,
+    "problem": "54. Изобразите на плоскости множество точек, удовлетворяющих условию $(y-2)(x-y)=0.$\\\\\n",
+    "solution": "54. $(y-2)(x-y)=0\\Leftrightarrow\\left[\\begin{array}{l} y-2=0,\\\\ x-y=0.\\end{array}\\right.\\Leftrightarrow\\left[\\begin{array}{l} y=2,\\\\ y=x.\\end{array}\\right.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line01] (-4,2) -- (4,2);\n\\draw[line01] (-4,-4) -- (4,4);\n\\draw[line03] (2,0) -- (2,2);\n\\draw (2,-0.5) node {\\tiny $2$};\n\\draw (-0.5,2.8) node {\\tiny $2$};\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 55,
+    "problem": "55. Нарисуйте множество точек, координаты которых удовлетворяют равенству $|y|=|x+1|.$\\\\\n",
+    "solution": "55. $|y|=|x+1|\\Leftrightarrow\\left[\\begin{array}{l} y=x+1,\\\\ y=-x-1.\\end{array}\\right.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (5,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line01] (-4,3) -- (4,-5);\n\\draw[line01] (-4,-3) -- (4,5);\n\\draw[line03] (2,-3) -- (2,3);\n\\draw[line03] (0,3) -- (2,3);\n\\draw[line03] (0,-3) -- (2,-3);\n\\draw (2.7,-0.5) node {\\tiny $2$};\n\\draw (-1.3,-1) node {\\tiny $-1$};\n\\draw (-0.5,3) node {\\tiny $3$};\n\\draw (-1,-3) node {\\tiny $-3$};\n\\draw (5.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n\\newpage\n\\noindent56. Возможны три случая: точки $A$ и $B$ являются противоположными вершинами квадрата, $A$ и $B$ являются соседними вершинами и две других вершины над прямой $AB$ и $A$ и $B$ являются соседними вершинами и две других вершины под прямой $AB.$ Во всех случаях две оставшихся вершины достраиваются <<по клеточкам>>.\n\\begin{figure}[h]\n\\begin{center}\n\\begin{minipage}[h]{0.2\\linewidth}\n\\includegraphics[width=1\\linewidth]{kv1.png}\n %% метка рисунка для ссылки на него\n\\end{minipage}\n\\hfill\n\\begin{minipage}[h]{0.4\\linewidth}\n\\includegraphics[width=1\\linewidth]{kv2.png}\n\\end{minipage}\n\\hfill\n\\begin{minipage}[h]{0.2\\linewidth}\n\\includegraphics[width=1\\linewidth]{kv3.png}\n %% метка рисунка для ссылки на него\n\\end{minipage}\n\\hfill\n\\end{center}\n\\end{figure}\\\\\n"
+  },
+  {
+    "i": 56,
+    "problem": "56. Пусть $A(2;3)$ и $B(-2;-1)$ --- две вершины квадрата. Найдите координаты двух оставшихся вершин.\\\\\n",
+    "solution": "57. Найдём точку, в которой прямая $y=-0,5x+4$ пересекает ось $Ox$ (в ней $y=0):\\ 0=-0,5x+4,\\ x=8$ и ось $Oy$ (в ней $x=0):\\ y=-0,5\\cdot0+4=4.$ Если $BA$ является медианой, точка $A$ лежит посередине между $O$ и $C,$ а значит точка $C$ имеет координаты $(0;8).$ Проведём прямую через неё и точку $B(8;0):\\\n\\begin{cases} 8=0+b,\\\\ 0=8k+b.\\end{cases}\\Rightarrow y=-x+8.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (9,-1) -- (-1,9);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (0.5,8) node {\\tiny $8$};\n\\draw (8,0.5) node {\\tiny $8$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 57,
+    "problem": "57. Прямая $y=-0,5x+4$ пересекает ось $Ox$ в точке $B,$ а ось $Oy$ --- в точке $A.$ Считая начало координат за точку $O,$ написать уравнение прямой $BC,$ если известно, что отрезок $BA$ является медианой треугольника $CBO,$ и постройте эту прямую на координатной плоскости.\\\\\n",
+    "solution": "58. $y=(x^2-4)\\left(\\cfrac{1}{x-2}-\\cfrac{1}{x+2}\\right)-x=(x-2)(x+2)\\cdot\\cfrac{x+2-x+2}{(x-2)(x+2)}-x=4-x,$ при этом $x\\neq\\pm2.$ Проведём прямую через точки $(0;4)$ и $(4;0),$ не забыв выколоть точки $(-2;6)$ и $(2;2).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-6,10) -- (8,-4);\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-2.5,-0.7) node {\\scriptsize $-2$};\n\\draw (2,-0.7) node {\\scriptsize $2$};\n\\draw (-0.7,2) node {\\scriptsize $2$};\n\\draw (0.7,6) node {\\scriptsize $6$};\n%\\draw (-5.5,-2) node {\\scriptsize $-6$};\n\\draw[line03] (-2,0) -- (-2,6);\n\\draw[line03] (0,6) -- (-2,6);\n\\draw[line03] (2,0) -- (2,2);\n\\draw[line03] (0,2) -- (2,2);\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\draw (2,2) circle (10pt);\n\\draw (-2,6) circle (10pt);\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 58,
+    "problem": "58. Постройте график функции $y=(x^2-4)\\left(\\cfrac{1}{x-2}-\\cfrac{1}{x+2}\\right)-x.$\\\\\n",
+    "solution": "59. $y=\\cfrac{|x|}{x}\\left(-\\cfrac{1}{2}x+2\\right)=\\left[\\begin{array}{l}\\cfrac{1}{2}x-2, x<0,\\\\ -\\cfrac{1}{2}x+2, x>0.\\end{array}\\right.$\nПроведём прямые через точки $(-4;-4)$ и $(0;-2)$ и $(0;2)$ и $(4;0),$ не забыв выколоть точки $(0;-2)$ и $(0;2).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (0,2) -- (8,-2);\n\\draw[line01] (0,-2) -- (-8,-6);\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (4,0.7) node {\\scriptsize $4$};\n\\draw (-4,0.7) node {\\scriptsize $-4$};\n\\draw (-1,2) node {\\scriptsize $2$};\n\\draw (1.4,-2) node {\\scriptsize $-2$};\n\\draw (1.2,-4) node {\\scriptsize $-4$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\draw (0,2) circle (10pt);\n\\draw (0,-2) circle (10pt);\n\\draw[line03] (-4,0) -- (-4,-4);\n\\draw[line03] (0,-4) -- (-4,-4);\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 59,
+    "problem": "59. Постройте график функции $y=\\cfrac{|x|}{x}\\left(-\\cfrac{1}{2}x+2\\right).$\\\\\n",
+    "solution": "60. $\\cfrac{(y^2-4)(y+2x-1)}{x-1}=0\\Leftrightarrow\\cfrac{(y-2)(y+2)(y-(1-2x))}{x-1}=0\\Leftrightarrow\\begin{cases}\n\\left[\\begin{array}{l} y=2,\\\\ y=-2, \\\\ y=1-2x.\\end{array}\\right.\\\\ x\\neq1.\\end{cases}$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-9,2) -- (9,2);\n\\draw[line01] (-9,-2) -- (9,-2);\n\\draw[line01] (5,-9) -- (-4,9);\n\\draw[line03] (1,2) -- (1,-2);\n\\draw[line03] (0,-1) -- (1,-1);\n\\draw[line03] (-3,0) -- (-3,7);\n\\draw[line03] (0,7) -- (-3,7);\n\\draw (1.5,0.5) node {\\tiny $1$};\n\\draw (-3.2,-0.7) node {\\tiny $-3$};\n\\draw (0.5,7) node {\\tiny $7$};\n\\draw (0.5,2.7) node {\\tiny $2$};\n\\draw (-1,-2.7) node {\\tiny $-2$};\n\\draw (-1,-1) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.7,10.2) node {\\scriptsize $y$};\n\\draw (1,2) circle (7pt);\n\\draw (1,-2) circle (7pt);\n\\draw (1,-1) circle (7pt);\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 60,
+    "problem": "60. Постройте график уравнения $\\cfrac{(y^2-4)(y+2x-1)}{x-1}=0.$\\\\\n",
+    "solution": "61. Приведём пример одной из возможных кусочно-линейных функций и нарисуем её график:\n$$y=\\begin{cases} 0,\\ 0<x\\leqslant\\cfrac{1}{3},\\\\\n3x-1,\\ \\cfrac{1}{3}<x\\leqslant\\cfrac{2}{3},\\\\\n1,\\ \\cfrac{2}{3}<x<1.\\end{cases}$$\n$$\\begin{tikzpicture}[scale=0.4]\n\\tikzset {line01/.style={line width =1pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-6,0) -- (10,0);\n\\draw [->] (0,-6) -- (0,10);\n\\draw[line01] (0,0) -- (1,0);\n\\draw[line01] (1,0) -- (2,3);\n\\draw[line01] (2,3) -- (3,3);\n\\draw (3,-0.5) node {\\tiny $1$};\n\\draw (-0.5,3) node {\\tiny $1$};\n\\draw (0,0) circle (10pt);\n\\draw (3,3) circle (10pt);\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-0.7,10.2) node {\\scriptsize $y$};\n\\draw[line03] (0,3) -- (3,3);\n\\draw[line03] (3,0) -- (3,3);\n\\end{tikzpicture}\n$$\n"
+  },
+  {
+    "i": 61,
+    "problem": "61. Задайте а) графически и б) аналитически функцию, которая при $x$ таких, что $0<x<1$ принимает все значения $y$ такие, что $0\\le y\\le1,$ и не принимает других значений.\\\\\n",
+    "solution": "62. Подставим в уравнение данной функции точку $(0;0):\\ 0=\\cfrac{5a}{a-5}\\cdot(0-1)+\\cfrac{a^2}{a-5},\\ 0=\\cfrac{a^2-5a}{a-5}=\\cfrac{a(a-5)}{a-5}=0,\\ a=0.$\\\\\n"
+  },
+  {
+    "i": 62,
+    "problem": "62. Найдите все значения параметра $a,$ при которых график следующей функции проходит через начало координат.\n$$y=\\cfrac{5a}{a-5}\\cdot(x^2-1)+\\cfrac{a^2}{a-5}.$$\n",
+    "solution": "63. У точек на оси абсцисс координата $y=0,$ подставим значения $x$ и $y$ в уравнение графика функции:\n$0=\\cfrac{-\\cfrac{4}{3}-b}{3\\cdot\\left(-\\cfrac{4}{3}\\right)+1}+b\\cdot\\left(-\\cfrac{4}{3}\\right),\\ \\cfrac{4}{3}+b-4b=0,\\ b=\\cfrac{4}{9}.$\\\\\n"
+  },
+  {
+    "i": 63,
+    "problem": "63. Найдите все значения параметра $b,$ при которых точка графика следующей функции с абсциссой $-\\cfrac{4}{3}$ лежит на оси абсцисс.\n$$y=\\cfrac{x-b}{3x+1}+bx.$$\n",
+    "solution": "64. $y=(2-0,5x): (-0,125)=4x-16.$ У этих функций одинаковый коэффициент $k,$ значит они не пересекаются. Оси они пересекают в точках $(0;-16),\\ (4;0),\\ (0;-1),\\ \\left(\\cfrac{1}{4};0\\right).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (10,0);\n\\draw [->] (0,-20) -- (0,11);\n\\draw[line01] (-1,-20) -- (6,8);\n\\draw[line01] (-1,-5) -- (3,11);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (4.3,-1) node {\\tiny $4$};\n\\draw (0.5,-1) node {\\tiny $\\frac{1}{4}$};\n\\draw (-1,-1) node {\\tiny $-1$};\n\\draw (-1.5,-16) node {\\tiny $-16$};\n\\draw (0.7,11.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 64,
+    "problem": "64. Построить на одном чертеже графики функций $y=4x-1$ и $y=(2-0,5x): (-0,125),$\nуказав точки пересечения обоих графиков с осями координат и между собой, если такие точки существуют.\\\\\n",
+    "solution": "65. Найдём точку пересечения прямых $y=\\cfrac{1}{3}x-2$ и $y=6-x:\\ \\cfrac{1}{3}x-2=6-x,\\ \\cfrac{4}{3}x=8,\\ x=6,\\ y=6-x=0.$ Прямая $y=-4x-3$ пересекает ось $Oy$ в точке с абсциссой $x=0$ и ординатой $y=0-3=-3.$ Найдём прямую, проходящую через полученные точки: $\\begin{cases} 6k+b=0,\\\\ 0+b=-3.\\end{cases}\\Leftrightarrow\n\\begin{cases} k=\\cfrac{1}{2},\\\\ b=-3.\\end{cases}$ Проведём прямую через две точки $(0;-3)$ и $(6;0).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-6.5,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (8,1) -- (-6,-6);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (1,-3) node {\\tiny $-3$};\n\\draw (6,-0.5) node {\\tiny $6$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 65,
+    "problem": "65. Пусть $A$ --- точка пересечения прямых $y=\\cfrac{1}{3}x-2$ и $y=6-x.$ Напишите уравнение прямой, проходящей через точку $A$ и пересекающейся с прямой $y=-4x-3$ в точке, лежащей на оси $Oy.$ Постройте эту прямую.\\\\\n",
+    "solution": "66. а) Проведём прямую через две точки $(-1;1)$ и $(0;3).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-6.5,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-4,-5) -- (3,9);\n\\draw[line03] (-1,1) -- (0,1);\n\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (0.5,3) node {\\tiny $3$};\n\\draw (0.5,1) node {\\tiny $1$};\n\\draw (-1.5,-1) node {\\tiny $-1$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Подставим координаты точки $A$ в уравнение прямой: $1=k\\cdot(-1)+3,\\ k=2.$\\\\\nв) Ось абсцисс эта прямая пересекает в точке $\\left(-\\cfrac{3}{2};0\\right)$ и образует прямоугольный треугольник с катетами $\\cfrac{3}{2}$ и $3.$ Его площадь равна $\\cfrac{1}{2}\\cdot\\cfrac{3}{2}\\cdot3=\\cfrac{9}{4}.$\\\\\nг) Так как угловые коэффициенты у этих прямых разные, они пересекаются.\\\\\n"
+  },
+  {
+    "i": 66,
+    "problem": "66. График функции $f(x)=kx+3$ проходит через точку $A(-1;1).$\\\\\nа) Постройте график этой функции. б) Найдите коэффициент $k.$\\\\\nв) Найдите площадь треугольника, образованного этой прямой и осями координат.\\\\\nг) Выясните, пересекается ли эта прямая с прямой $y=5x+7.$\\\\\n",
+    "solution": "67. а) Это прямоугольник, ограниченный прямыми $x=3,\\ x=9,\\ y=-3,\\ y=6.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (12,0);\n\\draw [->] (0,-10) -- (0,10);\n\\filldraw [draw=black] (3,-3) rectangle (9,6);\n\\draw[line03] (0,-3) -- (3,-3);\n\\draw[line03] (0,6) -- (3,6);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (12.2,0.7) node {\\scriptsize $x$};\n\\draw (2.6,0.5) node {\\tiny $3$};\n\\draw (-0.9,-3) node {\\tiny $-3$};\n\\draw (-0.6,6) node {\\tiny $6$};\n\\draw (9.4,0.5) node {\\tiny $9$};\n%\\draw (-2.2,1) node {\\tiny $-\\frac{3}{2}$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Горизонтальная сторона этого прямоугольника равна $a+6-a=6,$ а вертикальная --- $2a-(-a)=3a.$ Он является квадратом при $3a=6,\\ a=2.$\\\\\n"
+  },
+  {
+    "i": 67,
+    "problem": "67. Множество точек на координатной плоскости задано условием $a\\le x \\le a+6,$\\\\\n$-a \\le y \\le 2a.$\\\\\nа) Изобразите это множество при $a=3.$ б) Найдите значение $a,$ при котором указанное множество точек будет являться квадратом.\\\\\n",
+    "solution": "68. Построим каждую из прямых по двум точкам, отмеченным на рисунке (они найдены как точки пересечения данных прямых).\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-5,0) -- (20,0);\n\\draw [->] (0,-5) -- (0,5);\n\\draw[line02] (18,2.5) -- (-0.833,2.5);\n\\draw[line02] (18,2.5) -- (0.615,-1.846);\n\\draw[line02] (0.615,-1.846) -- (-0.833,2.5);\n\\draw (20.2,0.7) node {\\scriptsize $x$};\n\\draw (-3.5,2.5) node {\\scriptsize $(-\\frac{5}{6};\\frac{5}{2})$};\n\\draw (3.5,-3) node {\\scriptsize $(\\frac{8}{13};-\\frac{24}{13})$};\n\\draw (18.5,4) node {\\scriptsize $(18;\\frac{5}{2})$};\n\\draw (0.7,5.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 68,
+    "problem": "68. Постройте треугольник, ограниченный прямыми $y=\\cfrac{1}{4}x-2;\\ y=2,5$ и $y=-3x.$\\\\\n",
+    "solution": "69. Найдём прямую, проходящую через точки $M(2;-5)$ и $N(0;-2): \\begin{cases} 2k+b=-5,\\\\ b=-2.\\end{cases}\\Leftrightarrow\\begin{cases} k=-\\cfrac{3}{2},\\\\ b=-2.\\end{cases}$ Приведём уравнение этой прямой к искомому виду: $y=-\\cfrac{3}{2}x-2,\\ 2y=-3x-4,\\ 3x+2y=-4.$\\\\\n"
+  },
+  {
+    "i": 69,
+    "problem": "69. Запишите уравнение прямой $ax+by=c$ (где $a,\\ b,\\ c$ --- целые числа), проходящей через точки $M(2;-5)$ и $N(0;-2).$\\\\\n",
+    "solution": "70. Построим квадрат с вершинами $(-1;5),\\ (-1;1),\\ (3;5)$ и $(3;1).$ Тогда прямая $y=x+2$ является его диагональю и вершине $A(3;1)$ относительно диагонали симметрична вершина $(-1;5).$\\\\\n"
+  },
+  {
+    "i": 70,
+    "problem": "70. Найдите координаты точки, симметричной точке $A(3;1)$ относительно прямой $y=x+2.$\\\\\n",
+    "solution": "71. а) $\\cfrac{x}{x^2+2x+4}+\\cfrac{x^2+8}{x^3-8}-\\cfrac{1}{x-2}=\\cfrac{x}{x^2+2x+4}+\\cfrac{x^2+8}{(x-2)(x^2+2x+4)}-\\cfrac{1}{x-2}=$\\\\$\n\\cfrac{x^2-2x+x^2+8-x^2-2x-4}{(x-2)(x^2+2x+4)}=\\cfrac{x^2-4x+4}{(x-2)(x^2+2x+4)}=\\cfrac{(x-2)^2}{(x-2)(x^2+2x+4)}=\\cfrac{x-2}{x^2+2x+4}.$\\\\\n$\\cfrac{x^2}{x^2-4}-\\cfrac{2}{2-x}=\\cfrac{x^2}{(x-2)(x+2)}+\\cfrac{2}{x-2}=\\cfrac{x^2+2x+4}{(x-2)(x+2)}.$\\\\\n$\\cfrac{x-2}{x^2+2x+4}\\cdot\\cfrac{x^2+2x+4}{(x-2)(x+2)}=\\cfrac{1}{x+2}.$\\\\\nб) $y=\\cfrac{1}{f(x)}=x+2,$ при этом нельзя брать $x=\\pm2,$ так как эти значения обнуляли знаменатель.\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-6,-4) -- (8,10);\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-1.9,-1.5) node {\\scriptsize $-2$};\n\\draw (2,-0.7) node {\\scriptsize $2$};\n\\draw (-0.7,4) node {\\scriptsize $4$};\n%\\draw (0.7,6) node {\\scriptsize $6$};\n%\\draw (-5.5,-2) node {\\scriptsize $-6$};\n\\draw[line03] (2,0) -- (2,4);\n\\draw[line03] (0,4) -- (2,4);\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\draw (2,4) circle (10pt);\n\\draw (-2,0) circle (10pt);\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 71,
+    "problem": "71. а) Упростите выражение $f(x)=\\left(\\cfrac{x}{x^2+2x+4}+\\cfrac{x^2+8}{x^3-8}-\\cfrac{1}{x-2}\\right)\\cdot\\left(\n\\cfrac{x^2}{x^2-4}-\\cfrac{2}{2-x}\\right).$\\\\\nб) Постройте график функции $y=\\cfrac{1}{f(x)}.$\\\\\n",
+    "solution": "72. а) Найдём прямую $AB:\\ \\begin{cases} b=-7,\\\\ 3k+b=2.\\end{cases}\\Leftrightarrow\\begin{cases} b=-7,\\\\ k=3.\\end{cases}\\Rightarrow y=3x-7.$\nНайдём прямую $CD:\\ \\begin{cases} k+b=1,\\\\ -30k+b=63.\\end{cases}\\Leftrightarrow\\begin{cases} 31k=-62,\\\\ -30k+b=63.\\end{cases}\n\\Leftrightarrow\\begin{cases} k=-2,\\\\ b=3.\\end{cases}\\Rightarrow y=-2x+3.$\\\\\nб) Найдём точку пересечения прямых $AB$ и $CD: 3x-7=-2x+3,\\ 5x=10,\\ x=2,\\ y=3\\cdot2-7=-1.$ Найдём прямую $BC:\\ \\begin{cases} 3k+b=2,\\\\ k+b=1.\\end{cases}\\Leftrightarrow\\begin{cases} 2k=1,\\\\ k+b=1.\\end{cases}\\Leftrightarrow\\begin{cases} k=\\cfrac{1}{2},\\\\ b=\\cfrac{1}{2}.\\end{cases}\\Rightarrow y=\\cfrac{1}{2}x+\\cfrac{1}{2}.$ Точка этой прямой, лежащая на оси абсцисс, имеет ординату $y=0,$ а значит $\\cfrac{1}{2}x+\\cfrac{1}{2}=0,\\ x=-1.$ Таким образом, необходимо найти уравнение прямой, проходящей через точки $(2;-1)$ и $(-1;0): \\ \\begin{cases} 2k+b=-1,\\\\ -k+b=0.\\end{cases}\\Leftrightarrow\\begin{cases} 3k=-1,\\\\ -k+b=0.\\end{cases}\\Leftrightarrow\\begin{cases} k=-\\cfrac{1}{3},\\\\ b=-\\cfrac{1}{3}.\\end{cases}\\Rightarrow y=-\\cfrac{1}{3}x-\\cfrac{1}{3}.$\\\\\n"
+  },
+  {
+    "i": 72,
+    "problem": "72. Даны точки $A(0;-7),\\ B(3;2),\\ C(1;1),\\ D(-30;63).$\\\\\nа) Напишите уравнение прямых $AB$ и $CD.$\\\\\nб) Напишите уравнение прямой, проходящей через точку пресечения прямых $AB$ и $CD,$ пересекающей прямую $BC$ в точке, лежащей на оси абсцисс.\\\\\n",
+    "solution": "73. а) Найдём прямую $AC:\\ \\begin{cases} b=4,\\\\ -3k+b=-2.\\end{cases}\\Leftrightarrow\\begin{cases} b=4,\\\\ k=2.\\end{cases}\\Rightarrow y=2x+4.$\nНайдём прямую $BD:\\ \\begin{cases} k+b=-4,\\\\ -20k+b=59.\\end{cases}\\Leftrightarrow\\begin{cases} 21k=-63,\\\\ -20k+b=59.\\end{cases}\n\\Leftrightarrow\\begin{cases} k=-3,\\\\ b=-1.\\end{cases}\\Rightarrow y=-3x-1.$\\\\\nб) Найдём точку пересечения прямых $AC$ и $BD: 2x+4=-3x-1,\\ 5x=-5,\\ x=-1,\\ y=2\\cdot(-1)+4=2.$ Найдём прямую $BC:\\ \\begin{cases} k+b=-4,\\\\ -3k+b=-2.\\end{cases}\\Leftrightarrow\\begin{cases} 4k=-2,\\\\ -3k+b=-2.\\end{cases}\\Leftrightarrow\\begin{cases} k=-\\cfrac{1}{2},\\\\ b=-\\cfrac{7}{2}.\\end{cases}\\Rightarrow y=-\\cfrac{1}{2}x-\\cfrac{7}{2}.$ Точка этой прямой, лежащая на оси абсцисс, имеет ординату $y=0,$ а значит $-\\cfrac{1}{2}x-\\cfrac{7}{2}=0,\\ x=-7.$ Таким образом, необходимо найти уравнение прямой, проходящей через точки $(-1;2)$ и $(-7;0): \\ \\begin{cases} -k+b=2,\\\\ -7k+b=0.\\end{cases}\\Leftrightarrow\\begin{cases} 6k=2,\\\\ -7k+b=0.\\end{cases}\\Leftrightarrow\\begin{cases} k=\\cfrac{1}{3},\\\\ b=\\cfrac{7}{3}.\\end{cases}\\Rightarrow y=\\cfrac{1}{3}x+\\cfrac{7}{3}.$\\\\\n"
+  },
+  {
+    "i": 73,
+    "problem": "73. Даны точки $A(0;4),\\ B(1;-4),\\ C(-3;-2),\\ D(-20;59).$\\\\\nа) Напишите уравнение прямых $AC$ и $BD.$\\\\\nб) Напишите уравнение прямой, проходящей через точку пресечения прямых $AC$ и $BD,$ пересекающей прямую $BC$ в точке, лежащей на оси абсцисс.\\\\\n",
+    "solution": "74. а) Построим график по двум точкам $(0;4)$ и $(2;0).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-2,8) -- (5,-6);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (0.7,4) node {\\tiny $4$};\n\\draw (2,0.9) node {\\tiny $2$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Найдём точку пересечения прямых $y=x+2$ и $2x+3y-16=0:\\ \\begin{cases}y=x+2,\\\\ 2x+3y-16=0. \\end{cases}\\Leftrightarrow\n\\begin{cases}y=x+2,\\\\ 2x+3x+6-16=0. \\end{cases}\\Leftrightarrow\n\\begin{cases}y=4,\\\\ x=2. \\end{cases}$ Расстояние от точки $(2;0)$ до точки $(2;4)$ равно 4.\\\\\n"
+  },
+  {
+    "i": 74,
+    "problem": "74. а) Постройте график функции $y=4-2x.$\\\\\nб) Найдите расстояние от точки пересечения этого графика с осью абсцисс до точки пересечения прямых $y=x+2$ и $2x+3y-16=0.$\\\\\n",
+    "solution": "75. а) Построим график по двум точкам $(0;6)$ и $(3;0).$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-2,10) -- (5,-4);\n%\\draw[line03] (-1,1) -- (0,1);\n%\\draw[line03] (-1,0) -- (-1,1);\n%\\draw[line01] (0,-3) -- (-2,5);\n%\\draw (0.6,-4) node {\\tiny $-4$};\n%\\draw (-1.6,-0.7) node {\\tiny $-1$};\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (0.7,6) node {\\tiny $6$};\n\\draw (3,0.9) node {\\tiny $3$};\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\end{tikzpicture}$$\nб) Найдём точку пересечения прямых $y=x+3$ и $x-2y+9=0:\\ \\begin{cases}y=x+3,\\\\ x-2y+9=0. \\end{cases}\\Leftrightarrow\n\\begin{cases}y=x+3,\\\\ x-2x-6+9=0. \\end{cases}\\Leftrightarrow\n\\begin{cases}y=6,\\\\ x=3. \\end{cases}$ Расстояние от точки $(3;0)$ до точки $(3;6)$ равно 6.\\\\\n"
+  },
+  {
+    "i": 75,
+    "problem": "75. а) Постройте график функции $y=6-2x.$\\\\\nб) Найдите расстояние от точки пересечения этого графика с осью абсцисс до точки пересечения прямых $y=x+3$ и $x-2y+9=0.$\\\\\n",
+    "solution": "76. Найдём ординату точки $A:\\ (-2)\\cdot0+2=2,$ значит она имеет координаты $(0;2).$ Найдём абсциссу точки $B:\\ 0=-2x+2,\\ x=1,$ значит она имеет координаты $(1;0).$ Тогда середина стороны $OB$ имеет координаты $M\\left(\\cfrac{1}{2};0\\right).$ Проведём прямую $y=kx+b$ через точки $A$ и $M:\\ \\begin{cases} b=2,\\\\ \\cfrac{1}{2}k+b=0.\\end{cases}\\Leftrightarrow\\begin{cases} b=2,\\\\ k=-4.\\end{cases}\\Rightarrow y=-4x+2.$\\\\\n"
+  },
+  {
+    "i": 76,
+    "problem": "76. Пусть точка $A$ является точкой пересечения графика функции $y=-2x+2$ с осью $OY,$ а точка $B$ --- с осью $OX.$ Напишите уравнение прямой, содержащей медиану треугольника $AOB,$ проведённую из вершины $A.$ (Точка $O$ --- начало координат)\\\\\n",
+    "solution": "77. Найдём ординату точки $A:\\ 2\\cdot0+2=2,$ значит она имеет координаты $(0;2).$ Найдём абсциссу точки $B:\\ 0=2x+2,\\ x=-1,$ значит она имеет координаты $(-1;0).$ Тогда середина стороны $OB$ имеет координаты $M\\left(-\\cfrac{1}{2};0\\right).$ Проведём прямую $y=kx+b$ через точки $A$ и $M:\\ \\begin{cases} b=2,\\\\ -\\cfrac{1}{2}k+b=0.\\end{cases}\\Leftrightarrow\\begin{cases} b=2,\\\\ k=4.\\end{cases}\\Rightarrow y=4x+2.$\\\\\n"
+  },
+  {
+    "i": 77,
+    "problem": "77. Пусть точка $A$ является точкой пересечения графика функции $y=2x+2$ с осью $OY,$ а точка $B$ --- с осью $OX.$ Напишите уравнение прямой, содержащей медиану треугольника $AOB,$ проведённую из вершины $A.$ (Точка $O$ --- начало координат)\\\\\n",
+    "solution": "78. Так как сумма координат точки $M$ равна 6, получим систему уравнений $\\begin{cases} y=6-x,\\\\ y=x+8.\\end{cases}\\Rightarrow 6-x=x+8,\\ -2x=2,\\ x=-1,\\ y=6+1=7.$ Тогда $7=(2a-1)\\cdot(-1)+a+3,\\ 7=-2a+1+a+3,\\ a=-3.$\\\\\n"
+  },
+  {
+    "i": 78,
+    "problem": "78. Прямая $y=(2a-1)x+a+3$ пересекает прямую $y=x+8$ в точке $M,$ сумма координат которой равна 6. Найдите возможные значения $a.$\\\\\n",
+    "solution": "79. Найдём точку пересечения прямых $y=2x-3$ и $y=-x-6:\\ 2x-3=-x-6,\\ 3x=-3,\\ x=-1,\\ y=1-6=-5.$ Тогда $-5=-a-a-2,\\ 2a=3,\\ a=\\cfrac{3}{2}.$\\\\\n"
+  },
+  {
+    "i": 79,
+    "problem": "79. При каких значений $a$ графики функций $y=2x-3,\\ y=ax-a-2$ и $y=-x-6$ проходят через одну точку?\\\\\n",
+    "solution": "80. Так как сумма координат точки $A$ равна 4, получим систему уравнений $\\begin{cases} y=4-x,\\\\ y=x+6.\\end{cases}\\Rightarrow 4-x=x+6,\\ -2x=2,\\ x=-1,\\ y=4+1=5.$ Тогда $5=(2a+1)\\cdot(-1)+a+4,\\ 5=-2a-1+a+4,\\ a=-2.$\\\\\n"
+  },
+  {
+    "i": 80,
+    "problem": "80. Прямая $y=(2a+1)x+a+4$ пересекает прямую $y=x+6$ в точке $A,$ сумма координат которой равна 4. Найдите возможные значения $a.$\\\\\n",
+    "solution": "81. Найдём точку пересечения прямых $y=3x-4$ и $y=-2x+1:\\ 3x-4=-2x+1,\\ 5x=5,\\ x=1,\\ y=3-4=-1.$ Тогда $-1=a-1+2a-3,\\ 3a=3,\\ a=1.$\\\\\n"
+  },
+  {
+    "i": 81,
+    "problem": "81. При каких значений $a$ графики функций $y=3x-4,\\ y=(a-1)x+2a-3$ и $y=-2x+1$ проходят через одну точку?\\\\\n",
+    "solution": "82. $\\cfrac{((x^2-4)^2+y^2-2y+1)(y^2-3xy+2x^2)}{xy-2y+3x-6}=0\\Leftrightarrow\n\\begin{cases}\n\n((x^2-4)^2+y^2-2y+1)(y^2-3xy+2x^2)=0,\\\\\nxy-2y+3x-6\\neq0.\n\\end{cases}$\\\\$\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n(x^2-4)^2+(y-1)^2=0,\\\\\ny(y-x)+2x(x-y)=0,\n\\end{array}\\right.\\\\\ny(x-2)+3(x-2)\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n\\begin{cases}\nx^2-4=0,\\\\\ny-1=0.\n\\end{cases}\\\\\n(y-x)(y-2x)=0,\n\\end{array}\\right.\\\\\n(x-2)(y+3)\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n\\begin{cases}\nx=2,\\\\\ny=1.\n\\end{cases}\\\\\n\\begin{cases}\nx=-2,\\\\\ny=1.\n\\end{cases}\\\\\ny=x,\\\\\ny=2x,\n\\end{array}\\right.\\\\\nx\\neq2,\\\\\ny\\neq-3.\n\\end{cases}$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-82.png}}\n\\end{figure}\\newpage\\noindent\n"
+  },
+  {
+    "i": 82,
+    "problem": "82. Постройте график уравнения $\\cfrac{((x^2-4)^2+y^2-2y+1)(y^2-3xy+2x^2)}{xy-2y+3x-6}=0.$\\\\\n",
+    "solution": "83. $\\cfrac{((x^2-4)^2+y^2+2y+1)(y^2-4xy+3x^2)}{xy-2y+2x-4}=0\\Leftrightarrow\n\\begin{cases}\n((x^2-4)^2+y^2+2y+1)(y^2-4xy+3x^2)=0,\\\\\nxy-2y+2x-4\\neq0.\n\\end{cases}$\\\\$\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n(x^2-4)^2+(y+1)^2=0,\\\\\ny(y-x)+3x(x-y)=0,\n\\end{array}\\right.\\\\\ny(x-2)+2(x-2)\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n\\begin{cases}\nx^2-4=0,\\\\\ny+1=0.\n\\end{cases}\\\\\n(y-x)(y-3x)=0,\n\\end{array}\\right.\\\\\n(x-2)(y+2)\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n\\begin{cases}\nx=2,\\\\\ny=-1.\n\\end{cases}\\\\\n\\begin{cases}\nx=-2,\\\\\ny=-1.\n\\end{cases}\\\\\ny=x,\\\\\ny=3x,\n\\end{array}\\right.\\\\\nx\\neq2,\\\\\ny\\neq-2.\n\\end{cases}$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-83.png}}\n\\end{figure}\\\\\n"
+  },
+  {
+    "i": 83,
+    "problem": "83. Постройте график уравнения $\\cfrac{((x^2-4)^2+y^2+2y+1)(y^2-4xy+3x^2)}{xy-2y+2x-4}=0.$\\\\\n",
+    "solution": "84. а) $y=\\cfrac{x^2-2x}{2-x}+4=\\cfrac{x(x-2)}{2-x}+4=\\begin{cases} 4-x,\\\\ x\\neq 2.\\end{cases}$\\\\\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-84.png}}\n\\end{figure}\\\\\nб) При положительных $x$ функция принимает значения $(-\\infty;2)\\cup(2;4).$\\\\\nв) Эта прямая не будет иметь общих точек с графиком функции, если она параллельна прямой $y=4-x$ или если она проходит через выколотую точку $(2;2).$ Пусть это прямая $y=kx+b.$ В первом случае её угловой коэффициент равен $-1,$ значит $-1=-1+b,\\ b=0,$ то есть это функция $y=-x.$ Во втором случае $\\begin{cases} -1=k+b,\\\\ 2=2k+b.\\end{cases}\\Leftrightarrow\n\\begin{cases} -3=-k,\\\\ b=2-2k.\\end{cases}\\Leftrightarrow\n\\begin{cases} k=3,\\\\ b=-4.\\end{cases},$ то есть прямая задана уравнением $y=3x-4.$\\newpage\\noindent\n"
+  },
+  {
+    "i": 84,
+    "problem": "84. Дана функция $y=\\cfrac{x^2-2x}{2-x}+4.$\\\\\nа) Постройте график функции.\\\\\nб) Какие значения принимает эта функция при положительных $x?$\\\\\nв) Напишите уравнение прямой, проходящей через точку $(1;-1)$ и не имеющей общих точек с графиком данной функции.\\\\\n",
+    "solution": "85. а) $y=\\cfrac{x^2-3x}{3-x}+1=\\cfrac{x(x-3)}{3-x}+1=\\begin{cases} 1-x,\\\\ x\\neq 3.\\end{cases}$\\\\\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-85.png}}\n\\end{figure}\\\\\nб) При положительных $x$ функция принимает значения $(-\\infty;-2)\\cup(-2;1).$\\\\\nв) Эта прямая не будет иметь общих точек с графиком функции, если она параллельна прямой $y=1-x$ или если она проходит через выколотую точку $(3;-2).$ Пусть это прямая $y=kx+b.$ В первом случае её угловой коэффициент равен $-1,$ значит $-1=2+b,\\ b=-3,$ то есть это функция $y=-x-3.$ Во втором случае $\\begin{cases} -2=3k+b,\\\\ -1=-2k+b.\\end{cases}\\Leftrightarrow\n\\begin{cases} -1=5k,\\\\ b=2k-1.\\end{cases}\\Leftrightarrow\n\\begin{cases} k=-\\cfrac{1}{5},\\\\ b=-\\cfrac{7}{5}.\\end{cases},$ то есть прямая задана уравнением $y=-\\cfrac{1}{5}x-\\cfrac{7}{5}.$\\\\\n"
+  },
+  {
+    "i": 85,
+    "problem": "85. Дана функция $y=\\cfrac{x^2-3x}{3-x}+1.$\\\\\nа) Постройте график функции.\\\\\nб) Какие значения принимает эта функция при положительных $x?$\\\\\nв) Напишите уравнение прямой, проходящей через точку $(-2;-1)$ и не имеющей общих точек с графиком данной функции.\\\\\n",
+    "solution": "86. Найдём точку пересечения: $4x+3a=2x+4a,\\ 2x=a,\\ x=\\cfrac{a}{2},\\ y=2\\cdot\\cfrac{a}{2}+4a=5a.$ Если $5a=4,$ то $a=\\cfrac{4}{5}.$\\\\\n"
+  },
+  {
+    "i": 86,
+    "problem": "86. Найдите такое число $a,$ что точка пересечения прямых $y=4x+3a$ и $y=2x+4a$ имеет ординату, равную 4.\\\\\n",
+    "solution": "87. $y=\\cfrac{x^2+2x}{|x|}=\\cfrac{x(x+2)}{|x|}=\\begin{cases} x+2,\\ x>0,\\\\ -x-2,\\ x<0.\\end{cases}$\\\\\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-87.png}}\n\\end{figure}\\newpage\\noindent\n"
+  },
+  {
+    "i": 87,
+    "problem": "87. Постройте график функции $y=\\cfrac{x^2+2x}{|x|}.$\\\\\n",
+    "solution": "88. $y=\\cfrac{4-x^2}{x+2}-1=\\cfrac{(2-x)(2+x)}{x+2}-1=\\begin{cases} 1-x,\\\\ x\\neq-2.\\end{cases}$\\\\\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-88.png}}\n\\end{figure}\\\\\nПо графику определим подходящие значения 1, 2 и 4.\\\\\n"
+  },
+  {
+    "i": 88,
+    "problem": "88. Постройте график функции $y=\\cfrac{4-x^2}{x+2}-1.$ Найдите, какие целые положительные значения, меньшие 5, принимает эта функция.\\\\\n",
+    "solution": "89. а) Подставим $x=0,$ тогда $y=0+d=d.$ Так как график этой функции пересекает ось ординат ниже оси абсцисс, получаем условие $d<0.$\\\\\nб) Подставим координаты этой точки: $d=k+d,$ откуда $k=0,$ что соответствует горизонтальной прямой. Значит, график функции через эту точку не проходит.\\\\\n"
+  },
+  {
+    "i": 89,
+    "problem": "89. \\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-89.png}}\n\\end{figure}\\\\\nНа рисунке изображен график функции $y=kx+d.$\\\\\nа) Определите знак коэффициента $d.$\\\\\nб) Проходит ли график через точку с координатами $(1; d) ?$\\\\\n",
+    "solution": "90. Расстояние $AB$ всегда равно $(x+1)-(x-3)=4.$ Расстояние $BC$ может быть равно либо $(2x+3)-(x-3)=x+6,$ либо $(x-3)-(2x+3)=-x-6.$ В первом случае $x+6=4,\\ x=-2,$ а во втором --- $-x-6=4,\\ x=-10.$\\\\\n"
+  },
+  {
+    "i": 90,
+    "problem": "90. На координатной прямой выбраны точки $A(x + 1),\\ B(x - 3)$ и $C(2x + 3).$ Найдите значения $x,$ при которых $AB = BC.$\\\\\n",
+    "solution": "91. Расстояние $AB$ всегда равно $(x+1)-(x-3)=4.$ Расстояние $AC$ может быть равно либо $(2x+3)-(x+1)=x+2,$ либо $(x+1)-(2x+3)=-x-2.$ В первом случае $x+2=4,\\ x=2,$ а во втором --- $-x-2=4,\\ x=-6.$\\\\\n"
+  },
+  {
+    "i": 91,
+    "problem": "91. На координатной прямой выбраны точки $A(x + 1),\\ B(x - 3)$ и $C(2x + 3).$ Найдите значения $x,$ при которых $AB = AC.$\\\\\n",
+    "solution": "92. $y=\\cfrac{2x^3+x^2-2x-1}{1-x^2}=\\cfrac{x^2(2x+1)-(2x+1)}{1-x^2}=\\cfrac{(2x+1)(x^2-1)}{1-x^2}=-2x-1,\\ x\\neq\\pm1.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-5,9) -- (4,-9);\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-1.2,-1.3) node {\\scriptsize $-1$};\n\\draw (1.2,0.7) node {\\scriptsize $1$};\n\\draw (0.4,1) node {\\scriptsize $1$};\n\\draw (-1.1,-3) node {\\scriptsize $-3$};\n%\\draw (0.7,6) node {\\scriptsize $6$};\n%\\draw (-5.5,-2) node {\\scriptsize $-6$};\n\\draw[line03] (-1,0) -- (-1,1);\n\\draw[line03] (-0.9,1) -- (0,1);\n\\draw[line03] (1,0) -- (1,-3);\n\\draw[line03] (1,-3) -- (0,-3);\n\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\draw (1,-3) circle (10pt);\n\\draw (-1,1) circle (10pt);\n\\end{tikzpicture}$$\n"
+  },
+  {
+    "i": 92,
+    "problem": "92. Постройте график функции: $y=\\cfrac{2x^3+x^2-2x-1}{1-x^2}.$\\\\\n",
+    "solution": "93. $y=\\cfrac{x^3-x^2-x+1}{1-x^2}=\\cfrac{x^2(x-1)-(x-1)}{1-x^2}=\\cfrac{(x-1)(x^2-1)}{1-x^2}=1-x,\\ x\\neq\\pm1.$\n$$\\begin{tikzpicture}[scale=0.2]\n\\tikzset {line01/.style={line width =0.5pt}}\n\\tikzset{line02/.style={line width =1pt}}\n\\tikzset{line03/.style={dashed,line width =0.5pt}}\n%\\filldraw [black] (0,0) circle (1pt);\n\\draw [->] (-10,0) -- (10,0);\n\\draw [->] (0,-10) -- (0,10);\n\\draw[line01] (-7,8) -- (4,-3);\n\\draw (10.2,0.7) node {\\scriptsize $x$};\n\\draw (-1.2,-1.3) node {\\scriptsize $-1$};\n\\draw (1.2,0.9) node {\\scriptsize $1$};\n\\draw (0.4,2) node {\\scriptsize $2$};\n\n%\\draw (0.7,6) node {\\scriptsize $6$};\n%\\draw (-5.5,-2) node {\\scriptsize $-6$};\n\\draw[line03] (-1,0) -- (-1,2);\n\\draw[line03] (-0.9,2) -- (0,2);\n\n\n\\draw (0.7,10.2) node {\\scriptsize $y$};\n\\draw (1,0) circle (10pt);\n\\draw (-1,2) circle (10pt);\n\\end{tikzpicture}$$\\\\\n"
+  },
+  {
+    "i": 93,
+    "problem": "93. Постройте график функции: $y=\\cfrac{x^3-x^2-x+1}{1-x^2}.$\\\\\n",
+    "solution": "94. $\\cfrac{(4+x(2y-x)-y^2)(x^2+y^2-2(x+y-1))}{3x+y+xy+3}=0\\Leftrightarrow$\\\\$\n\\begin{cases}\n\n(4+x(2y-x)-y^2)(x^2+y^2-2(x+y-1))=0,\\\\\n3x+y+xy+3\\neq0.\n\\end{cases}\\Leftrightarrow$\\\\$\n\\begin{cases}\n\\left[\\begin{array}{l}\n4+2xy-x^2-y^2=0,\\\\\nx^2+y^2-2x-2y+2=0.\n\\end{array}\\right.\\\\\nx(y+3)+y+3\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n4=(y-x)^2,\\\\\n(x-1)^2+(y-1)^2=0.\n\\end{array}\\right.\\\\\n(x+1)(y+3)\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\n\\begin{cases}\nx=1,\\\\\ny=1.\n\\end{cases}\\\\\ny=2+x,\\\\\ny=-2+x,\n\\end{array}\\right.\\\\\nx\\neq-1,\\\\\ny\\neq-3.\n\\end{cases}$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-97.png}}\n\\end{figure}\\\\\n"
+  },
+  {
+    "i": 94,
+    "problem": "94. Изобразите на координатной плоскости множество точек, удовлетворяющих уравнению \\\\$\\cfrac{(4+x(2y-x)-y^2)(x^2+y^2-2(x+y-1))}{3x+y+xy+3}=0.$\\\\\n",
+    "solution": "95. $\\cfrac{(4-x(2y+x)-y^2)}{(2x-2y+xy-4)(x^2+y^2-2(x+y-1))}=0\\Leftrightarrow$\\\\$\n\\begin{cases}\n\n4-x(2y+x)-y^2=0,\\\\\n(2x-2y+xy-4)(x^2+y^2-2(x+y-1))\\neq0.\n\\end{cases}\\Leftrightarrow$\\\\$\n\\begin{cases}\n4-2xy-x^2-y^2=0,\\\\\nx^2+y^2-2x-2y+2\\neq0,\\\\\nx(y+2)-2(y+2)\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n4=(y+x)^2,\\\\\n(x-1)^2+(y-1)^2\\neq0,\\\\\n(x-2)(y+2)\\neq0.\n\\end{cases}\\Leftrightarrow\n\\begin{cases}\n\\left[\\begin{array}{l}\ny=2-x,\\\\\ny=-2-x,\n\\end{array}\\right.\\\\\n(x;y)\\neq (1;1),\\\\\nx\\neq2,\\\\\ny\\neq-2.\n\\end{cases}$\n\\begin{figure}[ht!]\n\\center{\\includegraphics[scale=0.35]{gr7-98.png}}\n\\end{figure}\n\\newpage\n"
+  },
+  {
+    "i": 95,
+    "problem": "95. Изобразите на координатной плоскости множество точек, удовлетворяющих уравнению \\\\ $\\cfrac{(4-x(2y+x)-y^2)}{(2x-2y+xy-4)(x^2+y^2-2(x+y-1))}=0.$\n\\newpage\n",
+    "solution": null
+  }
+]

@@ -7,7 +7,7 @@
     "solutions_file": "chapter001-solutions.tex",
     "problems_title": "Числовые выражения задачи",
     "solutions_title": "Числовые выражения решения",
-    "problems_comment": "$\\begin{array}{ll}",
+    "problems_comment": "\\documentclass[12pt]{article}\n%\\usepackage{newlistok}\n\\usepackage[T1,T2A]{fontenc} %\n%\\usepackage[cp866]{inputenc} %\n\\usepackage[cp1251]{inputenc} %\n\\usepackage[russian]{babel} %\n\\usepackage{amsmath} %\n\\usepackage{amssymb}\n\\usepackage{pgfplots}\n\\graphicspath{{pictures/}}\n\\DeclareGraphicsExtensions{.pdf,.png,.jpg}\n\\pgfplotsset{compat=1.9}\n\\usepackage{tikz}\n\\textheight=257mm %\n\\textwidth =180mm\n%\\usepackage[active]{srcltx} %\n\\mathsurround=2pt %\n%\\textheight=185mm \\textwidth =120mm %\n\\textheight=257mm %\n\\textwidth =190mm %\n\\hoffset=-18mm %\n\\voffset=-41mm\n\\author{Л.С.Михлин}\n\\title{Пособие для поступающих в 8---10 классы физико--математических школ}\n\\date{2020 --- ...}\n\\begin{document}\n\\maketitle\n\\newpage\n\\tableofcontents\n\\newpage\n\\section{Числовые выражения задачи}\n$\\begin{array}{ll}",
     "solutions_comment": null,
     "problems_total": 52,
     "problems_first": 1,

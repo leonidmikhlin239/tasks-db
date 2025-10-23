@@ -1,0 +1,287 @@
+[
+  {
+    "i": 1,
+    "problem": "1.\\ \\left(\\cfrac{2}{3}-1,3+\\cfrac{3}{4}\\right):1,4+\\cfrac{1}{6},&\n",
+    "solution": "1. $\\left(\\cfrac{2}{3}-1,3+\\cfrac{3}{4}\\right):1,4+\\cfrac{1}{6}=\\left(\\cfrac{17}{12}-\\cfrac{13}{10}\\right):\\cfrac{14}{10}+\\cfrac{1}{6}=\\cfrac{7}{60}\\cdot\\cfrac{10}{14}+\\cfrac{1}{6}=\n\\cfrac{1}{12}+\\cfrac{1}{6}=\\cfrac{1}{4}.$\\\\\n"
+  },
+  {
+    "i": 2,
+    "problem": "2.\\ 4,4-0,28:\\left(\\cfrac{1}{9}-\\cfrac{7}{15}+0,375\\right),\n\\\\\n",
+    "solution": "2. $4,4-0,28:\\left(\\cfrac{1}{9}-\\cfrac{7}{15}+0,375\\right)=4,4-0,28:\\left(-\\cfrac{16}{45}+\\cfrac{3}{8}\\right)=4,4-\\cfrac{28}{100}:\\cfrac{7}{360}=4,4-\\cfrac{7}{25}\\cdot\\cfrac{360}{7}=\n\\\\=4,4-14,4=-10.$\\\\\n"
+  },
+  {
+    "i": 3,
+    "problem": "3.\\ \\left(1\\cfrac{11}{24}+\\cfrac{13}{36}\\right)\\cdot1,44-\\cfrac{8}{15}\\cdot0,5625,&\n",
+    "solution": "3. $\\left(1\\cfrac{11}{24}+\\cfrac{13}{36}\\right)\\cdot1,44-\\cfrac{8}{15}\\cdot0,5625=\\cfrac{131}{72}\\cdot\\cfrac{144}{100}-\\cfrac{8}{15}\\cdot\\cfrac{5625}{10000}=\n2,62-0,3=2,32.$\\\\\n"
+  },
+  {
+    "i": 4,
+    "problem": "4.\\ \\left(\\cfrac{31}{66}+1\\cfrac{10}{33}\\right)\\cdot1,32-\\cfrac{8}{13}\\cdot0,1625,\n\\end{array}$\n\\\\\n$\\begin{array}{ll}\n",
+    "solution": "4. $\\left(\\cfrac{31}{66}+1\\cfrac{10}{33}\\right)\\cdot1,32-\\cfrac{8}{13}\\cdot0,1625=\\cfrac{117}{66}\\cdot\\cfrac{132}{100}-\\cfrac{8}{13}\\cdot\\cfrac{1625}{10000}=\n2,34-0,1=2,24.$\\\\\n"
+  },
+  {
+    "i": 5,
+    "problem": "5.\\ \\text{Найти число, 4,8\\% которого равно }\\cfrac{15\\cfrac{13}{29}\\cdot3,625+28:\\cfrac{7}{15}}{\\cfrac{20}{49}\\cdot9,8+0,625:0,75},\\\\\n",
+    "solution": "5. $\\cfrac{15\\cfrac{13}{29}\\cdot3,625+28:\\cfrac{7}{15}}{\\cfrac{20}{49}\\cdot9,8+0,625:0,75}=\\cfrac{\\cfrac{448}{29}\\cdot\\cfrac{3625}{1000}+28\\cdot\\cfrac{15}{7}}{\\cfrac{20}{49}\\cdot\\cfrac{98}{10}+\\cfrac{625}{1000}:\\cfrac{75}{100}}=\n\\cfrac{56+60}{4+\\cfrac{5}{6}}=\\cfrac{116}{\\cfrac{29}{6}}=24.$ Значит, искомое число равно \\\\$24:0,048=500.$\\\\\n"
+  },
+  {
+    "i": 6,
+    "problem": "6.\\ \\text{Найти число, 2,4\\% которого равно }\\cfrac{12\\cdot(3,4-1,275)\\cdot\\cfrac{16}{17}}{\\cfrac{5}{18}\\cdot\\left(1\\cfrac{7}{85}\n+6\\cfrac{2}{17}\\right):\\cfrac{1}{2}},\\\\\n\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "6. $\\cfrac{12\\cdot(3,4-1,275)\\cdot\\cfrac{16}{17}}{\\cfrac{5}{18}\\cdot\\left(1\\cfrac{7}{85}\n+6\\cfrac{2}{17}\\right):\\cfrac{1}{2}}=\\cfrac{12\\cdot2,125\\cdot\\cfrac{16}{17}}{\\cfrac{5}{18}\\cdot\\cfrac{612}{85}\\cdot\\cfrac{2}{1}}=\n\\cfrac{12\\cdot2,125\\cdot\\cfrac{16}{17}}{\\cfrac{5}{18}\\cdot\\cfrac{612}{85}\\cdot\\cfrac{2}{1}}=\\cfrac{24}{4}=6.$ Значит, искомое число равно $6:0,024=250.$\\\\\n"
+  },
+  {
+    "i": 7,
+    "problem": "7.\\ \\left(-5,17:1\\cfrac{3}{4}+1,67\\cdot\\cfrac{4}{7}\\right)\\cdot\\left(-1\\cfrac{1}{11}\\right),&\n",
+    "solution": "7. $\\left(-5,17:1\\cfrac{3}{4}+1,67\\cdot\\cfrac{4}{7}\\right)\\cdot\\left(-1\\cfrac{1}{11}\\right)=\\left(-5,17\\cdot\\cfrac{4}{7}+1,67\\cdot\\cfrac{4}{7}\\right)\\cdot\\left(-1\\cfrac{1}{11}\\right)=$\\\\\n$=\\cfrac{4}{7}\\cdot\\left(-5,17+1,67\\right)\\cdot\\left(-\\cfrac{12}{11}\\right)=\\cfrac{4}{7}\\cdot\\left(-\\cfrac{7}{2}\\right)\\cdot\\left(-\\cfrac{12}{11}\\right)=\\cfrac{24}{11}.$\\\\\n"
+  },
+  {
+    "i": 8,
+    "problem": "8.\\ \\left(7,42\\cdot\\cfrac{5}{9}-(-11,48):1\\cfrac{4}{5}\\right):0,35,\\end{array}$ \\\\ $\\begin{array}{ll}\n",
+    "solution": "8. $\\left(7,42\\cdot\\cfrac{5}{9}-(-11,48):1\\cfrac{4}{5}\\right):0,35=\\left(7,42\\cdot\\cfrac{5}{9}+11,48\\cdot\\cfrac{5}{9}\\right):\\cfrac{35}{100}=\n\\cfrac{5}{9}\\cdot\\left(7,42+11,48\\right)\\cdot\\cfrac{100}{35}=\\cfrac{5}{9}\\cdot\\cfrac{189}{10}\\cdot$\\\\$\\cdot\\cfrac{20}{7}=30.$\\\\\n"
+  },
+  {
+    "i": 9,
+    "problem": "9.\\ \\left(3,14\\cdot\\cfrac{15}{4}-2,72:\\left(-6\\cfrac{2}{5}\\right)\\right):\\left(23,9-\\cfrac{351}{30}\\right),\\\\\n",
+    "solution": "9. $\\left(3,14\\cdot\\cfrac{15}{4}-2,72:\\left(-6\\cfrac{2}{5}\\right)\\right):\\left(23,9-\\cfrac{351}{30}\\right)=\n\\left(\\cfrac{314}{100}\\cdot\\cfrac{15}{4}-\\cfrac{272}{100}\\cdot\\left(-\\cfrac{5}{32}\\right)\\right):\\left(\\cfrac{239}{10}-\\cfrac{117}{10}\\right)=$\\\\\n$=\\left(\\cfrac{471}{40}+\\cfrac{17}{40}\\right):\\cfrac{122}{10}=\\cfrac{488}{40}\\cdot\\cfrac{10}{122}=1.$\\\\\n"
+  },
+  {
+    "i": 10,
+    "problem": "10.\\ \\left(27,2:5\\cfrac{3}{5}-0,314\\cdot\\left(-\\cfrac{50}{7}\\right)\\right):\\left(\\cfrac{942}{200}+2,39\\right),&\n",
+    "solution": "10. $\\left(27,2:5\\cfrac{3}{5}-0,314\\cdot\\left(-\\cfrac{50}{7}\\right)\\right):\\left(\\cfrac{942}{200}+2,39\\right)=\n\\left(\\cfrac{272}{10}\\cdot\\cfrac{5}{28}-\\cfrac{314}{1000}\\cdot\\left(-\\cfrac{50}{7}\\right)\\right):\\left(\\cfrac{942}{200}+\\cfrac{239}{100}\\right)=$\\\\\n$=\\left(\\cfrac{34}{7}+\\cfrac{157}{70}\\right):\\cfrac{710}{100}=\\cfrac{497}{70}\\cdot\\cfrac{100}{710}=1.$\\\\\n"
+  },
+  {
+    "i": 11,
+    "problem": "11.\\ \\left(1\\cfrac{3}{4}:1,125-1,75:\\cfrac{2}{3}\\right)\\cdot1\\cfrac{5}{7},\\\\\n",
+    "solution": "11. $\\left(1\\cfrac{3}{4}:1,125-1,75:\\cfrac{2}{3}\\right)\\cdot1\\cfrac{5}{7}=\n\\left(\\cfrac{7}{4}:\\cfrac{1125}{1000}-\\cfrac{175}{100}:\\cfrac{2}{3}\\right)\\cdot\\cfrac{12}{7}=\n\\left(\\cfrac{7}{4}\\cdot\\cfrac{8}{9}-\\cfrac{7}{4}\\cdot\\cfrac{3}{2}\\right)\\cdot\\cfrac{12}{7}=\n\\left(\\cfrac{14}{9}-\\cfrac{21}{8}\\right)\\cdot\\cfrac{12}{7}=$\\\\$=-\\cfrac{77}{72}\\cdot\\cfrac{12}{7}=-\\cfrac{11}{6}.$\\\\\n"
+  },
+  {
+    "i": 12,
+    "problem": "12.\\ 19\\cfrac{1}{3}:4,75-\\left(5\\cfrac{1}{3}-3,5\\cdot\\left(-\\cfrac{4}{19}\\right)\\right),&\n",
+    "solution": "12. $19\\cfrac{1}{3}:4,75-\\left(5\\cfrac{1}{3}-3,5\\cdot\\left(-\\cfrac{4}{19}\\right)\\right)=\n\\cfrac{58}{3}:\\cdot{475}{100}-\\left(\\cfrac{16}{3}+\\cfrac{7}{2}\\cdot\\cfrac{4}{19}\\right)=\n\\cfrac{58}{3}\\cdot\\cfrac{4}{19}-\\left(\\cfrac{16}{3}+\\cfrac{14}{19}\\right)=$\\\\$=\\cfrac{232}{57}-\\cfrac{346}{57}=-\\cfrac{114}{57}=-2.$\\\\\n"
+  },
+  {
+    "i": 13,
+    "problem": "13.\\ 17,5\\cdot\\cfrac{4}{17}-\\left(6\\cfrac{1}{3}-3\\cfrac{1}{3}:(-4,25)\\right),\\end{array}$ \\\\\n$\\begin{array}{ll}\n",
+    "solution": "13. $17,5\\cdot\\cfrac{4}{17}-\\left(6\\cfrac{1}{3}-3\\cfrac{1}{3}:(-4,25)\\right)=\n\\cfrac{175}{10}\\cdot\\cfrac{4}{17}-\\left(\\cfrac{19}{3}+\\cfrac{10}{3}\\cdot\\cfrac{100}{425}\\right)=\n\\cfrac{70}{17}-\\left(\\cfrac{19}{3}+\\cfrac{40}{51}\\right)=\\cfrac{70}{17}-\\cfrac{121}{17}=-3.$\\\\\n"
+  },
+  {
+    "i": 14,
+    "problem": "14.\\ \\text{Найдите число, 17\\% которого равно } \\left(1\\cfrac{13}{14}-3\\cfrac{4}{7}:1,25\\right)\\cdot\\left(2015\\cfrac{3}{7}-2016\\cfrac{46}{91}\\right)-\n(-0,7)^2\\\\\n",
+    "solution": "14. $\\left(1\\cfrac{13}{14}-3\\cfrac{4}{7}:1,25\\right)\\cdot\\left(2015\\cfrac{3}{7}-2016\\cfrac{46}{91}\\right)-\n(-0,7)^2=\\left(\\cfrac{27}{14}-\\cfrac{25}{7}\\cdot\\cfrac{100}{125}\\right)\\cdot\\left(-\\left(2016\\cfrac{46}{91}-2015\\cfrac{39}{91}\\right)\\right)-$\\\\\n$-0,49=\\left(\\cfrac{27}{14}-\\cfrac{20}{7}\\right)\\cdot\\left(-\\left(1\\cfrac{1}{13}\\right)\\right)-\n0,49=\\left(-\\cfrac{13}{14}\\right)\\cdot\\left(-\\cfrac{14}{13}\\right)-0,49=0,51.$ Искомое число равно $0,51:0,17=3.$\\\\\n"
+  },
+  {
+    "i": 15,
+    "problem": "15. \\ \\text{Найдите число, 23\\% которого равно }\n\\left(1\\cfrac{5}{14}-3\\cfrac{3}{7}:1,6\\right)\\cdot\\left(2015\\cfrac{5}{7}-2016\\cfrac{27}{77}\\right)-\n(-0,2)^2\n\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "15. $\\left(1\\cfrac{5}{14}-3\\cfrac{3}{7}:1,6\\right)\\cdot\\left(2015\\cfrac{5}{7}-2016\\cfrac{27}{77}\\right)-\n(-0,2)^2=\\left(\\cfrac{19}{14}-\\cfrac{24}{7}\\cdot\\cfrac{10}{16}\\right)\\cdot\\left(-\\left(2016\\cfrac{27}{77}-2015\\cfrac{55}{77}\\right)\\right)-$\\\\\n$-0,04=\\left(\\cfrac{19}{14}-\\cfrac{15}{7}\\right)\\cdot\\left(-\\cfrac{49}{77}\\right)-0,04=\\left(-\\cfrac{11}{14}\\right)\\cdot\\left(-\\cfrac{7}{11}\\right)-0,04=\n0,46.$ Искомое число равно $0,46:0,23=2.$\\\\\n"
+  },
+  {
+    "i": 16,
+    "problem": "16.\\ \\cfrac{3\\cdot\\left(\\cfrac{7}{30}-0,125:1\\cfrac{1}{8}\\right)}{\\left(5:1,8-2\\cfrac{1}{3}:1,5\\right):2\\cfrac{2}{3}}&\n",
+    "solution": "16. $\\cfrac{3\\cdot\\left(\\cfrac{7}{30}-0,125:1\\cfrac{1}{8}\\right)}{\\left(5:1,8-2\\cfrac{1}{3}:1,5\\right):2\\cfrac{2}{3}}=\n\\cfrac{3\\cdot\\left(\\cfrac{7}{30}-\\cfrac{125}{1000}\\cdot\\cfrac{8}{9}\\right)}{\\left(5\\cdot\\cfrac{10}{18}-\\cfrac{7}{3}\\cdot{2}{3}\\right)\\cdot\\cfrac{3}{8}}=\n\\cfrac{3\\cdot\\left(\\cfrac{7}{30}-\\cfrac{1}{9}\\right)}{\\left(\\cfrac{25}{9}-\\cfrac{14}{9}\\right)\\cdot\\cfrac{3}{8}}=\n\\cfrac{3\\cdot\\cfrac{11}{90}}{\\cfrac{11}{9}\\cdot\\cfrac{3}{8}}=\\cfrac{\\cfrac{11}{30}}{\\cfrac{11}{24}}=\\cfrac{4}{5}.$\\\\\n"
+  },
+  {
+    "i": 17,
+    "problem": "17.\\ \\cfrac{5\\cdot\\left(\\cfrac{26}{35}-3,75:8\\cfrac{3}{4}\\right)}{\\left(13:1\\cfrac{2}{3}-0,3:\\cfrac{1}{18}\\right)\\cdot3\\cfrac{4}{7}}\\\\\n",
+    "solution": "17. $\\cfrac{5\\cdot\\left(\\cfrac{26}{35}-3,75:8\\cfrac{3}{4}\\right)}{\\left(13:1\\cfrac{2}{3}-0,3:\\cfrac{1}{18}\\right)\\cdot3\\cfrac{4}{7}}=\n\\cfrac{5\\cdot\\left(\\cfrac{26}{35}-\\cfrac{375}{100}\\cdot\\cfrac{4}{35}\\right)}{\\left(13\\cdot\\cfrac{3}{5}-\\cfrac{3}{10}\\cdot\\cfrac{18}{1}\\right)\\cdot\\cfrac{25}{7}}=\n\\cfrac{5\\cdot\\left(\\cfrac{26}{35}-\\cfrac{3}{7}\\right)}{\\left(\\cfrac{39}{5}-\\cfrac{27}{5}\\right)\\cdot\\cfrac{25}{7}}=\n\\cfrac{5\\cdot\\cfrac{11}{35}}{\\cfrac{12}{5}\\cdot\\cfrac{25}{7}}=\\cfrac{\\cfrac{11}{7}}{\\cfrac{60}{7}}=\\cfrac{11}{60}.$\\\\\n"
+  },
+  {
+    "i": 18,
+    "problem": "18.\\ \\cfrac{0,725+0,6+\\cfrac{7}{40}+\\cfrac{11}{20}}{0,128\\cdot6\\cfrac{1}{4}-0,0345:\\cfrac{3}{25}}\\cdot0,25,&\n \\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "18. $\\cfrac{0,725+0,6+\\cfrac{7}{40}+\\cfrac{11}{20}}{0,128\\cdot6\\cfrac{1}{4}-0,0345:\\cfrac{3}{25}}\\cdot0,25=\n\\cfrac{1,325+\\cfrac{29}{40}}{\\cfrac{128}{1000}\\cdot\\cfrac{25}{4}-\\cfrac{345}{10000}\\cdot\\cfrac{25}{3}}\\cdot\\cfrac{1}{4}=\n\\cfrac{\\cfrac{1325}{1000}+\\cfrac{29}{40}}{\\cfrac{4}{5}-\\cfrac{23}{80}}\\cdot\\cfrac{1}{4}=\n\\cfrac{\\cfrac{41}{20}}{\\cfrac{41}{80}}\\cdot\\cfrac{1}{4}=4\\cdot\\cfrac{1}{4}=1.$\\\\\n"
+  },
+  {
+    "i": 19,
+    "problem": "19.\\ \\text{Найдите наибольшее из чисел } A=3\\cfrac{23}{38}+2\\cfrac{35}{38}:\\left(24,175-28\\cfrac{4}{5}\\right),\\\\ P=856\\cdot858-859\\cdot855,\\ K=2\\cfrac{1}{3}+\\cfrac{1}{9}+\\cfrac{2}{27}+\\cfrac{2}{81}+\\cfrac{1}{243},\\\\\n",
+    "solution": "19. $A=3\\cfrac{23}{38}+2\\cfrac{35}{38}:\\left(24,175-28\\cfrac{4}{5}\\right)=3\\cfrac{23}{38}+2\\cfrac{35}{38}:\\left(-\\left(28\\cfrac{4}{5}-24\\cfrac{175}{1000}\\right)\\right)=\n3\\cfrac{23}{38}+\\cfrac{111}{38}\\cdot\\left(-\\cfrac{8}{37}\\right)=$\\\\$=3\\cfrac{23}{38}-\\cfrac{24}{38}=2\\cfrac{37}{38}.$ Для вычисления значения $P$ обозначим $x=857,$ тогда $P=(x-1)(x+1)-$\\\\$-(x+2)(x-2)=(x^2-1)-(x^2-4)=3.$ $K=2+\\cfrac{81}{243}+\\cfrac{27}{243}+\\cfrac{18}{243}+\\cfrac{6}{243}+\\cfrac{1}{243}=2\\cfrac{133}{243}.$ Значит, наибольшим является число $P.$\\\\\n"
+  },
+  {
+    "i": 20,
+    "problem": "20.\\ \\text{Найдите наибольшее из чисел }\nB=5\\cfrac{23}{34}+3\\cfrac{27}{34}:\\left(23,225-28\\cfrac{3}{5}\\right),\\\\\nQ=768\\cdot764-769\\cdot763,\\ M=4\\cfrac{1}{3}+\\cfrac{1}{9}+\\cfrac{2}{27}+\\cfrac{1}{81}+\\cfrac{2}{243},\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "20. $B=5\\cfrac{23}{34}+3\\cfrac{27}{34}:\\left(23,225-28\\cfrac{3}{5}\\right)=5\\cfrac{23}{34}+3\\cfrac{27}{34}:\\left(-\\left(28\\cfrac{3}{5}-23\\cfrac{225}{1000}\\right)\\right)=\n5\\cfrac{23}{34}+\\cfrac{129}{34}\\cdot\\left(-\\cfrac{8}{43}\\right)=5\\cfrac{23}{34}-$\\\\$-\\cfrac{24}{34}=4\\cfrac{33}{34}.$ Для вычисления значения $Q$ обозначим $x=766,$ тогда $Q=(x+2)(x-2)-(x+3)(x-3)=$\\\\$=(x^2-4)-(x^2-9)=5.$ $M=4\\cfrac{81}{243}+\\cfrac{27}{243}+\\cfrac{18}{243}+\\cfrac{3}{243}+\\cfrac{2}{243}=4\\cfrac{131}{243}.$\nЗначит, наибольшим является\\\\ число $Q.$\\\\\n"
+  },
+  {
+    "i": 21,
+    "problem": "21.\\ \\cfrac{1,7\\cdot9,6+3,5\\cdot1,7-1,7\\cdot 3,1}{12\\cfrac{3}{4}:\\left(1\\cfrac{8}{15}+0,25-3\\cfrac{1}{30}-1\\cfrac{3}{4}\\right)},&\n",
+    "solution": "21. $\\cfrac{1,7\\cdot9,6+3,5\\cdot1,7-1,7\\cdot 3,1}{12\\cfrac{3}{4}:\\left(1\\cfrac{8}{15}+0,25-3\\cfrac{1}{30}-1\\cfrac{3}{4}\\right)}=\n\\cfrac{1,7\\cdot(9,6+3,5-3,1)}{\\cfrac{51}{4}:\\left(\\cfrac{23}{15}+\\cfrac{1}{4}-\\cfrac{91}{30}-\\cfrac{7}{4}\\right)}=\n\\cfrac{1,7\\cdot10}{\\cfrac{51}{4}:\\left(-\\cfrac{6}{4}-\\cfrac{45}{30}\\right)}=\\cfrac{17}{\\cfrac{51}{4}:\\left(-3\\right)}=$\\\\$=\\cfrac{17}{-\\cfrac{17}{4}}=-4.$\\\\\n"
+  },
+  {
+    "i": 22,
+    "problem": "22.\\ \\cfrac{6,5\\cdot1,5-7,6\\cdot6,5-13,9\\cdot6,5}{\\left(3\\cfrac{4}{5}+1\\cfrac{5}{12}-0,8-3\\cfrac{1}{3}\\right):\\cfrac{1}{4}},\\end{array}$\n\\\\\n$\\begin{array}{ll}\n",
+    "solution": "22. $\\cfrac{6,5\\cdot1,5-7,6\\cdot6,5-13,9\\cdot6,5}{\\left(3\\cfrac{4}{5}+1\\cfrac{5}{12}-0,8-3\\cfrac{1}{3}\\right):\\cfrac{1}{4}}=\n\\cfrac{6,5\\cdot(1,5-7,6-13,9)}{\\left(\\cfrac{19}{5}+\\cfrac{17}{12}-\\cfrac{4}{5}-\\cfrac{10}{3}\\right)\\cdot4}=\n\\cfrac{6,5\\cdot(-20)}{\\left(3-\\cfrac{23}{12}\\right)\\cdot4}=\\cfrac{-130}{\\cfrac{13}{12}\\cdot4}=\\cfrac{-130}{\\cfrac{13}{3}}=$\\\\$=-30.$\\\\\n"
+  },
+  {
+    "i": 23,
+    "problem": "23.\\ \\left(0,315\\cdot0,725-0,75:\\cfrac{3}{20}\\cdot0,01+0,315\\cdot0,275\\right):\n\\left(\\cfrac{1}{4}-\\cfrac{7}{20}\\right),\n\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "23. $\\left(0,315\\cdot0,725-0,75:\\cfrac{3}{20}\\cdot0,01+0,315\\cdot0,275\\right):\\left(\\cfrac{1}{4}-\\cfrac{7}{20}\\right)=$\\\\$=\n\\left(0,315\\cdot(0,725+0,275)-\\cfrac{3}{4}\\cdot\\cfrac{20}{3}\\cdot\\cfrac{1}{100}\\right):\\left(\\cfrac{5}{20}-\\cfrac{7}{20}\\right)=\n\\left(0,315-\\cfrac{1}{20}\\right):\\left(-\\cfrac{1}{10}\\right)=\\left(0,315-0,05\\right)\\cdot$\\\\$\\cdot\\left(-10\\right)=-2,65.$\\\\\n"
+  },
+  {
+    "i": 24,
+    "problem": "24.\\ \\left(1,48-\\left(46:27-(0,52-16:54)\\right)\\right)^2,&\n",
+    "solution": "24. $\\left(1,48-\\left(46:27-(0,52-16:54)\\right)\\right)^2=\\left(1,48-\\cfrac{46}{27}+0,52-\\cfrac{8}{27}\\right)^2=(2-2)^2=0.$\\\\\n"
+  },
+  {
+    "i": 25,
+    "problem": "25.\\ \\left(20\\cfrac{4}{5}+1\\cfrac{5}{12}-0,8-3\\cfrac{1}{3}\\right)\\cdot\\cfrac{1}{6},\\\\\n",
+    "solution": "25. $\\left(20\\cfrac{4}{5}+1\\cfrac{5}{12}-0,8-3\\cfrac{1}{3}\\right)\\cdot\\cfrac{1}{6}=\n\\left(20+1\\cfrac{5}{12}-3\\cfrac{4}{12}\\right)\\cdot\\cfrac{1}{6}=18\\cfrac{1}{12}\\cdot\\cfrac{1}{6}=3\\cfrac{1}{72}.$\\\\\n"
+  },
+  {
+    "i": 26,
+    "problem": "26.\\ \\left(1\\cfrac{1}{4}-14,05\\right):0,04+13,8:\\cfrac{1}{13},&\n",
+    "solution": "26. $\\left(1\\cfrac{1}{4}-14,05\\right):0,04+13,8:\\cfrac{1}{13}=-\\left(14,05-1,25\\right):0,04+13,8\\cdot13=\n-12,8:0,04+13,8\\cdot13=$\\\\$=-320+179,4=-140,6.$\\\\\n"
+  },
+  {
+    "i": 27,
+    "problem": "27.\\ \\cfrac{0,03+0,07:\\left(1\\cfrac{7}{24}+\\cfrac{7}{30}-2\\cfrac{9}{40}\\right)+\n\\cfrac{7}{36}\\cdot\\cfrac{18}{35}}{-0,1^2},\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "27. $\\cfrac{0,03+0,07:\\left(1\\cfrac{7}{24}+\\cfrac{7}{30}-2\\cfrac{9}{40}\\right)+\\cfrac{7}{36}\\cdot\\cfrac{18}{35}}{-0,1^2}=\n\\left(0,03+0,07:\\left(1\\cfrac{63}{120}-2\\cfrac{9}{40}\\right)+\\cfrac{1}{10}\\right)\\cdot(-100)=$\\\\$=\n(0,03+0,07:\\left(-\\cfrac{7}{10}\\right)+0,1)\\cdot(-100)=(0,03-0,1+0,1)\\cdot(-100)=-3.$\\\\\n"
+  },
+  {
+    "i": 28,
+    "problem": "28.\\ 2379\\cdot23782378-2378\\cdot23792379,\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "28. $2379\\cdot23782378-2378\\cdot23792379=2379\\cdot2378\\cdot10001-2378\\cdot2379\\cdot10001=0.$\\\\\n"
+  },
+  {
+    "i": 29,
+    "problem": "29.\\ \\cfrac{(21557\\cdot21577+100)(21547\\cdot21587+400)}{21567^4},&\n",
+    "solution": "29. Пусть $x=21567,$ тогда $\\cfrac{((x-10)(x+10)+100)((x-20)(x+20)+400)}{x^4}=$\\\\$=\\cfrac{(x^2-100+100)(x^2-400+400)}{x^4}=\n\\cfrac{x^2\\cdot x^2 }{x^4}=1.$\\\\\n"
+  },
+  {
+    "i": 30,
+    "problem": "30.\\ \\cfrac{(32002\\cdot32022+100)(31992\\cdot32032+400)}{32012^4},\\\\\n",
+    "solution": "30. Пусть $x=32012,$ тогда $\\cfrac{((x-10)(x+10)+100)((x-20)(x+20)+400)}{x^4}=$\\\\$=\\cfrac{(x^2-100+100)(x^2-400+400)}{x^4}=\n\\cfrac{x^2\\cdot x^2 }{x^4}=1.$\\\\\n"
+  },
+  {
+    "i": 31,
+    "problem": "31.\\ \\cfrac{(41802\\cdot41822+100)(41792\\cdot41832+400)}{41812^4},&\n",
+    "solution": "31. Пусть $x=41812,$ тогда $\\cfrac{((x-10)(x+10)+100)((x-20)(x+20)+400)}{x^4}=$\\\\$=\\cfrac{(x^2-100+100)(x^2-400+400)}{x^4}=\n\\cfrac{x^2\\cdot x^2 }{x^4}=1.$\\\\\n"
+  },
+  {
+    "i": 32,
+    "problem": "32.\\ \\cfrac{(51907\\cdot51927+100)(51897\\cdot51937+400)}{51917^4},\n\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "32. Пусть $x=51917,$ тогда $\\cfrac{((x-10)(x+10)+100)((x-20)(x+20)+400)}{x^4}=$\\\\$=\\cfrac{(x^2-100+100)(x^2-400+400)}{x^4}=\n\\cfrac{x^2\\cdot x^2 }{x^4}=1.$\\\\\n"
+  },
+  {
+    "i": 33,
+    "problem": "33.\\ \\cfrac{3\\cfrac{1}{3}\\cdot1,9+19,5:4\\cfrac{1}{2}}{\\cfrac{62}{75}-0,16}:\\cfrac{3,5+4\\cfrac{2}{3}+2\\cfrac{2}{15}}{0,5\\left(1\\cfrac{1}{20}+4,1\\right)},\n",
+    "solution": "33. $\\cfrac{3\\cfrac{1}{3}\\cdot1,9+19,5:4\\cfrac{1}{2}}{\\cfrac{62}{75}-0,16}:\\cfrac{3,5+4\\cfrac{2}{3}+2\\cfrac{2}{15}}{0,5\\left(1\\cfrac{1}{20}+4,1\\right)}=\n\\cfrac{\\cfrac{10}{3}\\cdot\\cfrac{19}{10}+\\cfrac{195}{10}\\cdot\\cfrac{2}{9}}{\\cfrac{62}{75}-\\cfrac{4}{25}}:\\cfrac{3,5+6,8}{0,5\\left(1,05+4,1\\right)}=\n\\cfrac{\\cfrac{19}{3}+\\cfrac{13}{3}}{\\cfrac{2}{3}}:\\cfrac{10,3}{2,575}=$\\\\$=\n\\cfrac{32}{3}\\cdot\\cfrac{3}{2}:4=4.$\\\\\n"
+  },
+  {
+    "i": 34,
+    "problem": "34.\\\n\\cfrac{\\left(\\cfrac{3}{5}+0,425-0,005\\right):0,1}{30,5+\\cfrac{1}{6}+3\\cfrac{1}{3}}+\\cfrac{6\\cfrac{3}{4}+5\\cfrac{1}{2}}\n{26:3\\cfrac{5}{7}}-0,05,\n\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "34. $\\cfrac{\\left(\\cfrac{3}{5}+0,425-0,005\\right):0,1}{30,5+\\cfrac{1}{6}+3\\cfrac{1}{3}}+\\cfrac{6\\cfrac{3}{4}+5\\cfrac{1}{2}}\n{26:3\\cfrac{5}{7}}-0,05=\\cfrac{\\left(0,6+0,42\\right)\\cdot10}{30,5+3,5}+\\cfrac{12\\cfrac{1}{4}}\n{26:\\cfrac{26}{7}}-0,05=\\cfrac{1,02\\cdot10}{34}+$\\\\$+\\cfrac{\\cfrac{49}{4}}\n{7}-0,05=0,3+1,75-0,05=2.$\\\\\n"
+  },
+  {
+    "i": 35,
+    "problem": "35.\\ \\cfrac{278\\cfrac{1}{6}+529\\cfrac{1}{21}+129\\cfrac{5}{7}+54\\cfrac{3}{14}}{\\left(1\\cfrac{3}{8}\n-4,2638+7\\cfrac{3}{7}-2,7362+1\\cfrac{11}{56}\\right)\\cdot(2,39\\cdot73-236+23,9\\cdot2,7)},\\\\\n",
+    "solution": "35. $\\cfrac{278\\cfrac{1}{6}+529\\cfrac{1}{21}+129\\cfrac{5}{7}+54\\cfrac{3}{14}}{\\left(1\\cfrac{3}{8}-4,2638+7\\cfrac{3}{7}-2,7362+1\\cfrac{11}{56}\\right)\\cdot(2,39\\cdot73-236+23,9\\cdot2,7)}=$\\\\$=\n\\cfrac{278+529+129+54+\\cfrac{7}{42}+\\cfrac{2}{42}+\\cfrac{30}{42}+\\cfrac{9}{42}}{\\left(1\\cfrac{21}{56}+7\\cfrac{24}{56}+1\\cfrac{11}{56}-(2,7362+4,2638)\\right)\\cdot(23,9\\cdot7,3-236+23,9\\cdot2,7)}=$\\\\$=\n\\cfrac{990+\\cfrac{8}{7}}{\\left(10-7\\right)\\cdot(23,9\\cdot(7,3+2,7)-236)}=\\cfrac{990+\\cfrac{8}{7}}{3\\cdot3}=110\\cfrac{8}{63}.$\\\\\n"
+  },
+  {
+    "i": 36,
+    "problem": "36.\\\n\\cfrac{119\\cfrac{1}{42}+289\\cfrac{23}{42}+108\\cfrac{1}{6}+144\\cfrac{3}{7}}\n{\\left(3\\cfrac{2}{9}-4,4561+5\\cfrac{3}{7}-5,5439+3\\cfrac{22}{63}\\right)\\cdot\n(3,66\\cdot49-363+36,6\\cdot5,1)},\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "36. $\\cfrac{119\\cfrac{1}{42}+289\\cfrac{23}{42}+108\\cfrac{1}{6}+144\\cfrac{3}{7}}\n{\\left(3\\cfrac{2}{9}-4,4561+5\\cfrac{3}{7}-5,5439+3\\cfrac{22}{63}\\right)\\cdot\n(3,66\\cdot49-363+36,6\\cdot5,1)}=$\\\\$=\\cfrac{119+289+108+144+\\cfrac{1}{42}+\\cfrac{23}{42}+\\cfrac{1}{6}+\\cfrac{3}{7}}\n{\\left(3\\cfrac{2}{9}+5\\cfrac{3}{7}+3\\cfrac{22}{63}-(4,4561+5,5439)\\right)\\cdot\n(36,6\\cdot4,9-363+36,6\\cdot5,1)}=$\\\\$=\\cfrac{660+\\cfrac{7}{6}}\n{\\left(12-10\\right)\\cdot(36,6\\cdot(4,9+5,1)-363)}=\\cfrac{660+\\cfrac{7}{6}}{2\\cdot3}=110\\cfrac{7}{36}.$\\\\\n"
+  },
+  {
+    "i": 37,
+    "problem": "37.\\ \\cfrac{\\left(-1\\cfrac{4}{5}-6\\cfrac{1}{3}+8,75\\right):1\\cfrac{2}{3}-\\cfrac{-2,08}{16}}\n{-1\\cfrac{7}{25}:1,92+\\cfrac{7}{22}\\cdot\\left(-3\\cfrac{2}{3}\\right)},&\n",
+    "solution": "37. $\\cfrac{\\left(-1\\cfrac{4}{5}-6\\cfrac{1}{3}+8,75\\right):1\\cfrac{2}{3}-\\cfrac{-2,08}{16}}\n{-1\\cfrac{7}{25}:1,92+\\cfrac{7}{22}\\cdot\\left(-3\\cfrac{2}{3}\\right)}=\n\\cfrac{\\left(1-\\cfrac{4}{5}-\\cfrac{1}{3}+\\cfrac{3}{4}\\right):\\cfrac{5}{3}+\\cfrac{208}{1600}}\n{-\\cfrac{32}{25}:\\cfrac{192}{100}-\\cfrac{7}{22}\\cdot\\cfrac{11}{3}}=\n\\cfrac{\\cfrac{37}{60}\\cdot\\cfrac{3}{5}+\\cfrac{208}{1600}}\n{-\\cfrac{32}{25}\\cdot\\cfrac{100}{192}-\\cfrac{7}{6}}=$\\\\$=\n\\cfrac{\\cfrac{37}{100}+\\cfrac{13}{100}}\n{-\\cfrac{2}{3}-\\cfrac{7}{6}}=\\cfrac{\\cfrac{1}{2}}{-\\cfrac{11}{6}}=-\\cfrac{3}{11}.$\\\\\n"
+  },
+  {
+    "i": 38,
+    "problem": "38.\\ \\cfrac{0,27\\cdot\\left(4\\cfrac{2}{5}-0,9\\right)-\\cfrac{4.2}{4\\cfrac{4}{9}}}\n{\\cfrac{6,2}{0,31}-\\cfrac{5}{6}\\cdot0,9},\\\\\n",
+    "solution": "38. $\\cfrac{0,27\\cdot\\left(4\\cfrac{2}{5}-0,9\\right)-\\cfrac{4.2}{4\\cfrac{4}{9}}}\n{\\cfrac{6,2}{0,31}-\\cfrac{5}{6}\\cdot0,9}=\\cfrac{0,27\\cdot\\left(4,4-0,9\\right)-\\cfrac{\\cfrac{42}{10}}{\\cfrac{40}{9}}}\n{20-\\cfrac{5}{6}\\cdot\\cfrac{9}{10}}=\\cfrac{0,27\\cdot3.5-\\cfrac{189}{200}}\n{20-\\cfrac{25}{27}}=\\cfrac{0,27\\cdot3.5-\\cfrac{189}{200}}\n{20-\\cfrac{25}{27}}=$\\\\$=\\cfrac{\\cfrac{189}{200}-\\cfrac{189}{200}}\n{20-\\cfrac{25}{27}}=0.$\\\\\n"
+  },
+  {
+    "i": 39,
+    "problem": "39.\\ \\cfrac{180\\cdot3,91-168+859\\cdot1,8-768}{239\\cfrac{5}{6}-237\\cfrac{2}{3}},&\n",
+    "solution": "39. $\\cfrac{180\\cdot3,91-168+859\\cdot1,8-768}{239\\cfrac{5}{6}-237\\cfrac{2}{3}}=\n\\cfrac{1,8\\cdot391-168+859\\cdot1,8-768}{\\cfrac{13}{6}}=\\cfrac{1,8\\cdot(391+859)-936}{\\cfrac{13}{6}}=$\\\\$=\\cfrac{1,8\\cdot1250-936}{\\cfrac{13}{6}}=\n\\cfrac{2250-936}{\\cfrac{13}{6}}=\\cfrac{1313+1}{\\cfrac{13}{6}}=606\\cfrac{6}{13}.$\\\\\n"
+  },
+  {
+    "i": 40,
+    "problem": "40.\\ \\cfrac{1,7\\cdot229-1155+7,91\\cdot170+937}{366\\cfrac{5}{6}-364\\cfrac{29}{42}},\\end{array}\\\\\n\\begin{array}{l}\n",
+    "solution": "40. $\\cfrac{1,7\\cdot229-1155+7,91\\cdot170+937}{366\\cfrac{5}{6}-364\\cfrac{29}{42}}=\\cfrac{1,7\\cdot229-1155+791\\cdot1,70+937}{\\cfrac{15}{7}}=$\\\\$=\n\\cfrac{1,7\\cdot(229+791)-1155+937}{\\cfrac{15}{7}}=\\cfrac{1,7\\cdot1020-218}{\\cfrac{15}{7}}=\\cfrac{1734-218}{\\cfrac{15}{7}}=\n\\cfrac{1515+1}{\\cfrac{15}{7}}=707\\cfrac{7}{15}.$\\\\\n"
+  },
+  {
+    "i": 41,
+    "problem": "41.\\ \\left(3\\cfrac{7}{12}+4\\cfrac{7}{12}: \\left(2\\cfrac{1}{3}-5\\cfrac{1}{12}\\right)\\right):\n\\left(3,25:5\\cfrac{7}{22}-8\\cfrac{5}{18}\\right),\\\\\n",
+    "solution": "41. $\\left(3\\cfrac{7}{12}+4\\cfrac{7}{12}: \\left(2\\cfrac{1}{3}-5\\cfrac{1}{12}\\right)\\right):\n\\left(3,25:5\\cfrac{7}{22}-8\\cfrac{5}{18}\\right)=$\\\\$=\\left(3\\cfrac{7}{12}-\\cfrac{55}{12}: \\left(5\\cfrac{1}{12}-2\\cfrac{4}{12}\\right)\\right):\n\\left(\\cfrac{325}{100}:\\cfrac{117}{22}-8\\cfrac{5}{18}\\right)=\\left(3\\cfrac{7}{12}-\\cfrac{55}{12}:\\cfrac{11}{4}\\right):\n\\left(\\cfrac{325}{100}\\cdot\\cfrac{22}{117}-8\\cfrac{5}{18}\\right)=$\\\\$=\\left(\\cfrac{43}{1 2}-\\cfrac{20}{12}\\right):\n\\left(\\cfrac{11}{18}-\\cfrac{149}{18}\\right)=\\cfrac{23}{12}:\n\\left(-\\cfrac{138}{18}\\right)=\\cfrac{23}{12}\\cdot\\left(-\\cfrac{18}{138}\\right)=-\\cfrac{1}{4}.$\\\\\n"
+  },
+  {
+    "i": 42,
+    "problem": "42.\\ \\text{Найдите положительное число, если его квадрат равен } 1566\\cdot1568+1,\\\\\n",
+    "solution": "42. Пусть $x=1567,$ тогда $1566\\cdot1568+1=(x-1)(x+1)+1=x^2-1+1=x^2.$\\\\\n"
+  },
+  {
+    "i": 43,
+    "problem": "43.\\ \\text{Сравните } 2\\text{ и } 29\\cfrac{13}{17}\\cdot 30\\cfrac{13}{17}-28\\cfrac{13}{17}\\cdot31\\cfrac{13}{17}.\n\\end{array}$\\\\\n$\\begin{array}{ll}\n",
+    "solution": "43. Пусть $x=28\\cfrac{13}{17},$ тогда $29\\cfrac{13}{17}\\cdot 30\\cfrac{13}{17}-28\\cfrac{13}{17}\\cdot31\\cfrac{13}{17}=\n(x+1)(x+2)-x(x+3)=(x^2+2x+x+2)-$\\\\$-(x^2+3x)=x^2+3x+2-x^2-3x=2.$ Значит, сравниваемые числа равны.\\\\\n"
+  },
+  {
+    "i": 44,
+    "problem": "44.\\ \\cfrac{2\\cfrac{3}{4}:1,1+3\\cfrac{1}{3}}{2,5-0,4\\cdot3\\cfrac{1}{3}}:\\cfrac{5}{7}-\n\\cfrac{\\left(2\\cfrac{1}{6}+4,5\\right)\\cdot0,375}{2,75-1\\cfrac{1}{2}},&\n",
+    "solution": "44. $\\cfrac{2\\cfrac{3}{4}:1,1+3\\cfrac{1}{3}}{2,5-0,4\\cdot3\\cfrac{1}{3}}:\\cfrac{5}{7}-\n\\cfrac{\\left(2\\cfrac{1}{6}+4,5\\right)\\cdot0,375}{2,75-1\\cfrac{1}{2}}=\n\\cfrac{\\cfrac{5}{2}+\\cfrac{10}{3}}{\\cfrac{5}{2}-\\cfrac{4}{3}}\\cdot\\cfrac{7}{5}-\n\\cfrac{\\cfrac{20}{3}\\cdot\\cfrac{3}{8}}{1,25}=\\cfrac{\\cfrac{35}{6}}{\\cfrac{7}{6}}\\cdot\\cfrac{7}{5}-\n\\cfrac{\\cfrac{5}{2}}{\\cfrac{5}{4}}=5\\cdot\\cfrac{7}{5}-2=7-2=5.$\\\\\n"
+  },
+  {
+    "i": 45,
+    "problem": "45.\\ \\cfrac{3\\cfrac{1}{3}:10+0,175:0,35}{1,75-1\\cfrac{11}{17}\\cdot\\cfrac{51}{56}}-\n\\cfrac{\\left(\\cfrac{11}{18}-\\cfrac{1}{15}\\right):1,4}{\\left(0,5-\\cfrac{1}{9}\\right)\\cdot3},\\\\\n",
+    "solution": "45. $\\cfrac{3\\cfrac{1}{3}:10+0,175:0,35}{1,75-1\\cfrac{11}{17}\\cdot\\cfrac{51}{56}}-\n\\cfrac{\\left(\\cfrac{11}{18}-\\cfrac{1}{15}\\right):1,4}{\\left(0,5-\\cfrac{1}{9}\\right)\\cdot3}=\n\\cfrac{\\cfrac{10}{3}:10+0,5}{1,75-\\cfrac{28}{17}\\cdot\\cfrac{51}{56}}-\n\\cfrac{\\cfrac{49}{90}:\\cfrac{14}{10}}{\\left(\\cfrac{1}{2}-\\cfrac{1}{9}\\right)\\cdot3}=\n\\cfrac{\\cfrac{1}{3}+\\cfrac{1}{2}}{1,75-1,5}-\n\\cfrac{\\cfrac{49}{90}\\cdot\\cfrac{5}{7}}{\\cfrac{7}{18}\\cdot3}=$\\\\$=\n\\cfrac{\\cfrac{5}{6}}{\\cfrac{1}{4}}-\n\\cfrac{\\cfrac{7}{18}}{\\cfrac{7}{6}}=\\cfrac{10}{3}-\\cfrac{1}{3}=3.$\\\\\n"
+  },
+  {
+    "i": 46,
+    "problem": "46.\\ \\cfrac{\\left(85\\cfrac{7}{30}-83\\cfrac{5}{18}\\right):2\\cfrac{2}{3}}{0,04}\\cdot\\cfrac{3}{11},&\n",
+    "solution": "46. $\\cfrac{\\left(85\\cfrac{7}{30}-83\\cfrac{5}{18}\\right):2\\cfrac{2}{3}}{0,04}\\cdot\\cfrac{3}{11}=\n\\cfrac{\\cfrac{88}{45}:\\cfrac{8}{3}}{\\cfrac{1}{25}}\\cdot\\cfrac{3}{11}=\\cfrac{\\cfrac{11}{15}}{\\cfrac{1}{25}}\\cdot\\cfrac{3}{11}=\n\\cfrac{55}{3}\\cdot\\cfrac{3}{11}=5.$\\\\\n"
+  },
+  {
+    "i": 47,
+    "problem": "47.\\ \\text{Сравните } \\cfrac{11}{14} \\text{ и } \\cfrac{55}{71}.\n\\end{array}$\\\\\n",
+    "solution": "47. $\\cfrac{11}{14}=\\cfrac{55}{70}>\\cfrac{55}{71}.$\\\\\n"
+  },
+  {
+    "i": 48,
+    "problem": "48. Выясните, равно ли одно из чисел сумме двух других\\\\\n$A=8,67:0,017-239\\cdot2\\frac{8}{9},\\ B=15\\text{НОД}(70, 175)-\\text{НОК}(70,175),\\ C=(-2,(3))^2.$\\\\\n",
+    "solution": "48. $A=8,67:0,017-239\\cdot2\\frac{8}{9}=510-239\\cdot\\frac{26}{9}=-180\\cfrac{4}{9}.$ $B=15\\text{НОД}(70, 175)-\\text{НОК}(70,175)=15\\cdot35-$\\\\$-350=175.$$C=(-2,(3))^2=\\left(\\cfrac{7}{3}\\right)^2=\\cfrac{49}{9}=5\\cfrac{4}{9}.$ Значит, $A+B+C=0$ и никакое число сумме двух других не равно.\\\\\n"
+  },
+  {
+    "i": 49,
+    "problem": "49. Выясните, равно ли одно из чисел сумме двух других\\\\\n$A=7,28:0,013-239\\cdot2\\frac{5}{9},\\ B=25\\text{НОД}(84, 36)-\\text{НОК}(84,36),\\ C=(-1,(6))^2.$\\\\\n",
+    "solution": "49. $A=7,28:0,013-239\\cdot2\\frac{5}{9}=560-239\\cdot\\cfrac{23}{9}=-50\\cfrac{7}{9}.$ $B=25\\text{НОД}(84, 36)-\\text{НОК}(84,36)=25\\cdot12-$\\\\$-252=48.$\n$C=(-1,(6))^2=\\left(\\cfrac{5}{3}\\right)^2=\\cfrac{25}{9}=2\\cfrac{7}{9}.$ Значит, $A+B+C=0$ и никакое число сумме двух других не равно.\\\\\n"
+  },
+  {
+    "i": 50,
+    "problem": "50. $\\left(\\left(3,8\\cdot1\\cfrac{4}{7}-2,5\\cdot3,8\\right)\\cdot4\\cfrac{3}{13}-\\cfrac{1}{14}\\right):2,5.$\\quad\n",
+    "solution": "50. $\\left(\\left(3,8\\cdot1\\cfrac{4}{7}-2,5\\cdot3,8\\right)\\cdot4\\cfrac{3}{13}-\\cfrac{1}{14}\\right):2,5=\n\\left(\\cfrac{38}{10}\\cdot\\left(\\cfrac{11}{7}-\\cfrac{5}{2}\\right)\\cdot\\cfrac{55}{13}-\\cfrac{1}{14}\\right):\\cfrac{5}{2}=$\\\\$\n\\left(\\cfrac{19}{5}\\cdot\\left(-\\cfrac{13}{14}\\right)\\cdot\\cfrac{55}{13}-\\cfrac{1}{14}\\right)\\cdot\\cfrac{2}{5}=\n\\left(-\\cfrac{209}{14}-\\cfrac{1}{14}\\right)\\cdot\\cfrac{2}{5}=(-15)\\cdot\\cfrac{2}{5}=-6.$\\\\\n"
+  },
+  {
+    "i": 51,
+    "problem": "51. $\\left(2,3-5\\cfrac{2}{3}+1,4\\right):29,5\\cdot3-1,8.$\\\\\n",
+    "solution": "51. $\\left(2,3-5\\cfrac{2}{3}+1,4\\right):29,5\\cdot3-1,8=\n\\left(\\cfrac{37}{10}-\\cfrac{17}{3}\\right):\\cfrac{59}{2}\\cdot3-1,8=\n-\\cfrac{59}{30}\\cdot\\cfrac{2}{59}\\cdot3-1,8=-0,2-1,8=-2.$\\\\\n"
+  },
+  {
+    "i": 52,
+    "problem": "52. $\\left(2\\cfrac{4}{9}\\left(2\\cfrac{3}{11}\\cdot2,7-5,7\\cdot2\\cfrac{3}{11}\\right)-\\cfrac{1}{3}\\right):5\\cfrac{2}{3}.$\\quad\n",
+    "solution": "52. $\\left(2\\cfrac{4}{9}\\left(2\\cfrac{3}{11}\\cdot2,7-5,7\\cdot2\\cfrac{3}{11}\\right)-\\cfrac{1}{3}\\right):5\\cfrac{2}{3}=\n\\left(\\cfrac{22}{9}\\cdot\\cfrac{25}{11}\\cdot\\left(2,7-5,7\\right)-\\cfrac{1}{3}\\right):\\cfrac{17}{3}=$\\\\$\n\\left(\\cfrac{50}{9}\\cdot\\left(-3\\right)-\\cfrac{1}{3}\\right)\\cdot\\cfrac{3}{17}=\n\\left(-\\cfrac{50}{3}-\\cfrac{1}{3}\\right)\\cdot\\cfrac{3}{17}=\n(-17)\\cdot\\cfrac{3}{17}=-3.$\\\\\n"
+  },
+  {
+    "i": 53,
+    "problem": "53. $\\left(3,2-\\left(4\\cfrac{1}{3}-1,5\\right)\\right):5,5\\cdot7-\\cfrac{2}{15},$\\\\\n",
+    "solution": "53. $\\left(3,2-\\left(4\\cfrac{1}{3}-1,5\\right)\\right):5,5\\cdot7-\\cfrac{2}{15}=\n\\left(\\cfrac{47}{10}-\\cfrac{13}{3}\\right):\\cfrac{11}{2}\\cdot7-\\cfrac{2}{15}=\n\\cfrac{11}{30}\\cdot\\cfrac{2}{11}\\cdot7-\\cfrac{2}{15}=\n\\cfrac{7}{15}-\\cfrac{2}{15}=\\cfrac{1}{3}.$\\\\\n"
+  },
+  {
+    "i": 54,
+    "problem": "54. $\\cfrac{\\left(5\\cfrac{4}{45}-4\\cfrac{1}{6}\\right):5\\cfrac{8}{15}}{\\left(4\\cfrac{2}{3}+0,75\\right)\\cdot3\\cfrac{9}{13}}\\cdot34\\cfrac{2}{7}+\\cfrac{0,3:0,01}{70}+\\cfrac{2}{7},$\\quad\n",
+    "solution": "54. $\\cfrac{\\left(5\\cfrac{4}{45}-4\\cfrac{1}{6}\\right):5\\cfrac{8}{15}}{\\left(4\\cfrac{2}{3}+0,75\\right)\\cdot3\\cfrac{9}{13}}\\cdot34\\cfrac{2}{7}+\\cfrac{0,3:0,01}{70}+\\cfrac{2}{7}=\n\\cfrac{\\left(1\\cfrac{8}{90}-\\cfrac{15}{90}\\right):\\cfrac{83}{15}}{\\left(4\\cfrac{8}{12}+\\cfrac{9}{12}\\right)\\cdot\\cfrac{48}{13}}\\cdot\\cfrac{240}{7}+\\cfrac{30}{70}+\\cfrac{2}{7}=\n\\cfrac{\\cfrac{83}{90}\\cdot\\cfrac{15}{83}}{\\cfrac{65}{12}\\cdot\\cfrac{48}{13}}\\cdot\\cfrac{240}{7}+\\cfrac{5}{7}=\n\\cfrac{\\cfrac{1}{6}}{20}\\cdot\\cfrac{240}{7}+\\cfrac{5}{7}=\\cfrac{2}{7}+\\cfrac{5}{7}=1.$\\\\\n"
+  },
+  {
+    "i": 55,
+    "problem": "55. $\\cfrac{\\left(\\cfrac{3}{5}+0,425-0,005\\right):0,1}{\\cfrac{1}{6}+3\\cfrac{1}{3}+30,5}+\\cfrac{6\\cfrac{3}{4}+5\\cfrac{1}{2}}{26:3\\cfrac{5}{7}}-0,05.$\\\\\n",
+    "solution": "55. $\\cfrac{\\left(\\cfrac{3}{5}+0,425-0,005\\right):0,1}{\\cfrac{1}{6}+3\\cfrac{1}{3}+30,5}+\\cfrac{6\\cfrac{3}{4}+5\\cfrac{1}{2}}{26:3\\cfrac{5}{7}}-0,05=\n\\cfrac{\\left(\\cfrac{3}{5}+\\cfrac{21}{50}\\right)\\cdot10}{34}+\\cfrac{11\\cfrac{3}{4}+\\cfrac{2}{4}}{26:\\cfrac{26}{7}}-0,05=\n\\cfrac{\\cfrac{51}{50}\\cdot10}{34}+\\cfrac{\\cfrac{49}{4}}{7}-0,05=\n\\cfrac{3}{10}+\\cfrac{7}{4}-0,05=2.$\\\\\n"
+  },
+  {
+    "i": 56,
+    "problem": "56. $20202020\\cdot20202022-20202023\\cdot20202019.$\\quad\n",
+    "solution": "56. Пусть $20202021=x,$ тогда $(x-1)(x+1)-(x+2)(x-2)=(x^2+x-x-1)-(x^2-2x+2x-4)=x^2-1-x^2+4=3.$\\\\\n"
+  },
+  {
+    "i": 57,
+    "problem": "57. $193\\cfrac{1}{12}+207\\cfrac{1}{3}-225\\cfrac{13}{52}.$\n\\newpage\n",
+    "solution": "57. $193\\cfrac{1}{12}+207\\cfrac{1}{3}-225\\cfrac{13}{52}=(193+207-225)+\\left(\\cfrac{1}{12}+\\cfrac{1}{3}-\\cfrac{1}{4}\\right)=175+\\cfrac{1}{6}=175\\cfrac{1}{6}.$\n\\newpage\n"
+  }
+]

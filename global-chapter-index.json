@@ -1,0 +1,262 @@
+{
+  "4_klass_utf8": {
+    "chapter001": {
+      "title": "Раздел 1: примеры без приёмов рациональных вычислений",
+      "tasks_total": 108,
+      "tasks_first": 1,
+      "tasks_last": 108,
+      "chapter_json": "4_klass_utf8/chapter001/chapter.json"
+    },
+    "chapter002": {
+      "title": "Раздел 2: примеры с приёмами рациональных вычислений",
+      "tasks_total": 48,
+      "tasks_first": 1,
+      "tasks_last": 48,
+      "chapter_json": "4_klass_utf8/chapter002/chapter.json"
+    },
+    "chapter003": {
+      "title": "Раздел 3: уравнения задачи",
+      "tasks_total": 80,
+      "tasks_first": 1,
+      "tasks_last": 80,
+      "chapter_json": "4_klass_utf8/chapter003/chapter.json"
+    },
+    "chapter004": {
+      "title": "Раздел 4: именованные величины: Задачи",
+      "tasks_total": 341,
+      "tasks_first": 1,
+      "tasks_last": 341,
+      "chapter_json": "4_klass_utf8/chapter004/chapter.json"
+    },
+    "chapter005": {
+      "title": "Раздел 5: стандартные задачи",
+      "tasks_total": 338,
+      "tasks_first": 1,
+      "tasks_last": 338,
+      "chapter_json": "4_klass_utf8/chapter005/chapter.json"
+    },
+    "chapter006": {
+      "title": "Раздел 6: ряды задачи",
+      "tasks_total": 120,
+      "tasks_first": 1,
+      "tasks_last": 120,
+      "chapter_json": "4_klass_utf8/chapter006/chapter.json"
+    },
+    "chapter007": {
+      "title": "Раздел 7: Нестандартные задачи",
+      "tasks_total": 395,
+      "tasks_first": 1,
+      "tasks_last": 395,
+      "chapter_json": "4_klass_utf8/chapter007/chapter.json"
+    }
+  },
+  "7_klass_utf8": {
+    "chapter001": {
+      "title": "Числовые выражения задачи",
+      "tasks_total": 57,
+      "tasks_first": 1,
+      "tasks_last": 57,
+      "chapter_json": "7_klass_utf8/chapter001/chapter.json"
+    },
+    "chapter002": {
+      "title": "Степенные функции задачи",
+      "tasks_total": 63,
+      "tasks_first": 1,
+      "tasks_last": 63,
+      "chapter_json": "7_klass_utf8/chapter002/chapter.json"
+    },
+    "chapter003": {
+      "title": "Преобразование буквенных выражений задачи",
+      "tasks_total": 148,
+      "tasks_first": 1,
+      "tasks_last": 148,
+      "chapter_json": "7_klass_utf8/chapter003/chapter.json"
+    },
+    "chapter004": {
+      "title": "Проценты задачи",
+      "tasks_total": 62,
+      "tasks_first": 1,
+      "tasks_last": 62,
+      "chapter_json": "7_klass_utf8/chapter004/chapter.json"
+    },
+    "chapter005": {
+      "title": "Уравнения и неравенства задачи",
+      "tasks_total": 117,
+      "tasks_first": 1,
+      "tasks_last": 117,
+      "chapter_json": "7_klass_utf8/chapter005/chapter.json"
+    },
+    "chapter006": {
+      "title": "Прямые на координатной плоскости задачи",
+      "tasks_total": 95,
+      "tasks_first": 1,
+      "tasks_last": 95,
+      "chapter_json": "7_klass_utf8/chapter006/chapter.json"
+    },
+    "chapter007": {
+      "title": "Стандартные задачи",
+      "tasks_total": 81,
+      "tasks_first": 1,
+      "tasks_last": 81,
+      "chapter_json": "7_klass_utf8/chapter007/chapter.json"
+    },
+    "chapter008": {
+      "title": "Нестандартные задачи",
+      "tasks_total": 132,
+      "tasks_first": 1,
+      "tasks_last": 132,
+      "chapter_json": "7_klass_utf8/chapter008/chapter.json"
+    },
+    "chapter009": {
+      "title": "Геометрия задачи",
+      "tasks_total": 159,
+      "tasks_first": 1,
+      "tasks_last": 159,
+      "chapter_json": "7_klass_utf8/chapter009/chapter.json"
+    }
+  },
+  "8_klass_utf8": {
+    "chapter001": {
+      "title": "Числовые выражения задачи",
+      "tasks_total": 94,
+      "tasks_first": 1,
+      "tasks_last": 94,
+      "chapter_json": "8_klass_utf8/chapter001/chapter.json"
+    },
+    "chapter002": {
+      "title": "Преобразование буквенных выражений задачи",
+      "tasks_total": 105,
+      "tasks_first": 1,
+      "tasks_last": 105,
+      "chapter_json": "8_klass_utf8/chapter002/chapter.json"
+    },
+    "chapter003": {
+      "title": "Уравнения задачи",
+      "tasks_total": 125,
+      "tasks_first": 1,
+      "tasks_last": 125,
+      "chapter_json": "8_klass_utf8/chapter003/chapter.json"
+    },
+    "chapter004": {
+      "title": "Неравенства задачи",
+      "tasks_total": 101,
+      "tasks_first": 1,
+      "tasks_last": 101,
+      "chapter_json": "8_klass_utf8/chapter004/chapter.json"
+    },
+    "chapter005": {
+      "title": "Исследование функций и уравнений задачи",
+      "tasks_total": 147,
+      "tasks_first": 1,
+      "tasks_last": 147,
+      "chapter_json": "8_klass_utf8/chapter005/chapter.json"
+    },
+    "chapter006": {
+      "title": "Графики задачи",
+      "tasks_total": 116,
+      "tasks_first": 1,
+      "tasks_last": 116,
+      "chapter_json": "8_klass_utf8/chapter006/chapter.json"
+    },
+    "chapter007": {
+      "title": "Стандартные задачи",
+      "tasks_total": 88,
+      "tasks_first": 1,
+      "tasks_last": 88,
+      "chapter_json": "8_klass_utf8/chapter007/chapter.json"
+    },
+    "chapter008": {
+      "title": "Нестандартные задачи",
+      "tasks_total": 110,
+      "tasks_first": 1,
+      "tasks_last": 110,
+      "chapter_json": "8_klass_utf8/chapter008/chapter.json"
+    },
+    "chapter009": {
+      "title": "Геометрия задачи",
+      "tasks_total": 253,
+      "tasks_first": 1,
+      "tasks_last": 253,
+      "chapter_json": "8_klass_utf8/chapter009/chapter.json"
+    }
+  },
+  "9_klass_utf8": {
+    "chapter001": {
+      "title": "Числовые выражения задачи",
+      "tasks_total": 53,
+      "tasks_first": 1,
+      "tasks_last": 53,
+      "chapter_json": "9_klass_utf8/chapter001/chapter.json"
+    },
+    "chapter002": {
+      "title": "Преобразование буквенных выражений задачи",
+      "tasks_total": 53,
+      "tasks_first": 1,
+      "tasks_last": 53,
+      "chapter_json": "9_klass_utf8/chapter002/chapter.json"
+    },
+    "chapter003": {
+      "title": "Уравнения задачи",
+      "tasks_total": 145,
+      "tasks_first": 1,
+      "tasks_last": 145,
+      "chapter_json": "9_klass_utf8/chapter003/chapter.json"
+    },
+    "chapter004": {
+      "title": "Неравенства задачи",
+      "tasks_total": 95,
+      "tasks_first": 1,
+      "tasks_last": 95,
+      "chapter_json": "9_klass_utf8/chapter004/chapter.json"
+    },
+    "chapter005": {
+      "title": "Исследование функций и уравнений задачи",
+      "tasks_total": 94,
+      "tasks_first": 1,
+      "tasks_last": 94,
+      "chapter_json": "9_klass_utf8/chapter005/chapter.json"
+    },
+    "chapter006": {
+      "title": "Графики задачи",
+      "tasks_total": 101,
+      "tasks_first": 1,
+      "tasks_last": 101,
+      "chapter_json": "9_klass_utf8/chapter006/chapter.json"
+    },
+    "chapter007": {
+      "title": "Прогрессии задачи",
+      "tasks_total": 49,
+      "tasks_first": 1,
+      "tasks_last": 49,
+      "chapter_json": "9_klass_utf8/chapter007/chapter.json"
+    },
+    "chapter008": {
+      "title": "Тригонометрия задачи",
+      "tasks_total": 31,
+      "tasks_first": 1,
+      "tasks_last": 31,
+      "chapter_json": "9_klass_utf8/chapter008/chapter.json"
+    },
+    "chapter009": {
+      "title": "Стандартные задачи",
+      "tasks_total": 59,
+      "tasks_first": 1,
+      "tasks_last": 59,
+      "chapter_json": "9_klass_utf8/chapter009/chapter.json"
+    },
+    "chapter010": {
+      "title": "Нестандартные задачи",
+      "tasks_total": 45,
+      "tasks_first": 1,
+      "tasks_last": 45,
+      "chapter_json": "9_klass_utf8/chapter010/chapter.json"
+    },
+    "chapter011": {
+      "title": "Геометрия задачи",
+      "tasks_total": 215,
+      "tasks_first": 1,
+      "tasks_last": 215,
+      "chapter_json": "9_klass_utf8/chapter011/chapter.json"
+    }
+  }
+}
