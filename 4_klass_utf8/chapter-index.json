@@ -9,7 +9,7 @@
     "solutions_title": "Раздел 8: примеры без приёмов рациональных вычислений решения.",
     "problems_comment": "\\documentclass[12pt]{article}\n%\\usepackage{newlistok}\n\\usepackage[T1,T2A]{fontenc} %\n%\\usepackage[cp866]{inputenc} %\n\\usepackage[cp1251]{inputenc} %\n\\usepackage[russian]{babel} %\n\\usepackage{amsmath} %\n\\usepackage{amssymb}\n\\usepackage{graphicx}\n\\usepackage{pgfplots}\n\\graphicspath{{pictures/}}\n\\DeclareGraphicsExtensions{.pdf,.png,.jpg}\n\\pgfplotsset{compat=1.9}\n\\usepackage{tikz}\n\\textheight=257mm %\n\\textwidth =180mm\n%\\usepackage[active]{srcltx} %\n\\mathsurround=2pt %\n%\\textheight=185mm \\textwidth =120mm %\n\\textheight=257mm %\n\\textwidth =190mm %\n\\hoffset=-18mm %\n\\voffset=-41mm\n\\author{Л.С.\\;Михлин}\n\\title{Пособие для поступающих в 5 класс физико--математических школ}\n\\date{2020 --- ...}\n\\begin{document}\n\\newpage\n\\tableofcontents\n\\newpage\n\\section{Раздел 1: примеры без приёмов рациональных вычислений}\nВо всех примерах задача вычислить, если не написано иное.\\\\",
     "solutions_comment": "Все вычисления этого раздела выполняются в столбик и не требуют дополнительных указаний, поэтому приведём к ним только ответы.\n$\\begin{array}{lllllllllll}",
-    "problems_total": 108,
+    "problems_total": 118,
     "problems_first": 1,
     "problems_last": 132,
     "solutions_total": 25,

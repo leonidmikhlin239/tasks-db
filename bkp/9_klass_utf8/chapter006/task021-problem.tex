@@ -1,0 +1,22 @@
+21. Дано изображение графика функции $y=ax^2+bx+c$ (см. рис.). Определить знаки коэффициентов $a,\ b,\ c.$ Не забудьте обосновать ответ.
+$$\begin{tikzpicture}[scale=1]
+\begin{axis}[
+    axis lines = middle,
+    legend pos={south west},
+    %xlabel = {$x$},
+    %xlabel style={below right},
+    %ylabel = {$y$},
+    %title={$\text{Рис. 2}$},
+    ymin=-3,
+    ymax=3.8,
+    xmin=-3,
+    xmax=3.5,
+    xtick=\empty,
+	ytick=\empty,
+    ]
+	\addplot[domain=-1.4:3.4, samples=100, color=black] {0.2*(x^2-2*x-3)};
+	%\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw (2.75,5.7) node {\scriptsize $y$};
+\draw (7,2.2) node {\scriptsize $x$};
+\end{tikzpicture}$$

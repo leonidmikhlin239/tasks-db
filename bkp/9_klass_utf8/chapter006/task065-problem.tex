@@ -1,0 +1,23 @@
+66. Могут ли параболы на рисунке  быть графиками функций  $f(x)=ax^2+b_1x+c$ и $g(x)=cx^2+b_2x+a?$
+$$\begin{tikzpicture}[scale=1]
+\begin{axis}[
+    axis lines = middle,
+    legend pos={south west},
+    %xlabel = {$x$},
+    %xlabel style={below right},
+    %ylabel = {$y$},
+    %title={$\text{Рис. 2}$},
+    ymin=-5,
+    ymax=3.8,
+    xmin=-5.5,
+    xmax=7.5,
+    %xtick=\empty,
+	%ytick=\empty,
+    ]
+	\addplot[domain=-3:7, samples=100, color=red] {-0.3*((x-4)^2+4*(x-4)-1)-2.5};
+	\addplot[domain=-3:7, samples=100, color=blue] {0.3*((x-4)^2+4*(x-4)-5)};
+%\addlegendentry{$\text{Рис. 1}$};
+\end{axis}
+\draw (2.75,5.7) node {\scriptsize $y$};
+\draw (7,2.8) node {\scriptsize $x$};
+\end{tikzpicture}$$

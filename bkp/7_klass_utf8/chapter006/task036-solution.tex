@@ -1,0 +1,29 @@
+36. Найдём точку пересечения прямых $y=-3x$ и $y=x+12:\ -3x=x+12,\ -4x=12,\ x=-3,\ y=(-3)\cdot(-3)=9.$ Найдём функцию $y=kx+b,$ график которой проходит через точки
+$(-6;12)$ и $(-3;9):\ \begin{cases} 12=-6k+b,\\ 9=-3k+b.\end{cases}\Leftrightarrow \begin{cases} 3=-3k,\\ 9=-3k+b.\end{cases}
+\Leftrightarrow \begin{cases} k=-1,\\ b=6.\end{cases}$ Построим прямую $y=-x+6$ по двум точкам $(6;0)$ и $(0;6).$
+$$\begin{tikzpicture}[scale=0.1]
+\tikzset {line01/.style={line width =0.5pt}}
+\tikzset{line02/.style={line width =1pt}}
+\tikzset{line03/.style={dashed,line width =0.5pt}}
+%\filldraw [black] (0,0) circle (1pt);
+\draw [->] (-20,0) -- (10,0);
+\draw [->] (0,-20) -- (0,10);
+\draw[line01] (-5,11) -- (10,-4);
+%\draw[line03] (-3,16) -- (0,16);
+%\draw[line03] (-3,16) -- (-3,0);
+%\draw[line03] (4,0) -- (4,-5);
+%\draw[line03] (0,-5) -- (4,-5);
+%\draw[line03] (-1,1) -- (0,1);
+%\draw[line03] (-1,0) -- (-1,1);
+%\draw[line01] (0,-3) -- (-2,5);
+%\draw (0.6,-4) node {\tiny $-4$};
+%\draw (-1.6,-0.7) node {\tiny $-1$};
+\draw (10.2,2) node {\scriptsize $x$};
+%\draw (-3,-1) node {\tiny $-3$};
+%\draw (4,1.5) node {\tiny $4$};
+\draw (6,-1) node {\tiny $6$};
+\draw (1,6) node {\tiny $6$};
+%\draw (1,7) node {\tiny $7$};
+%\draw (1.9,16) node {\tiny $16$};
+\draw (-1.5,10.2) node {\scriptsize $y$};
+\end{tikzpicture}$$
