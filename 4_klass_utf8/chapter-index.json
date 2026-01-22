@@ -5,16 +5,8 @@
     "chapter_dir": "chapter001",
     "problems_file": "chapter001-problems.tex",
     "solutions_file": "chapter001-solutions.tex",
-    "problems_title": "Раздел 1: примеры без приёмов рациональных вычислений",
-    "solutions_title": "Раздел 8: примеры без приёмов рациональных вычислений решения.",
-    "problems_comment": "\\documentclass[12pt]{article}\n%\\usepackage{newlistok}\n\\usepackage[T1,T2A]{fontenc} %\n%\\usepackage[cp866]{inputenc} %\n\\usepackage[cp1251]{inputenc} %\n\\usepackage[russian]{babel} %\n\\usepackage{amsmath} %\n\\usepackage{amssymb}\n\\usepackage{graphicx}\n\\usepackage{pgfplots}\n\\graphicspath{{pictures/}}\n\\DeclareGraphicsExtensions{.pdf,.png,.jpg}\n\\pgfplotsset{compat=1.9}\n\\usepackage{tikz}\n\\textheight=257mm %\n\\textwidth =180mm\n%\\usepackage[active]{srcltx} %\n\\mathsurround=2pt %\n%\\textheight=185mm \\textwidth =120mm %\n\\textheight=257mm %\n\\textwidth =190mm %\n\\hoffset=-18mm %\n\\voffset=-41mm\n\\author{Л.С.\\;Михлин}\n\\title{Пособие для поступающих в 5 класс физико--математических школ}\n\\date{2020 --- ...}\n\\begin{document}\n\\newpage\n\\tableofcontents\n\\newpage\n\\section{Раздел 1: примеры без приёмов рациональных вычислений}\nВо всех примерах задача вычислить, если не написано иное.\\\\",
-    "solutions_comment": "Все вычисления этого раздела выполняются в столбик и не требуют дополнительных указаний, поэтому приведём к ним только ответы.\n$\\begin{array}{lllllllllll}",
     "problems_total": 118,
-    "problems_first": 1,
-    "problems_last": 132,
-    "solutions_total": 25,
-    "solutions_first": 1,
-    "solutions_last": 127
+    "solutions_total": 25
   },
   {
     "seq": 2,
@@ -22,16 +14,8 @@
     "chapter_dir": "chapter002",
     "problems_file": "chapter002-problems.tex",
     "solutions_file": "chapter002-solutions.tex",
-    "problems_title": "Раздел 2: примеры с приёмами рациональных вычислений",
-    "solutions_title": "Раздел 9: Примеры с приёмами рациональных вычислений решения.",
-    "problems_comment": "Во всех задачах необходимо применять вышеописанные приёмы, возможно по несколько раз.\\\\",
-    "solutions_comment": null,
     "problems_total": 48,
-    "problems_first": 1,
-    "problems_last": 48,
-    "solutions_total": 48,
-    "solutions_first": 1,
-    "solutions_last": 48
+    "solutions_total": 48
   },
   {
     "seq": 3,
@@ -39,16 +23,8 @@
     "chapter_dir": "chapter003",
     "problems_file": "chapter003-problems.tex",
     "solutions_file": "chapter003-solutions.tex",
-    "problems_title": "Раздел 3: уравнения задачи",
-    "solutions_title": "Раздел 10: Уравнения решения.",
-    "problems_comment": "$\\begin{array}{ll}",
-    "solutions_comment": null,
     "problems_total": 75,
-    "problems_first": 1,
-    "problems_last": 80,
-    "solutions_total": 80,
-    "solutions_first": 1,
-    "solutions_last": 80
+    "solutions_total": 80
   },
   {
     "seq": 4,
@@ -56,16 +32,8 @@
     "chapter_dir": "chapter004",
     "problems_file": "chapter004-problems.tex",
     "solutions_file": "chapter004-solutions.tex",
-    "problems_title": "Раздел 4: именованные величины: Задачи",
-    "solutions_title": "Раздел 11: Именованные величины решения.",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 340,
-    "problems_first": 1,
-    "problems_last": 341,
-    "solutions_total": 341,
-    "solutions_first": 1,
-    "solutions_last": 341
+    "solutions_total": 341
   },
   {
     "seq": 5,
@@ -73,16 +41,8 @@
     "chapter_dir": "chapter005",
     "problems_file": "chapter005-problems.tex",
     "solutions_file": "chapter005-solutions.tex",
-    "problems_title": "Раздел 5: стандартные задачи",
-    "solutions_title": "Раздел 12: Стандартные задачи: решения",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 338,
-    "problems_first": 1,
-    "problems_last": 338,
-    "solutions_total": 338,
-    "solutions_first": 1,
-    "solutions_last": 338
+    "solutions_total": 338
   },
   {
     "seq": 6,
@@ -90,16 +50,8 @@
     "chapter_dir": "chapter006",
     "problems_file": "chapter006-problems.tex",
     "solutions_file": "chapter006-solutions.tex",
-    "problems_title": "Раздел 6: ряды задачи",
-    "solutions_title": "Раздел 13: Ряды: решения.",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 120,
-    "problems_first": 1,
-    "problems_last": 120,
-    "solutions_total": 120,
-    "solutions_first": 1,
-    "solutions_last": 120
+    "solutions_total": 120
   },
   {
     "seq": 7,
@@ -107,15 +59,7 @@
     "chapter_dir": "chapter007",
     "problems_file": "chapter007-problems.tex",
     "solutions_file": "chapter007-solutions.tex",
-    "problems_title": "Раздел 7: Нестандартные задачи",
-    "solutions_title": "Раздел 14: нестандартные задачи: решения",
-    "problems_comment": "Большинство задач решаются при помощи теории, изложенной выше.\\\\",
-    "solutions_comment": null,
     "problems_total": 394,
-    "problems_first": 1,
-    "problems_last": 396,
-    "solutions_total": 395,
-    "solutions_first": 1,
-    "solutions_last": 396
+    "solutions_total": 395
   }
 ]

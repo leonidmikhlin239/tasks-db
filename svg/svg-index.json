@@ -1,0 +1,1407 @@
+[
+  {
+    "book": "4_klass_utf8",
+    "chapters": []
+  },
+  {
+    "book": "7_klass_utf8",
+    "chapters": [
+      {
+        "seq": 6,
+        "title": "Прямые на координатной плоскости задачи",
+        "tasks": [
+          {
+            "i": 1,
+            "problem_svgs": [
+              "task001-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 2,
+            "problem_svgs": [
+              "task002-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 5,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task005-solution-fig1"
+            ]
+          },
+          {
+            "i": 6,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task006-solution-fig1"
+            ]
+          },
+          {
+            "i": 11,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task011-solution-fig1"
+            ]
+          },
+          {
+            "i": 12,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task012-solution-fig1"
+            ]
+          },
+          {
+            "i": 13,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task013-solution-fig1"
+            ]
+          },
+          {
+            "i": 14,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task014-solution-fig1"
+            ]
+          },
+          {
+            "i": 17,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task017-solution-fig1"
+            ]
+          },
+          {
+            "i": 18,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task018-solution-fig1"
+            ]
+          },
+          {
+            "i": 21,
+            "problem_svgs": [
+              "task021-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 22,
+            "problem_svgs": [
+              "task022-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 23,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task023-solution-fig1"
+            ]
+          },
+          {
+            "i": 24,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task024-solution-fig1"
+            ]
+          },
+          {
+            "i": 25,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task025-solution-fig1"
+            ]
+          },
+          {
+            "i": 26,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task026-solution-fig1"
+            ]
+          },
+          {
+            "i": 29,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task029-solution-fig1"
+            ]
+          },
+          {
+            "i": 30,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task030-solution-fig1"
+            ]
+          },
+          {
+            "i": 31,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task031-solution-fig1"
+            ]
+          },
+          {
+            "i": 32,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task032-solution-fig1"
+            ]
+          },
+          {
+            "i": 33,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task033-solution-fig1"
+            ]
+          },
+          {
+            "i": 34,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task034-solution-fig1"
+            ]
+          },
+          {
+            "i": 35,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task035-solution-fig1"
+            ]
+          },
+          {
+            "i": 36,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task036-solution-fig1"
+            ]
+          },
+          {
+            "i": 37,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task037-solution-fig1"
+            ]
+          },
+          {
+            "i": 38,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task038-solution-fig1"
+            ]
+          },
+          {
+            "i": 47,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task047-solution-fig1",
+              "task047-solution-fig2"
+            ]
+          },
+          {
+            "i": 50,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task050-solution-fig1"
+            ]
+          },
+          {
+            "i": 51,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task051-solution-fig1"
+            ]
+          },
+          {
+            "i": 52,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task052-solution-fig1"
+            ]
+          },
+          {
+            "i": 54,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task054-solution-fig1"
+            ]
+          },
+          {
+            "i": 55,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task055-solution-fig1"
+            ]
+          },
+          {
+            "i": 56,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task056-solution-fig1"
+            ]
+          },
+          {
+            "i": 57,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task057-solution-fig1"
+            ]
+          },
+          {
+            "i": 58,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task058-solution-fig1"
+            ]
+          },
+          {
+            "i": 59,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task059-solution-fig1"
+            ]
+          },
+          {
+            "i": 60,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task060-solution-fig1"
+            ]
+          },
+          {
+            "i": 63,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task063-solution-fig1"
+            ]
+          },
+          {
+            "i": 64,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task064-solution-fig1"
+            ]
+          },
+          {
+            "i": 65,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task065-solution-fig1"
+            ]
+          },
+          {
+            "i": 66,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task066-solution-fig1"
+            ]
+          },
+          {
+            "i": 67,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task067-solution-fig1"
+            ]
+          },
+          {
+            "i": 70,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task070-solution-fig1"
+            ]
+          },
+          {
+            "i": 73,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task073-solution-fig1"
+            ]
+          },
+          {
+            "i": 74,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task074-solution-fig1"
+            ]
+          },
+          {
+            "i": 91,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task091-solution-fig1"
+            ]
+          },
+          {
+            "i": 92,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task092-solution-fig1"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "8_klass_utf8",
+    "chapters": [
+      {
+        "seq": 6,
+        "title": "Графики задачи",
+        "tasks": [
+          {
+            "i": 1,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task001-solution-fig1"
+            ]
+          },
+          {
+            "i": 2,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task002-solution-fig1"
+            ]
+          },
+          {
+            "i": 3,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task003-solution-fig1"
+            ]
+          },
+          {
+            "i": 4,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task004-solution-fig1"
+            ]
+          },
+          {
+            "i": 5,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task005-solution-fig1"
+            ]
+          },
+          {
+            "i": 6,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task006-solution-fig1"
+            ]
+          },
+          {
+            "i": 7,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task007-solution-fig1"
+            ]
+          },
+          {
+            "i": 8,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task008-solution-fig1"
+            ]
+          },
+          {
+            "i": 9,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task009-solution-fig1"
+            ]
+          },
+          {
+            "i": 10,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task010-solution-fig1"
+            ]
+          },
+          {
+            "i": 11,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task011-solution-fig1"
+            ]
+          },
+          {
+            "i": 12,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task012-solution-fig1"
+            ]
+          },
+          {
+            "i": 13,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task013-solution-fig1"
+            ]
+          },
+          {
+            "i": 14,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task014-solution-fig1"
+            ]
+          },
+          {
+            "i": 15,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task015-solution-fig1"
+            ]
+          },
+          {
+            "i": 16,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task016-solution-fig1"
+            ]
+          },
+          {
+            "i": 17,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task017-solution-fig1"
+            ]
+          },
+          {
+            "i": 18,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task018-solution-fig1"
+            ]
+          },
+          {
+            "i": 19,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task019-solution-fig1"
+            ]
+          },
+          {
+            "i": 20,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task020-solution-fig1"
+            ]
+          },
+          {
+            "i": 21,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task021-solution-fig1"
+            ]
+          },
+          {
+            "i": 22,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task022-solution-fig1"
+            ]
+          },
+          {
+            "i": 23,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task023-solution-fig1"
+            ]
+          },
+          {
+            "i": 26,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task026-solution-fig1"
+            ]
+          },
+          {
+            "i": 27,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task027-solution-fig1"
+            ]
+          },
+          {
+            "i": 28,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task028-solution-fig1"
+            ]
+          },
+          {
+            "i": 29,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task029-solution-fig1"
+            ]
+          },
+          {
+            "i": 32,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task032-solution-fig1"
+            ]
+          },
+          {
+            "i": 33,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task033-solution-fig1"
+            ]
+          },
+          {
+            "i": 36,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task036-solution-fig1"
+            ]
+          },
+          {
+            "i": 37,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task037-solution-fig1"
+            ]
+          },
+          {
+            "i": 38,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task038-solution-fig1"
+            ]
+          },
+          {
+            "i": 39,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task039-solution-fig1"
+            ]
+          },
+          {
+            "i": 42,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task042-solution-fig1"
+            ]
+          },
+          {
+            "i": 43,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task043-solution-fig1"
+            ]
+          },
+          {
+            "i": 47,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task047-solution-fig1"
+            ]
+          },
+          {
+            "i": 49,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task049-solution-fig1"
+            ]
+          },
+          {
+            "i": 50,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task050-solution-fig1"
+            ]
+          },
+          {
+            "i": 55,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task055-solution-fig1"
+            ]
+          },
+          {
+            "i": 56,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task056-solution-fig1"
+            ]
+          },
+          {
+            "i": 58,
+            "problem_svgs": [
+              "task058-problem-fig1",
+              "task058-problem-fig2",
+              "task058-problem-fig3",
+              "task058-problem-fig4"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 59,
+            "problem_svgs": [
+              "task059-problem-fig1",
+              "task059-problem-fig2",
+              "task059-problem-fig3",
+              "task059-problem-fig4"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 61,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task061-solution-fig1"
+            ]
+          },
+          {
+            "i": 62,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task062-solution-fig1"
+            ]
+          },
+          {
+            "i": 64,
+            "problem_svgs": [
+              "task064-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 65,
+            "problem_svgs": [
+              "task065-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 67,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task067-solution-fig1"
+            ]
+          },
+          {
+            "i": 68,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task068-solution-fig1"
+            ]
+          },
+          {
+            "i": 70,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task070-solution-fig1"
+            ]
+          },
+          {
+            "i": 71,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task071-solution-fig1"
+            ]
+          },
+          {
+            "i": 72,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task072-solution-fig1"
+            ]
+          },
+          {
+            "i": 75,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task075-solution-fig1"
+            ]
+          },
+          {
+            "i": 79,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task079-solution-fig1"
+            ]
+          },
+          {
+            "i": 80,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task080-solution-fig1"
+            ]
+          },
+          {
+            "i": 82,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task082-solution-fig1"
+            ]
+          },
+          {
+            "i": 83,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task083-solution-fig1"
+            ]
+          },
+          {
+            "i": 84,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task084-solution-fig1"
+            ]
+          },
+          {
+            "i": 93,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task093-solution-fig1"
+            ]
+          },
+          {
+            "i": 94,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task094-solution-fig1"
+            ]
+          },
+          {
+            "i": 95,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task095-solution-fig1"
+            ]
+          },
+          {
+            "i": 96,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task096-solution-fig1"
+            ]
+          },
+          {
+            "i": 103,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task103-solution-fig1"
+            ]
+          },
+          {
+            "i": 104,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task104-solution-fig1"
+            ]
+          },
+          {
+            "i": 105,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task105-solution-fig1"
+            ]
+          },
+          {
+            "i": 106,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task106-solution-fig1"
+            ]
+          },
+          {
+            "i": 107,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task107-solution-fig1"
+            ]
+          },
+          {
+            "i": 108,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task108-solution-fig1"
+            ]
+          },
+          {
+            "i": 109,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task109-solution-fig1"
+            ]
+          },
+          {
+            "i": 110,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task110-solution-fig1"
+            ]
+          },
+          {
+            "i": 115,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task115-solution-fig1",
+              "task115-solution-fig2"
+            ]
+          },
+          {
+            "i": 116,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task116-solution-fig1",
+              "task116-solution-fig2"
+            ]
+          }
+        ]
+      },
+      {
+        "seq": 9,
+        "title": "Геометрия задачи",
+        "tasks": [
+          {
+            "i": 19,
+            "problem_svgs": [
+              "task019-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 20,
+            "problem_svgs": [
+              "task020-problem-fig1"
+            ],
+            "solution_svgs": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book": "9_klass_utf8",
+    "chapters": [
+      {
+        "seq": 4,
+        "title": "Неравенства задачи",
+        "tasks": [
+          {
+            "i": 72,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task072-solution-fig1"
+            ]
+          }
+        ]
+      },
+      {
+        "seq": 5,
+        "title": "Исследование функций и уравнений задачи",
+        "tasks": [
+          {
+            "i": 56,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task056-solution-fig1"
+            ]
+          },
+          {
+            "i": 82,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task082-solution-fig1"
+            ]
+          }
+        ]
+      },
+      {
+        "seq": 6,
+        "title": "Графики задачи",
+        "tasks": [
+          {
+            "i": 1,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task001-solution-fig1"
+            ]
+          },
+          {
+            "i": 2,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task002-solution-fig1"
+            ]
+          },
+          {
+            "i": 3,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task003-solution-fig1"
+            ]
+          },
+          {
+            "i": 4,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task004-solution-fig1"
+            ]
+          },
+          {
+            "i": 5,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task005-solution-fig1"
+            ]
+          },
+          {
+            "i": 6,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task006-solution-fig1"
+            ]
+          },
+          {
+            "i": 7,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task007-solution-fig1"
+            ]
+          },
+          {
+            "i": 8,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task008-solution-fig1"
+            ]
+          },
+          {
+            "i": 17,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task017-solution-fig1"
+            ]
+          },
+          {
+            "i": 18,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task018-solution-fig1"
+            ]
+          },
+          {
+            "i": 19,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task019-solution-fig1"
+            ]
+          },
+          {
+            "i": 20,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task020-solution-fig1"
+            ]
+          },
+          {
+            "i": 21,
+            "problem_svgs": [
+              "task021-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 22,
+            "problem_svgs": [
+              "task022-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 23,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task023-solution-fig1"
+            ]
+          },
+          {
+            "i": 24,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task024-solution-fig1"
+            ]
+          },
+          {
+            "i": 25,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task025-solution-fig1"
+            ]
+          },
+          {
+            "i": 26,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task026-solution-fig1"
+            ]
+          },
+          {
+            "i": 27,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task027-solution-fig1"
+            ]
+          },
+          {
+            "i": 28,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task028-solution-fig1"
+            ]
+          },
+          {
+            "i": 29,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task029-solution-fig1"
+            ]
+          },
+          {
+            "i": 30,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task030-solution-fig1"
+            ]
+          },
+          {
+            "i": 31,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task031-solution-fig1"
+            ]
+          },
+          {
+            "i": 32,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task032-solution-fig1"
+            ]
+          },
+          {
+            "i": 37,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task037-solution-fig1"
+            ]
+          },
+          {
+            "i": 38,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task038-solution-fig1"
+            ]
+          },
+          {
+            "i": 39,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task039-solution-fig1"
+            ]
+          },
+          {
+            "i": 40,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task040-solution-fig1"
+            ]
+          },
+          {
+            "i": 41,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task041-solution-fig1"
+            ]
+          },
+          {
+            "i": 42,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task042-solution-fig1"
+            ]
+          },
+          {
+            "i": 43,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task043-solution-fig1"
+            ]
+          },
+          {
+            "i": 44,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task044-solution-fig1"
+            ]
+          },
+          {
+            "i": 45,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task045-solution-fig1"
+            ]
+          },
+          {
+            "i": 46,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task046-solution-fig1"
+            ]
+          },
+          {
+            "i": 49,
+            "problem_svgs": [
+              "task049-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 50,
+            "problem_svgs": [
+              "task050-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 51,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task051-solution-fig1"
+            ]
+          },
+          {
+            "i": 52,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task052-solution-fig1"
+            ]
+          },
+          {
+            "i": 55,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task055-solution-fig1"
+            ]
+          },
+          {
+            "i": 56,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task056-solution-fig1"
+            ]
+          },
+          {
+            "i": 57,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task057-solution-fig1"
+            ]
+          },
+          {
+            "i": 58,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task058-solution-fig1"
+            ]
+          },
+          {
+            "i": 61,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task061-solution-fig1"
+            ]
+          },
+          {
+            "i": 62,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task062-solution-fig1"
+            ]
+          },
+          {
+            "i": 63,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task063-solution-fig1"
+            ]
+          },
+          {
+            "i": 64,
+            "problem_svgs": [
+              "task064-problem-fig1"
+            ],
+            "solution_svgs": [
+              "task064-solution-fig1"
+            ]
+          },
+          {
+            "i": 65,
+            "problem_svgs": [
+              "task065-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 67,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task067-solution-fig1"
+            ]
+          },
+          {
+            "i": 68,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task068-solution-fig1"
+            ]
+          },
+          {
+            "i": 69,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task069-solution-fig1"
+            ]
+          },
+          {
+            "i": 70,
+            "problem_svgs": [
+              "task070-problem-fig1"
+            ],
+            "solution_svgs": [
+              "task070-solution-fig1"
+            ]
+          },
+          {
+            "i": 71,
+            "problem_svgs": [
+              "task071-problem-fig1"
+            ],
+            "solution_svgs": []
+          },
+          {
+            "i": 73,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task073-solution-fig1"
+            ]
+          },
+          {
+            "i": 83,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task083-solution-fig1"
+            ]
+          },
+          {
+            "i": 84,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task084-solution-fig1"
+            ]
+          },
+          {
+            "i": 86,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task086-solution-fig1"
+            ]
+          },
+          {
+            "i": 87,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task087-solution-fig1"
+            ]
+          },
+          {
+            "i": 88,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task088-solution-fig1"
+            ]
+          },
+          {
+            "i": 92,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task092-solution-fig1"
+            ]
+          },
+          {
+            "i": 94,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task094-solution-fig1"
+            ]
+          },
+          {
+            "i": 95,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task095-solution-fig1",
+              "task095-solution-fig2"
+            ]
+          },
+          {
+            "i": 98,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task098-solution-fig1"
+            ]
+          },
+          {
+            "i": 99,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task099-solution-fig1"
+            ]
+          },
+          {
+            "i": 100,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task100-solution-fig1"
+            ]
+          },
+          {
+            "i": 101,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task101-solution-fig1"
+            ]
+          }
+        ]
+      },
+      {
+        "seq": 8,
+        "title": "Тригонометрия задачи",
+        "tasks": [
+          {
+            "i": 7,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task007-solution-fig1"
+            ]
+          },
+          {
+            "i": 8,
+            "problem_svgs": [],
+            "solution_svgs": [
+              "task008-solution-fig1"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
