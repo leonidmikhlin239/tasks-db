@@ -5,16 +5,8 @@
     "chapter_dir": "chapter001",
     "problems_file": "chapter001-problems.tex",
     "solutions_file": "chapter001-solutions.tex",
-    "problems_title": "Числовые выражения задачи",
-    "solutions_title": "Числовые выражения решения",
-    "problems_comment": "\\documentclass[12pt]{article}\n%\\usepackage{newlistok}\n\\usepackage[T1,T2A]{fontenc} %\n%\\usepackage[cp866]{inputenc} %\n\\usepackage[cp1251]{inputenc} %\n\\usepackage[russian]{babel} %\n\\usepackage{amsmath} %\n\\usepackage{amssymb}\n\\usepackage{pgfplots}\n\\graphicspath{{pictures/}}\n\\DeclareGraphicsExtensions{.pdf,.png,.jpg}\n\\pgfplotsset{compat=1.9}\n\\usepackage{tikz}\n\\textheight=257mm %\n\\textwidth =180mm\n%\\usepackage[active]{srcltx} %\n\\mathsurround=2pt %\n%\\textheight=185mm \\textwidth =120mm %\n\\textheight=257mm %\n\\textwidth =190mm %\n\\hoffset=-18mm %\n\\voffset=-41mm\n\\author{Л.С.Михлин}\n\\title{Пособие для поступающих в 8---10 классы физико--математических школ}\n\\date{2020 --- ...}\n\\begin{document}\n\\maketitle\n\\newpage\n\\tableofcontents\n\\newpage\n\\section{Числовые выражения задачи}",
-    "solutions_comment": null,
     "problems_total": 92,
-    "problems_first": 1,
-    "problems_last": 94,
-    "solutions_total": 94,
-    "solutions_first": 1,
-    "solutions_last": 94
+    "solutions_total": 94
   },
   {
     "seq": 2,
@@ -22,16 +14,8 @@
     "chapter_dir": "chapter002",
     "problems_file": "chapter002-problems.tex",
     "solutions_file": "chapter002-solutions.tex",
-    "problems_title": "Преобразование буквенных выражений задачи",
-    "solutions_title": "Преобразование буквенных выражений решения",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 102,
-    "problems_first": 1,
-    "problems_last": 105,
-    "solutions_total": 105,
-    "solutions_first": 1,
-    "solutions_last": 105
+    "solutions_total": 105
   },
   {
     "seq": 3,
@@ -39,16 +23,8 @@
     "chapter_dir": "chapter003",
     "problems_file": "chapter003-problems.tex",
     "solutions_file": "chapter003-solutions.tex",
-    "problems_title": "Уравнения задачи",
-    "solutions_title": "Уравнения решения",
-    "problems_comment": "$\\begin{array}{ll}",
-    "solutions_comment": null,
     "problems_total": 125,
-    "problems_first": 1,
-    "problems_last": 125,
-    "solutions_total": 125,
-    "solutions_first": 1,
-    "solutions_last": 125
+    "solutions_total": 125
   },
   {
     "seq": 4,
@@ -56,16 +32,8 @@
     "chapter_dir": "chapter004",
     "problems_file": "chapter004-problems.tex",
     "solutions_file": "chapter004-solutions.tex",
-    "problems_title": "Неравенства задачи",
-    "solutions_title": "Неравенства решения",
-    "problems_comment": "$\\begin{array}{ll}",
-    "solutions_comment": null,
     "problems_total": 98,
-    "problems_first": 1,
-    "problems_last": 101,
-    "solutions_total": 101,
-    "solutions_first": 1,
-    "solutions_last": 101
+    "solutions_total": 101
   },
   {
     "seq": 5,
@@ -73,16 +41,8 @@
     "chapter_dir": "chapter005",
     "problems_file": "chapter005-problems.tex",
     "solutions_file": "chapter005-solutions.tex",
-    "problems_title": "Исследование функций и уравнений задачи",
-    "solutions_title": "Исследование функций и уравнений решения",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 147,
-    "problems_first": 1,
-    "problems_last": 147,
-    "solutions_total": 146,
-    "solutions_first": 1,
-    "solutions_last": 147
+    "solutions_total": 146
   },
   {
     "seq": 6,
@@ -90,16 +50,8 @@
     "chapter_dir": "chapter006",
     "problems_file": "chapter006-problems.tex",
     "solutions_file": "chapter006-solutions.tex",
-    "problems_title": "Графики задачи",
-    "solutions_title": "Графики решения",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 115,
-    "problems_first": 1,
-    "problems_last": 116,
-    "solutions_total": 116,
-    "solutions_first": 1,
-    "solutions_last": 116
+    "solutions_total": 116
   },
   {
     "seq": 7,
@@ -107,16 +59,8 @@
     "chapter_dir": "chapter007",
     "problems_file": "chapter007-problems.tex",
     "solutions_file": "chapter007-solutions.tex",
-    "problems_title": "Стандартные задачи",
-    "solutions_title": "Стандартные задачи решения",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 88,
-    "problems_first": 1,
-    "problems_last": 88,
-    "solutions_total": 88,
-    "solutions_first": 1,
-    "solutions_last": 88
+    "solutions_total": 88
   },
   {
     "seq": 8,
@@ -124,16 +68,8 @@
     "chapter_dir": "chapter008",
     "problems_file": "chapter008-problems.tex",
     "solutions_file": "chapter008-solutions.tex",
-    "problems_title": "Нестандартные задачи",
-    "solutions_title": "Нестандартные задачи решения",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 110,
-    "problems_first": 1,
-    "problems_last": 102,
-    "solutions_total": 102,
-    "solutions_first": 1,
-    "solutions_last": 102
+    "solutions_total": 102
   },
   {
     "seq": 9,
@@ -141,15 +77,7 @@
     "chapter_dir": "chapter009",
     "problems_file": "chapter009-problems.tex",
     "solutions_file": "chapter009-solutions.tex",
-    "problems_title": "Геометрия задачи",
-    "solutions_title": "Геометрия решения",
-    "problems_comment": null,
-    "solutions_comment": null,
     "problems_total": 252,
-    "problems_first": 1,
-    "problems_last": 253,
-    "solutions_total": 253,
-    "solutions_first": 1,
-    "solutions_last": 253
+    "solutions_total": 253
   }
 ]
